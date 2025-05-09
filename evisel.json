@@ -1,0 +1,86 @@
+{
+   "events":[
+      {
+         "id":"evt_001",
+         "title":"Concert Live - Festival d'Été",
+         "description":"Un concert exceptionnel avec plusieurs caméras en direct pour une immersion totale.",
+         "location":"Parc des Expositions, Paris",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Concert_stage_lights.jpg",
+         "streams":[
+            {
+               "id":"stream_01",
+               "title":"Vue principale - Scène",
+               "description":"Caméra centrée sur la scène principale.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Live_concert_stage.jpg",
+               "language":"fr"
+            },
+            {
+               "id":"stream_02",
+               "title":"Vue du public",
+               "description":"Vue immersive depuis le public.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Crowd_at_concert.jpg",
+               "language":"fr"
+            },
+            {
+               "id":"stream_03",
+               "title":"Caméra drone",
+               "description":"Plans aériens de l'événement filmés par drone.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/d/db/Drone_aerial_photo.jpg",
+               "language":"sans"
+            },
+            {
+               "id":"stream_04",
+               "title":"Backstage",
+               "description":"Accès exclusif aux coulisses du concert.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/f4/Backstage_concert_area.jpg",
+               "language":"fr"
+            }
+         ]
+      },
+      {
+         "id":"evt_002",
+         "title":"Conférence Tech - Innovation 2025",
+         "description":"Une journée dédiée aux dernières innovations technologiques, avec des keynotes, panels et démos.",
+         "location":"Palais des Congrès, Lyon",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/5/58/Tech_conference_stage.jpg",
+         "streams":[
+            {
+               "id":"stream_05",
+               "title":"Auditorium Principal",
+               "description":"Interventions principales en direct.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Conference_audience.jpg",
+               "language":"en"
+            },
+            {
+               "id":"stream_06",
+               "title":"Ateliers Techniques",
+               "description":"Sessions pratiques en petits groupes.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Tech_workshop.jpg",
+               "language":"fr"
+            },
+            {
+               "id":"stream_07",
+               "title":"Espace Exposition",
+               "description":"Découverte des stands et démonstrations live.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Tech_expo_hall.jpg",
+               "language":"fr"
+            },
+            {
+               "id":"stream_08",
+               "title":"Interviews VIP",
+               "description":"Interviews exclusives avec les intervenants.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_interview.jpg",
+               "language":"en"
+            }
+         ]
+      }
+   ]
+}
