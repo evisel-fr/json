@@ -19,7 +19,7 @@
                "id":"stream_02",
                "title":"Vue du public",
                "description":"Vue immersive depuis le public.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Crowd_at_concert.jpg",
                "language":"fr"
             },
@@ -52,7 +52,7 @@
                "id":"stream_05",
                "title":"Auditorium Principal",
                "description":"Interventions principales en direct.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Conference_audience.jpg",
                "language":"en"
             },
@@ -60,7 +60,7 @@
                "id":"stream_06",
                "title":"Ateliers Techniques",
                "description":"Sessions pratiques en petits groupes.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Tech_workshop.jpg",
                "language":"fr"
             },
@@ -68,7 +68,7 @@
                "id":"stream_07",
                "title":"Espace Exposition",
                "description":"Découverte des stands et démonstrations live.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Tech_expo_hall.jpg",
                "language":"fr"
             },
