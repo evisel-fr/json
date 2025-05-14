@@ -76,7 +76,7 @@
                "id":"stream_08",
                "title":"Interviews VIP",
                "description":"Interviews exclusives avec les intervenants.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_interview.jpg",
                "language":"en"
             }
