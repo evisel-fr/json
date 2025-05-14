@@ -19,7 +19,7 @@
                "id":"stream_02",
                "title":"Vue du public",
                "description":"Vue immersive depuis le public.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Crowd_at_concert.jpg",
                "language":"fr"
             },
@@ -27,7 +27,7 @@
                "id":"stream_03",
                "title":"Caméra drone",
                "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/d/db/Drone_aerial_photo.jpg",
                "language":"sans"
             },
