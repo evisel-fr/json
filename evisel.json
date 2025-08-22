@@ -19,7 +19,7 @@
                "id":"stream_02",
                "title":"Vue du public",
                "description":"Vue immersive depuis le public.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
@@ -27,7 +27,7 @@
                "id":"stream_03",
                "title":"Caméra drone",
                "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"sans"
             },
@@ -35,7 +35,7 @@
                "id":"stream_04",
                "title":"Backstage",
                "description":"Accès exclusif aux coulisses du concert.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             }
@@ -49,23 +49,23 @@
          "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
          "streams":[
             {
-               "id":"stream_05",
+               "id":"stream_01",
                "title":"Auditorium Principal",
                "description":"Interventions principales en direct.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
             },
             {
-               "id":"stream_06",
+               "id":"stream_02",
                "title":"Ateliers Techniques",
                "description":"Sessions pratiques en petits groupes.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
             {
-               "id":"stream_07",
+               "id":"stream_03",
                "title":"Espace Exposition",
                "description":"Découverte des stands et démonstrations live.",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
@@ -73,10 +73,10 @@
                "language":"fr"
             },
             {
-               "id":"stream_08",
+               "id":"stream_04",
                "title":"Interviews VIP",
                "description":"Interviews exclusives avec les intervenants.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"en"
             }
