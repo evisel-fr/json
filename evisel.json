@@ -11,7 +11,7 @@
                "id":"stream_01",
                "title":"Vue principale - Scène",
                "description":"Caméra centrée sur la scène principale.",
-               "url":"http://cloud.inod.solutions/test/video/360/OuessantIsland8k_10_12_2024.mp4",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
@@ -19,7 +19,7 @@
                "id":"stream_02",
                "title":"Vue du public",
                "description":"Vue immersive depuis le public.",
-               "url":"http://cloud.inod.solutions/test/video/360/sortie2.flv",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
@@ -27,7 +27,7 @@
                "id":"stream_03",
                "title":"Caméra drone",
                "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"http://cloud.inod.solutions/test/video/360/OuessantIsland8k_10_12_2024.mp4",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"sans"
             },
@@ -35,7 +35,7 @@
                "id":"stream_04",
                "title":"Backstage",
                "description":"Accès exclusif aux coulisses du concert.",
-               "url":"http://cloud.inod.solutions/test/video/360/sortie2.flv",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             }
