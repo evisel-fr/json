@@ -3,7 +3,7 @@
       {
          "id":"evt_001",
          "title":"blue Sport : Servette FC vs Lugano",
-         "description":"Vivez en direct le choc Servette FC vs Lugano, une affiche spectaculaire à suivre exclusivement sur blue Sport !",
+         "description":"Vivez en direct le choc Servette FC vs Lugano !",
          "location":"Stade de Genève",
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/Affiche-foot.jpg",
          "streams":[
@@ -44,7 +44,7 @@
       {
          "id":"evt_002",
          "title":"KOF 10 – Le Gala MMA de l’Année !",
-         "description":"Plongez au cœur de l’action avec KOF 10, le gala MMA explosif qui promet des combats intenses et spectaculaires !",
+         "description":"Plongez au cœur de l’action avec KOF 10 !",
          "location":"Zénith Clermont-Ferrand",
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/KOF-10.jpeg",
          "streams":[
@@ -85,9 +85,9 @@
       {
          "id":"evt_003",
          "title":"MY SPORTS : EV Zug vs Genève-Servette",
-         "description":"Assistez au duel explosif entre EV Zug et Genève-Servette, un match de National League à suivre en live sur MySports !",
+         "description":"Assistez au duel explosif entre EV Zug et Genève-Servette !",
          "location":"Patinoire des Vernets, Genève",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/Affiche-Hockey.webp",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/affiche-hockey-copie.jpg",
          "streams":[
             {
                "id":"stream_01",
