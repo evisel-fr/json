@@ -2,10 +2,10 @@
    "events":[
       {
          "id":"evt_001",
-         "title":"Concert Live - Festival d'Été",
-         "description":"Un concert exceptionnel avec plusieurs caméras en direct pour une immersion totale.",
-         "location":"Parc des Expositions, Paris",
-         "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+         "title":"blue Sport : Servette FC vs Lugano"
+         "description":"Vivez en direct le choc Servette FC vs Lugano, une affiche spectaculaire à suivre exclusivement sur blue Sport !",
+         "location":"Stade de Genève",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/Affiche-foot.jpg",
          "streams":[
             {
                "id":"stream_01",
@@ -43,10 +43,51 @@
       },
       {
          "id":"evt_002",
-         "title":"Conférence Tech - Innovation 2025",
-         "description":"Une journée dédiée aux dernières innovations technologiques, avec des keynotes, panels et démos.",
-         "location":"Palais des Congrès, Lyon",
-         "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+         "title":"KOF 10 – Le Gala MMA de l’Année !",
+         "description":"Plongez au cœur de l’action avec KOF 10, le gala MMA explosif qui promet des combats intenses et spectaculaires !",
+         "location":"Zénith Clermont-Ferrand",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/KOF-10.jpeg",
+         "streams":[
+            {
+               "id":"stream_01",
+               "title":"Vue principale - Scène",
+               "description":"Caméra centrée sur la scène principale.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "language":"fr"
+            },
+            {
+               "id":"stream_02",
+               "title":"Vue du public",
+               "description":"Vue immersive depuis le public.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "language":"fr"
+            },
+            {
+               "id":"stream_03",
+               "title":"Caméra drone",
+               "description":"Plans aériens de l'événement filmés par drone.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "language":"sans"
+            },
+            {
+               "id":"stream_04",
+               "title":"Backstage",
+               "description":"Accès exclusif aux coulisses du concert.",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "language":"fr"
+            }
+         ]
+      },
+      {
+         "id":"evt_003",
+         "title":"MY SPORTS : EV Zug vs Genève-Servette",
+         "description":"Assistez au duel explosif entre EV Zug et Genève-Servette, un match de National League à suivre en live sur MySports !",
+         "location":"Patinoire des Vernets, Genève",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/Affiche-Hockey.webp",
          "streams":[
             {
                "id":"stream_01",
