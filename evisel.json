@@ -2,16 +2,16 @@
    "events":[
       {
          "id":"evt_001",
-         "title":"blue Sport : Servette FC vs Lugano",
-         "description":"Vivez le choc en direct !",
-         "location":"Stade de Genève",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/09/Blus-vignette.jpg",
+         "title":"Issa boxing club",
+         "description":"Bakary sera en situation de combat au IBC Boxing Club, à 15 jours de sa prochaine échéance.",
+         "location":"Champs sur marne",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
          "streams":[
             {
                "id":"stream_01",
                "title":"Vue principale - Scène",
                "description":"Caméra centrée sur la scène principale.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"http://1305308197.vod2.myqcloud.com/e221e1a0voduse1305308197/dfcdf1655145403701342779756/49yJVz214hEA.mp4",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
