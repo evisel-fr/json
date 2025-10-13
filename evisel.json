@@ -11,7 +11,7 @@
                "id":"stream_01",
                "title":"Vue du public",
                "description":"Caméra centrée sur la scène principale.",
-               "url":"https://cdn.jumpr.fr/Bakary-Samake/playlist.m3u8",
+               "url":"https://cdn.jumpr.fr/Ousmane-Dembele/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
@@ -19,7 +19,7 @@
                "id":"stream_02",
                "title":"Vue du public",
                "description":"Vue immersive depuis le public.",
-               "url":"https://cdn.jumpr.fr/Bakary-Samake-3D/playlist.m3u8",
+               "url":"https://cdn.jumpr.fr/Ousmane-Dembele/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             },
@@ -27,7 +27,7 @@
                "id":"stream_03",
                "title":"Caméra drone",
                "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"http://1305308197.vod2.myqcloud.com/e221e1a0voduse1305308197/97bf9a0a5145403701562349989/njBzPfXdAcoA.mp4",
+               "url":"https://cdn.jumpr.fr/Ousmane-Dembele/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"sans"
             },
