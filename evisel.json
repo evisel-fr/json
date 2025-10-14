@@ -14,69 +14,21 @@
                "url":"https://cdn.jumpr.fr/Ousmane/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
-            },
-            {
-               "id":"stream_02",
-               "title":"Vue du public",
-               "description":"Vue immersive depuis le public.",
-               "url":"https://cdn.jumpr.fr/Bakary-Samake/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            },
-            {
-               "id":"stream_03",
-               "title":"Caméra drone",
-               "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"https://cdn.jumpr.fr/Ousmane-Dembele/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"sans"
-            },
-            {
-               "id":"stream_04",
-               "title":"Backstage",
-               "description":"Accès exclusif aux coulisses du concert.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
             }
          ]
       },
       {
          "id":"evt_002",
-         "title":"....",
-         "description":"....",
-         "location":"....",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
+         "title":"Bakary Samake",
+         "description":"Bakary Samake en sparring à 2 semaines de son combat contre Ortiz",
+         "location":"Champs sur Marne",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
          "streams":[
             {
                "id":"stream_01",
                "title":"Vue principale - Scène",
                "description":"Caméra centrée sur la scène principale.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            },
-            {
-               "id":"stream_02",
-               "title":"Vue du public",
-               "description":"Vue immersive depuis le public.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            },
-            {
-               "id":"stream_03",
-               "title":"Caméra drone",
-               "description":"Plans aériens de l'événement filmés par drone.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"sans"
-            },
-            {
-               "id":"stream_04",
-               "title":"Backstage",
-               "description":"Accès exclusif aux coulisses du concert.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
+               "url":"https://cdn.jumpr.fr/Bakary-Samake/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
             }
@@ -84,42 +36,35 @@
       },
       {
          "id":"evt_003",
-         "title":"....",
-         "description":"....",
-         "location":"....",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
+         "title":"Servette FC",
+         "description":"Le Servette FC fête ses 135 ans !",
+         "location":"Genève",
+         "thumbnail":"https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
          "streams":[
             {
                "id":"stream_01",
                "title":"Auditorium Principal",
                "description":"Interventions principales en direct.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
+               "url":"https://cdn.jumpr.fr/Servette-FC/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
-            },
+            }
+         ]
+      },
+      {
+         "id":"evt_004",
+         "title":"Jeudi Electro",
+         "description":"Le grand retour de la Piscine de Thonon !",
+         "location":"Thonon les bains",
+         "thumbnail":"https://res.cloudinary.com/shotgun/image/upload/c_limit,w_3840/fl_lossy/f_auto/q_auto/c_limit,f_auto,fl_lossy,q_auto,w_1920/v1745744335/production/artworks/LJE25_SHOTGUN_1_infnud",
+         "streams":[
             {
-               "id":"stream_02",
-               "title":"Ateliers Techniques",
-               "description":"Sessions pratiques en petits groupes.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
+               "id":"stream_01",
+               "title":"Vue du DJ",
+               "description":"Caméra centrée sur la scène principale.",
+               "url":"https://cdn.jumpr.fr/Jeudi-Electro/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
-            },
-            {
-               "id":"stream_03",
-               "title":"Espace Exposition",
-               "description":"Découverte des stands et démonstrations live.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera3",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "language":"fr"
-            },
-            {
-               "id":"stream_04",
-               "title":"Interviews VIP",
-               "description":"Interviews exclusives avec les intervenants.",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera4",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"en"
             }
          ]
       }
