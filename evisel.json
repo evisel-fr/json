@@ -9,7 +9,7 @@
          "streams":[
             {
                "id":"stream_01",
-               "title":"Vue du public",
+               "title":"Vue de la scène",
                "description":"Caméra centrée sur la scène principale.",
                "url":"https://cdn.jumpr.fr/Ousmane/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
@@ -26,8 +26,8 @@
          "streams":[
             {
                "id":"stream_01",
-               "title":"Vue principale - Scène",
-               "description":"Caméra centrée sur la scène principale.",
+               "title":"Vue du ring",
+               "description":"Caméra centrée sur le ring.",
                "url":"https://cdn.jumpr.fr/Bakary-sparring/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "language":"fr"
@@ -43,9 +43,17 @@
          "streams":[
             {
                "id":"stream_01",
-               "title":"Auditorium Principal",
-               "description":"Interventions principales en direct.",
-               "url":"https://cdn.jumpr.fr/Servette-FC/playlist.m3u8",
+               "title":"Entrainement",
+               "description":"Caméra au milieu du terrain.",
+               "url":"https://cdn.jumpr.fr/Servette-Entrainement/playlist.m3u8",
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+               "language":"en"
+            },
+            {
+               "id":"stream_02",
+               "title":"Game show",
+               "description":"Caméra au milieu du terrain.",
+               "url":"https://cdn.jumpr.fr/Servette-GameShow/playlist.m3u8",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
             }
