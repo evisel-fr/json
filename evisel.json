@@ -5,7 +5,7 @@
          "title":"Ballon d'Or",
          "description":"les images d'Ousmane Dembélé à Évreux",
          "location":"Évreux",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+         "thumbnail_video":"https://cdn.jumpr.fr/Accueil/playlist.m3u8",
          "streams":[
             {
                "id":"stream_01",
