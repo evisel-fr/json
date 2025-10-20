@@ -5,7 +5,7 @@
          "title":"Ballon d'Or",
          "description":"les images d'Ousmane Dembélé à Évreux",
          "location":"Évreux",
-         "thumbnail_video":"https://cdn.jumpr.fr/Accueil/playlist.m3u8",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
          "streams":[
             {
                "id":"stream_01",
@@ -19,10 +19,10 @@
       },
       {
          "id":"evt_002",
-         "title":"Bakary Samake",
-         "description":"Bakary Samake en sparring à 2 semaines de son combat contre Ortiz",
-         "location":"Champs sur Marne",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+         "title":"Fight Nation",
+         "description":"N'importe où, n'importe quand, sur n'importe quel support.",
+         "location":"Monaco",
+         "thumbnail":"https://play-lh.googleusercontent.com/1PPlYnJDJzODRDZZ93GtAf6y9rn_JV8iFAiet0q8SZ3rdbXhH3aqtuB0dsuWqspGJLBc",
          "streams":[
             {
                "id":"stream_01",
