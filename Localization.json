@@ -1,0 +1,52 @@
+{
+  "English": {
+    "Home": "Home",
+    "Live": "Live",
+    "Come": "Soon",
+    "Replay": "Replay",
+    "Account": "Account",
+    "VideoEnabled": "Available videos",
+    "NbVideo": "video(s)",
+    "Subscriber": "follower(s)"
+  },
+  "French": {
+    "Home": "Home",
+    "Live": "Live à la une",
+    "Come": "À venir",
+    "Replay": "Replay",
+    "Account": "Mon compte",
+    "VideoEnabled": "Vidéos disponibles",
+    "NbVideo": "vidéo(s)",
+    "Subscriber": "abonné(s)"
+  },
+  "Spanish": {
+    "Home": "Inicio",
+    "Live": "En vivo",
+    "Come": "Próximamente",
+    "Replay": "Repetición",
+    "Account": "Cuenta",
+    "VideoEnabled": "Videos disponibles",
+    "NbVideo": "vídeo(s)",
+    "Subscriber": "suscriptor(es)"
+  },
+  "German": {
+    "Home": "Startseite",
+    "Live": "Live",
+    "Come": "Demnächst",
+    "Replay": "Wiederholung",
+    "Account": "Konto",
+    "VideoEnabled": "Verfügbare Videos",
+    "NbVideo": "Video(s)",
+    "Subscriber": "Abonnent(en)"
+  },
+  "Chinese": {
+    "Home": "主页",
+    "Live": "直播",
+    "Come": "即将到来",
+    "Replay": "回放",
+    "Account": "账户",
+    "VideoEnabled": "可用视频",
+    "NbVideo": "个视频",
+    "Subscriber": "关注者"
+  }
+}
