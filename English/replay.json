@@ -1,0 +1,265 @@
+{
+   "replay": {
+      "section_id": "replay",
+      "title": "Replay – Creators",
+      "ui": {
+         "back_button_label": "Back to creators",
+         "filter": {
+            "enabled": true,
+            "type": "categories"
+         },
+         "sort": {
+            "enabled": true,
+            "default": "popularity",
+            "options": [
+               "popularity",
+               "date",
+               "name"
+            ]
+         },
+         "badges": {
+            "verified_label": "Verified"
+         }
+      },
+      "routing": {
+         "canonical_base": "/replay/creators"
+      },
+      "categories": [
+         {
+            "id": "cat_sport",
+            "name": "Sport"
+         },
+         {
+            "id": "cat_music",
+            "name": "Music"
+         },
+         {
+            "id": "cat_culture",
+            "name": "Culture"
+         },
+         {
+            "id": "cat_lifestyle",
+            "name": "Lifestyle"
+         }
+      ],
+      "creators": [
+         {
+            "id": "cr_001",
+            "slug": "inside-football",
+            "priority": 1,
+            "name": "Inside Football",
+            "categories": [
+               "cat_sport"
+            ],
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+            "metrics": {
+               "followers": 48200,
+               "subscribers": 18300,
+               "popularity_score": 92
+            },
+            "verified": true,
+            "channel": {
+               "canonical_url": "/replay/creators/inside-football",
+               "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+               "name": "Inside Football",
+               "description": "Tactical analysis, club insights and exclusive interviews."
+            },
+            "replays": [
+               {
+                  "id": "rep_001_1",
+                  "title": "Match Review J10 – Ligue 1",
+                  "date": "2025-10-12T20:30:00+02:00",
+                  "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Full replay",
+                     "description": "Full show on demand",
+                     "url": "https://cdn.jumpr.fr/InsideFoot_J10/playlist.m3u8",
+                     "language": "fr"
+                  }
+               },
+               {
+                  "id": "rep_001_2",
+                  "title": "Interview – Rising young talent",
+                  "date": "2025-10-15T18:00:00+02:00",
+                  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Interview",
+                     "description": "Short format – 12 min",
+                     "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8",
+                     "language": "fr"
+                  }
+               },
+               {
+                  "id": "rep_001_3",
+                  "title": "Top goals of the month",
+                  "date": "2025-09-30T21:00:00+02:00",
+                  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Compilation",
+                     "description": "Best highlights",
+                     "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8",
+                     "language": "fr"
+                  }
+               }
+            ],
+            "stats": {
+               "total_videos": 3,
+               "last_activity": "2025-10-15T18:00:00+02:00"
+            }
+         },
+         {
+            "id": "cr_002",
+            "slug": "bakary-gym",
+            "priority": 2,
+            "name": "Bakary Gym",
+            "categories": [
+               "cat_sport",
+               "cat_lifestyle"
+            ],
+            "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+            "metrics": {
+               "followers": 25700,
+               "subscribers": 12100,
+               "popularity_score": 85
+            },
+            "verified": false,
+            "channel": {
+               "canonical_url": "/replay/creators/bakary-gym",
+               "profile_image": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+               "name": "Bakary Gym",
+               "description": "Prépa physique, nutrition et coulisses d’un boxeur pro."
+            },
+            "replays": [
+               {
+                  "id": "rep_002_1",
+                  "title": "Sparring à haute intensité",
+                  "date": "2025-10-10T17:00:00+02:00",
+                  "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Ring cam",
+                     "description": "Caméra au bord du ring",
+                     "url": "https://cdn.jumpr.fr/Bakary_Ring/playlist.m3u8",
+                     "language": "fr"
+                  }
+               },
+               {
+                  "id": "rep_002_2",
+                  "title": "Routine d’entraînement – Épaules",
+                  "date": "2025-10-05T11:00:00+02:00",
+                  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Salle",
+                     "description": "Séance guidée 25 min",
+                     "url": "https://cdn.jumpr.fr/Bakary_Workout/playlist.m3u8",
+                     "language": "fr"
+                  }
+               }
+            ],
+            "stats": {
+               "total_videos": 2,
+               "last_activity": "2025-10-10T17:00:00+02:00"
+            }
+         },
+         {
+            "id": "cr_003",
+            "slug": "jeudi-electro",
+            "priority": 3,
+            "name": "Jeudi Electro",
+            "categories": [
+               "cat_music"
+            ],
+            "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+            "metrics": {
+               "followers": 33400,
+               "subscribers": 15600,
+               "popularity_score": 88
+            },
+            "verified": true,
+            "channel": {
+               "canonical_url": "/replay/creators/jeudi-electro",
+               "profile_image": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+               "name": "Jeudi Electro",
+               "description": "Sets live, warm-ups et aftermovies en replay."
+            },
+            "replays": [
+               {
+                  "id": "rep_003_1",
+                  "title": "Warm-up – Opening Night",
+                  "date": "2025-10-01T20:00:00+02:00",
+                  "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Scène principale",
+                     "description": "Set 45 min",
+                     "url": "https://cdn.jumpr.fr/Jeudi_Warmup/playlist.m3u8",
+                     "language": "fr"
+                  }
+               },
+               {
+                  "id": "rep_003_2",
+                  "title": "Aftermovie – Été 2025",
+                  "date": "2025-09-15T18:00:00+02:00",
+                  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Aftermovie",
+                     "description": "Les meilleurs moments",
+                     "url": "https://cdn.jumpr.fr/Jeudi_Aftermovie/playlist.m3u8",
+                     "language": "fr"
+                  }
+               }
+            ],
+            "stats": {
+               "total_videos": 2,
+               "last_activity": "2025-10-01T20:00:00+02:00"
+            }
+         },
+         {
+            "id": "cr_004",
+            "slug": "paris-culture-live",
+            "priority": 4,
+            "name": "Paris Culture Live",
+            "categories": [
+               "cat_culture"
+            ],
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+            "metrics": {
+               "followers": 12800,
+               "subscribers": 5200,
+               "popularity_score": 73
+            },
+            "verified": false,
+            "channel": {
+               "canonical_url": "/replay/creators/paris-culture-live",
+               "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+               "name": "Paris Culture Live",
+               "description": "Visites guidées d'expos et coulisses culturelles."
+            },
+            "replays": [
+               {
+                  "id": "rep_004_1",
+                  "title": "Expo immersive – Parcours guidé",
+                  "date": "2025-09-28T16:00:00+02:00",
+                  "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+                  "stream": {
+                     "id": "stream_01",
+                     "title": "Parcours expo",
+                     "description": "Visite live au cœur des œuvres.",
+                     "url": "https://cdn.jumpr.fr/ExpoV2/playlist.m3u8",
+                     "language": "fr"
+                  }
+               }
+            ],
+            "stats": {
+               "total_videos": 1,
+               "last_activity": "2025-09-28T16:00:00+02:00"
+            }
+         }
+      ]
+   }
+}

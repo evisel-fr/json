@@ -1,0 +1,76 @@
+{
+   "planning": [
+      {
+         "id": "pln_101",
+         "title": "金球奖 – 后台直播",
+         "type": "sport",
+         "price": "Free",
+         "description": "典礼前独家画面，直播幕后通道。",
+         "location": "Paris",
+         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+         "start_time": "2025-10-20T20:00:00+02:00",
+         "stream": {
+            "id": "stream_01",
+            "title": "后台",
+            "description": "后台摄像机。",
+            "url": "https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
+            "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+            "language": "fr"
+         }
+      },
+      {
+         "id": "pln_102",
+         "title": "电子周四 – 热场",
+         "type": "music",
+         "price": "Premium",
+         "description": "开场前DJ热场，后台氛围。",
+         "location": "托农莱班",
+         "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+         "start_time": "2025-10-21T19:30:00+02:00",
+         "stream": {
+            "id": "stream_01",
+            "title": "主舞台",
+            "description": "DJ与观众视角。",
+            "url": "https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
+            "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+            "language": "fr"
+         }
+      },
+      {
+         "id": "pln_103",
+         "title": "塞尔维特FC – 战术训练",
+         "type": "sport",
+         "price": "Pay Per View",
+         "description": "场上战术讲解与即时反应训练。",
+         "location": "日内瓦",
+         "thumbnail": "https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
+         "start_time": "2025-10-22T21:00:00+02:00",
+         "stream": {
+            "id": "stream_01",
+            "title": "球场",
+            "description": "摄像机位于中场。",
+            "url": "https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
+            "thumbnail": "https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
+            "language": "fr"
+         }
+      },
+      {
+         "id": "pln_104",
+         "title": "巴黎文化直播 – 沉浸式展览",
+         "type": "culture",
+         "price": "Free",
+         "description": "沉浸式艺术装置的直播导览。",
+         "location": "巴黎",
+         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+         "start_time": "2025-10-23T18:00:00+02:00",
+         "stream": {
+            "id": "stream_01",
+            "title": "展览路线",
+            "description": "直播走进艺术核心。",
+            "url": "https://cdn.jumpr.fr/ExpoV2/playlist.m3u8",
+            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+            "language": "fr"
+         }
+      }
+   ]
+}
