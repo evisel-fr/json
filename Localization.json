@@ -7,7 +7,11 @@
     "Account": "Account",
     "VideoEnabled": "Available videos",
     "NbVideo": "video(s)",
-    "Subscriber": "follower(s)"
+    "Subscriber": "follower(s)",
+    "Trigger": "Select",
+    "Teleportation": "Teleport",
+    "ExplicationTrigger": "Selection",
+    "ExplicationTeleportation": "Push the joystick forward to teleport"
   },
   "French": {
     "Home": "Home",
@@ -17,27 +21,11 @@
     "Account": "Mon compte",
     "VideoEnabled": "Vidéos disponibles",
     "NbVideo": "vidéo(s)",
-    "Subscriber": "abonné(s)"
-  },
-  "Spanish": {
-    "Home": "Inicio",
-    "Live": "En vivo",
-    "Come": "Próximamente",
-    "Replay": "Repetición",
-    "Account": "Cuenta",
-    "VideoEnabled": "Videos disponibles",
-    "NbVideo": "vídeo(s)",
-    "Subscriber": "suscriptor(es)"
-  },
-  "German": {
-    "Home": "Startseite",
-    "Live": "Live",
-    "Come": "Demnächst",
-    "Replay": "Wiederholung",
-    "Account": "Konto",
-    "VideoEnabled": "Verfügbare Videos",
-    "NbVideo": "Video(s)",
-    "Subscriber": "Abonnent(en)"
+    "Subscriber": "abonné(s)",
+    "Trigger": "Sélectionner",
+    "Teleportation": "Téléportation",
+    "ExplicationTrigger": "Sélection",
+    "ExplicationTeleportation": "Avancez le joystick vers l'avant pour vous téléporter"
   },
   "Chinese": {
     "Home": "主页",
@@ -47,6 +35,10 @@
     "Account": "账户",
     "VideoEnabled": "可用视频",
     "NbVideo": "个视频",
-    "Subscriber": "关注者"
+    "Subscriber": "关注者",
+    "Trigger": "选择",
+    "Teleportation": "传送",
+    "ExplicationTrigger": "选择",
+    "ExplicationTeleportation": "将操纵杆向前推动以传送"
   }
 }
