@@ -1,59 +1,25 @@
 {
    "events":[
       {
-         "id":"evt_001",
-         "title":"Ballon d'Or",
-         "description":"les images d'Ousmane Dembélé à Évreux",
-         "location":"Évreux",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"Vue de la scène",
-               "description":"Caméra centrée sur la scène principale.",
-               "url":"https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            }
-         ]
-      },
-      {
-         "id":"evt_002",
+         "id":"evt_003",
          "title":"Fight Nation",
          "description":"N'importe où, n'importe quand, sur n'importe quel support.",
-         "location":"Monaco",
+         "location":"Marly le roi",
          "thumbnail":"https://play-lh.googleusercontent.com/1PPlYnJDJzODRDZZ93GtAf6y9rn_JV8iFAiet0q8SZ3rdbXhH3aqtuB0dsuWqspGJLBc",
          "streams":[
             {
                "id":"stream_01",
-               "title":"Vue du ring",
-               "description":"Caméra centrée sur le ring.",
-               "url":"https://cdn.jumpr.fr/BakaryV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            }
-         ]
-      },
-      {
-         "id":"evt_003",
-         "title":"Servette FC",
-         "description":"Le Servette FC fête ses 135 ans !",
-         "location":"Genève",
-         "thumbnail":"https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"Entrainement",
-               "description":"Caméra au milieu du terrain.",
-               "url":"https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
+               "title":"Vue du ring 1",
+               "description":"Caméra ring",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
             },
             {
                "id":"stream_02",
-               "title":"Game show",
-               "description":"Caméra au milieu du terrain.",
-               "url":"https://cdn.jumpr.fr/GameShowV2/playlist.m3u8",
+               "title":"Vue du ring 2",
+               "description":"Caméra ring",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
             }
