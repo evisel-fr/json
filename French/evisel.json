@@ -3,14 +3,14 @@
       {
          "id":"evt_003",
          "title":"Fight Nation",
-         "description":"N'importe où, n'importe quand, sur n'importe quel support.",
-         "location":"Marly le roi",
-         "thumbnail":"https://play-lh.googleusercontent.com/1PPlYnJDJzODRDZZ93GtAf6y9rn_JV8iFAiet0q8SZ3rdbXhH3aqtuB0dsuWqspGJLBc",
+         "description":"Plongez au cœur de l’action avec 100% FIGHT 62 !",
+         "location":"L'Embarcadère - Salle de spectacles à Aubervilliers",
+         "thumbnail":"https://100pfight.com/media/cache/vignettes/uploads/images/evenements/68f89fc6f2faa286774601.jpg",
          "streams":[
             {
                "id":"stream_01",
-               "title":"Vue du ring 1",
-               "description":"Caméra ring",
+               "title":"Vue du cage",
+               "description":"Caméra cage",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "language":"en"
@@ -24,23 +24,7 @@
                "language":"en"
             }
          ]
-      },
-      {
-         "id":"evt_004",
-         "title":"Jeudi Electro",
-         "description":"Le grand retour de la Piscine de Thonon !",
-         "location":"Thonon les bains",
-         "thumbnail":"https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"Vue du DJ",
-               "description":"Caméra centrée sur la scène principale.",
-               "url":"https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
-            }
-         ]
       }
    ]
 }
+
