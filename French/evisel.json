@@ -2,10 +2,10 @@
    "events":[
       {
          "id":"evt_003",
-         "title":"Fight Nation",
+         "title":"100% fight",
          "description":"Plongez au cœur de l’action avec 100% FIGHT 62 !",
          "location":"L'Embarcadère - Salle de spectacles à Aubervilliers",
-         "thumbnail":"https://100pfight.com/media/cache/vignettes/uploads/images/evenements/68f89fc6f2faa286774601.jpg",
+         "thumbnail":"https://100pfight.com/media/cache/affichemobile/uploads/images/bandeau/68f8d0e58fc77792563426.jpg",
          "streams":[
             {
                "id":"stream_01",
@@ -27,4 +27,5 @@
       }
    ]
 }
+
 
