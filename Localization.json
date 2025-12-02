@@ -11,7 +11,8 @@
     "Trigger": "Select",
     "Teleportation": "Teleport",
     "ExplicationTrigger": "Selection",
-    "ExplicationTeleportation": "Push the joystick forward to teleport"
+    "ExplicationTeleportation": "Push the joystick forward to teleport",
+    "AreaNotAvailable": "Area Not Available"
   },
   "French": {
     "Home": "Accueil",
@@ -25,7 +26,8 @@
     "Trigger": "Sélectionner",
     "Teleportation": "Téléportation",
     "ExplicationTrigger": "Sélection",
-    "ExplicationTeleportation": "Avancez le joystick vers l'avant pour vous téléporter"
+    "ExplicationTeleportation": "Avancez le joystick vers l'avant pour vous téléporter",
+    "AreaNotAvailable": "Zone non disponible"
   },
   "Chinese": {
     "Home": "主页",
@@ -39,7 +41,9 @@
     "Trigger": "选择",
     "Teleportation": "传送",
     "ExplicationTrigger": "选择",
-    "ExplicationTeleportation": "将操纵杆向前推动以传送"
+    "ExplicationTeleportation": "将操纵杆向前推动以传送",
+    "AreaNotAvailable": "区域不可用"
   }
 }
+
 
