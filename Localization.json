@@ -14,7 +14,7 @@
     "ExplicationTeleportation": "Push the joystick forward to teleport"
   },
   "French": {
-    "Home": "Home",
+    "Home": "Accueil",
     "Live": "Live à la une",
     "Come": "À venir",
     "Replay": "Replay",
@@ -42,3 +42,4 @@
     "ExplicationTeleportation": "将操纵杆向前推动以传送"
   }
 }
+
