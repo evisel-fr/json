@@ -18,7 +18,11 @@
     "MenuMove": "Movement",
     "MenuMoveLibre": "Free",
     "MenuMoveTeleportation": "Teleportation",
-    "MenuClose": "Close"
+    "MenuClose": "Close",
+    "MenuHall": "Hall",
+    "MenuLive": "Live",
+    "MenuReplayMusic": "Replay Music",
+    "MenuReplaySport": "Replay Sport"
   },
   "French": {
     "Home": "Accueil",
@@ -39,7 +43,11 @@
     "MenuMove": "Déplacement",
     "MenuMoveLibre": "Libre",
     "MenuMoveTeleportation": "Téléportation",
-    "MenuClose": "Fermer"
+    "MenuClose": "Fermer",
+    "MenuHall": "Hall",
+    "MenuLive": "Live",
+    "MenuReplayMusic": "Replay Musique",
+    "MenuReplaySport": "Replay Sport"
   },
   "Chinese": {
     "Home": "主页",
@@ -60,9 +68,14 @@
     "MenuMove": "移动",
     "MenuMoveLibre": "自由",
     "MenuMoveTeleportation": "传送",
-    "MenuClose": "关闭"
+    "MenuClose": "关闭",
+    "MenuHall": "大厅",
+    "MenuLive": "直播",
+    "MenuReplayMusic": "音乐回放",
+    "MenuReplaySport": "体育回放"
   }
 }
+
 
 
 
