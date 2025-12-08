@@ -17,7 +17,8 @@
     "MenuZones": "Area",
     "MenuMove": "Movement",
     "MenuMoveLibre": "Free",
-    "MenuMoveTeleportation": "Teleportation"
+    "MenuMoveTeleportation": "Teleportation",
+    "MenuClose": "Close"
   },
   "French": {
     "Home": "Accueil",
@@ -37,7 +38,8 @@
     "MenuZones": "Zones",
     "MenuMove": "Déplacement",
     "MenuMoveLibre": "Libre",
-    "MenuMoveTeleportation": "Téléportation"
+    "MenuMoveTeleportation": "Téléportation",
+    "MenuClose": "Fermer"
   },
   "Chinese": {
     "Home": "主页",
@@ -57,9 +59,11 @@
     "MenuZones": "区域",
     "MenuMove": "移动",
     "MenuMoveLibre": "自由",
-    "MenuMoveTeleportation": "传送"
+    "MenuMoveTeleportation": "传送",
+    "MenuClose": "关闭"
   }
 }
+
 
 
 
