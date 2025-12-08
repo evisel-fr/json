@@ -12,7 +12,12 @@
     "Teleportation": "Teleport",
     "ExplicationTrigger": "Selection",
     "ExplicationTeleportation": "Push the joystick forward to teleport",
-    "AreaNotAvailable": "Area Not Available"
+    "AreaNotAvailable": "Area Not Available",
+    "MenuEnvironment": "Environment",
+    "MenuZones": "Area",
+    "MenuMove": "Movement",
+    "MenuMoveLibre": "Free",
+    "MenuMoveTeleportation": "Teleportation"
   },
   "French": {
     "Home": "Accueil",
@@ -27,7 +32,12 @@
     "Teleportation": "Téléportation",
     "ExplicationTrigger": "Sélection",
     "ExplicationTeleportation": "Avancez le joystick vers l'avant pour vous téléporter",
-    "AreaNotAvailable": "Zone non disponible"
+    "AreaNotAvailable": "Zone non disponible",
+    "MenuEnvironment": "Environnement",
+    "MenuZones": "Zones",
+    "MenuMove": "Déplacement",
+    "MenuMoveLibre": "Libre",
+    "MenuMoveTeleportation": "Téléportation"
   },
   "Chinese": {
     "Home": "主页",
@@ -42,8 +52,14 @@
     "Teleportation": "传送",
     "ExplicationTrigger": "选择",
     "ExplicationTeleportation": "将操纵杆向前推动以传送",
-    "AreaNotAvailable": "区域不可用"
+    "AreaNotAvailable": "区域不可用",
+    "MenuEnvironment": "环境",
+    "MenuZones": "区域",
+    "MenuMove": "移动",
+    "MenuMoveLibre": "自由",
+    "MenuMoveTeleportation": "传送"
   }
 }
+
 
 
