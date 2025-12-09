@@ -6,6 +6,8 @@
          "description":"footage of Ousmane Dembélé in Évreux",
          "location":"Évreux",
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+         "teaser":"",
+         "event_type":"sport",
          "streams":[
             {
                "id":"stream_01",
@@ -23,6 +25,8 @@
          "description":"Bakary Samake sparring 2 weeks before his fight against Ortiz",
          "location":"Champs sur Marne",
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+         "teaser":"",
+         "event_type":"sport",
          "streams":[
             {
                "id":"stream_01",
@@ -40,6 +44,8 @@
          "description":"Servette FC celebrates its 135th anniversary !",
          "location":"Geneva",
          "thumbnail":"https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
+         "teaser":"",
+         "event_type":"sport",
          "streams":[
             {
                "id":"stream_01",
@@ -65,6 +71,8 @@
          "description":"The big return of the Thonon Pool !",
          "location":"Thonon les bains",
          "thumbnail":"https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+         "teaser":"",
+         "event_type":"sport",
          "streams":[
             {
                "id":"stream_01",
