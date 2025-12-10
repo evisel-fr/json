@@ -22,7 +22,10 @@
     "MenuHall": "Hall",
     "MenuLive": "Live",
     "MenuReplayMusic": "Replay Music",
-    "MenuReplaySport": "Replay Sport"
+    "MenuReplaySport": "Replay Sport",
+    "Yes": "Yes",
+    "No": "No",
+    "LaunchLive": "Do you want to start the live?"
   },
   "French": {
     "Home": "Accueil",
@@ -47,7 +50,10 @@
     "MenuHall": "Hall",
     "MenuLive": "Live",
     "MenuReplayMusic": "Replay Musique",
-    "MenuReplaySport": "Replay Sport"
+    "MenuReplaySport": "Replay Sport",
+    "Yes": "Oui",
+    "No": "Non",
+    "LaunchLive": "Voulez vous lancer le live ?"
   },
   "Chinese": {
     "Home": "主页",
@@ -72,7 +78,10 @@
     "MenuHall": "大厅",
     "MenuLive": "直播",
     "MenuReplayMusic": "音乐回放",
-    "MenuReplaySport": "体育回放"
+    "MenuReplaySport": "体育回放",
+    "Yes": "是",
+    "No": "否",
+    "LaunchLive": "您要开始直播吗？"
   }
 }
 
