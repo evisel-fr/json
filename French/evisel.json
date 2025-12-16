@@ -8,22 +8,21 @@
          "thumbnail":"https://100pfight.com/media/cache/affichemobile/uploads/images/bandeau/68f8d0e58fc77792563426.jpg",
          "teaser":"https://cloud.inod.solutions/test/video/gif/GIFMMA.gif",
          "event_type":"sport",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
                "title":"Vue du cage",
                "description":"Caméra cage",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "language":"en"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             },
             {
                "id":"stream_02",
                "title":"Vue du ring 2",
                "description":"Caméra ring",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "language":"en"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             }
          ]
       }

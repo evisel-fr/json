@@ -8,14 +8,14 @@
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
          "teaser":"",
          "event_type":"sport",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
                "title":"舞台视角",
                "description":"摄像机对准主舞台",
                "url":"https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
             }
          ]
       },
@@ -27,14 +27,14 @@
          "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
          "teaser":"",
          "event_type":"sport",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
                "title":"拳台视角",
                "description":"摄像机对准拳台。",
                "url":"https://cdn.jumpr.fr/BakaryV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
             }
          ]
       },
@@ -46,22 +46,21 @@
          "thumbnail":"https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
          "teaser":"",
          "event_type":"sport",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
                "title":"训练",
                "description":"摄像机位于球场中央。",
                "url":"https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "language":"en"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             },
             {
                "id":"stream_02",
                "title":"游戏表演",
                "description":"摄像机位于球场中央。",
                "url":"https://cdn.jumpr.fr/GameShowV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "language":"en"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             }
          ]
       },
@@ -73,14 +72,14 @@
          "thumbnail":"https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
          "teaser":"",
          "event_type":"sport",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
                "title":"DJ视角",
                "description":"摄像机对准主舞台。",
                "url":"https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "language":"fr"
+               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
             }
          ]
       }
