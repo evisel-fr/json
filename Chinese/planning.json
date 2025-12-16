@@ -3,7 +3,7 @@
       {
          "id": "pln_101",
          "title": "金球奖 – 后台直播",
-         "type": "sport",
+         "event_type": "sport",
          "price": "Free",
          "description": "典礼前独家画面，直播幕后通道。",
          "location": "Paris",
@@ -21,7 +21,7 @@
       {
          "id": "pln_102",
          "title": "电子周四 – 热场",
-         "type": "music",
+         "event_type": "music",
          "price": "Premium",
          "description": "开场前DJ热场，后台氛围。",
          "location": "托农莱班",
@@ -39,7 +39,7 @@
       {
          "id": "pln_103",
          "title": "塞尔维特FC – 战术训练",
-         "type": "sport",
+         "event_type": "sport",
          "price": "Pay Per View",
          "description": "场上战术讲解与即时反应训练。",
          "location": "日内瓦",
@@ -57,7 +57,7 @@
       {
          "id": "pln_104",
          "title": "巴黎文化直播 – 沉浸式展览",
-         "type": "culture",
+         "event_type": "culture",
          "price": "Free",
          "description": "沉浸式艺术装置的直播导览。",
          "location": "巴黎",

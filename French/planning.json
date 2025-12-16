@@ -3,7 +3,7 @@
       {
          "id": "pln_101",
          "title": "Ballon d'Or – Live backstage",
-         "type": "sport",
+         "event_type": "sport",
          "price": "Free",
          "description": "Images exclusives avant la cérémonie, accès coulisses en direct.",
          "location": "Paris",
@@ -21,7 +21,7 @@
       {
          "id": "pln_102",
          "title": "Jeudi Electro – Warm-up",
-         "type": "music",
+         "event_type": "music",
          "price": "Premium",
          "description": "Warm-up du DJ avant l'ouverture des portes, ambiance backstage.",
          "location": "Thonon-les-Bains",
@@ -39,7 +39,7 @@
       {
          "id": "pln_103",
          "title": "Servette FC – Séance tactique",
-         "type": "sport",
+         "event_type": "sport",
          "price": "Pay Per View",
          "description": "Session terrain avec brief tactique et réactions à chaud.",
          "location": "Genève",
@@ -57,7 +57,7 @@
       {
          "id": "pln_104",
          "title": "Paris Culture Live – Expo immersive",
-         "type": "culture",
+         "event_type": "culture",
          "price": "Free",
          "description": "Parcours guidé en live d'une installation artistique immersive.",
          "location": "Paris",
