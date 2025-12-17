@@ -24,9 +24,9 @@
                "date": "2025-10-12T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
                "teaser":"",
-               "stereo":false,
+               "stereo":true,
                "description": "Emission complète en VOD",
-               "url": "https://cdn.jumpr.fr/InsideFoot_J10/playlist.m3u8"
+               "url": "https://cloud.inod.solutions/test/video/KOF_10s.mp4"
             },
             {
                "id": "rep_001_2",
