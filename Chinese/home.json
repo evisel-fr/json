@@ -1,85 +1,26 @@
 {
-   "home": {
-      "section_id": "home",
-      "title": "首页",
-      "layout": "carousel",
-      "rotation": {
-         "mode": "sequential",
-         "autoplay": true,
-         "interval_ms": 8000,
-         "loop": true
+
+   "items": [
+      {
+         "id": "ad_001",
+         "title": "欢迎广告 #1",
+         "description": "15秒广告 — 欢迎来到EVISEL",
+         "thumbnail": "https://cdn.jumpr.fr/publicite/spot1/thumbnail.jpg",
+         "url": "https://cloud.inod.solutions/test/video/webp/1FightNation2030x576.webp"
       },
-      "items": [
-         {
-            "id": "ad_001",
-            "title": "欢迎广告 #1",
-            "description": "15秒广告 — 欢迎来到EVISEL",
-            "thumbnail": "https://cdn.jumpr.fr/publicite/spot1/thumbnail.jpg",
-            "streams": [
-               {
-                  "id": "stream_01",
-                  "title": "15秒广告",
-                  "description": "法语版本",
-                  "url": "https://cdn.jumpr.fr/publicite/spot1/playlist.m3u8",
-                  "thumbnail": "https://cdn.jumpr.fr/publicite/spot1/thumbnail.jpg",
-                  "language": "fr",
-                  "type": "ad",
-                  "skippable": false,
-                  "duration": 15
-               }
-            ],
-            "metadata": {
-               "priority": 1,
-               "active": true
-            }
-         },
-         {
-            "id": "ad_002",
-            "title": "欢迎广告 #2",
-            "description": "20秒广告 — 新合作伙伴",
-            "thumbnail": "https://cdn.jumpr.fr/publicite/spot2/thumbnail.jpg",
-            "streams": [
-               {
-                  "id": "stream_01",
-                  "title": "20秒广告",
-                  "description": "法语版本",
-                  "url": "https://cdn.jumpr.fr/publicite/spot2/playlist.m3u8",
-                  "thumbnail": "https://cdn.jumpr.fr/publicite/spot2/thumbnail.jpg",
-                  "language": "fr",
-                  "type": "ad",
-                  "skippable": true,
-                  "skip_after": 5,
-                  "duration": 20
-               }
-            ],
-            "metadata": {
-               "priority": 2,
-               "active": true
-            }
-         },
-         {
-            "id": "ad_003",
-            "title": "欢迎广告 #3",
-            "description": "10秒广告 — 即将到来的活动",
-            "thumbnail": "https://cdn.jumpr.fr/publicite/spot3/thumbnail.jpg",
-            "streams": [
-               {
-                  "id": "stream_01",
-                  "title": "10秒广告",
-                  "description": "英语版本",
-                  "url": "https://cdn.jumpr.fr/publicite/spot3/playlist.m3u8",
-                  "thumbnail": "https://cdn.jumpr.fr/publicite/spot3/thumbnail.jpg",
-                  "language": "en",
-                  "type": "ad",
-                  "skippable": false,
-                  "duration": 10
-               }
-            ],
-            "metadata": {
-               "priority": 3,
-               "active": true
-            }
-         }
-      ]
-   }
+      {
+         "id": "ad_002",
+         "title": "欢迎广告 #2",
+         "description": "20秒广告 — 新合作伙伴",
+         "thumbnail": "https://cdn.jumpr.fr/publicite/spot2/thumbnail.jpg",
+         "url": "https://cloud.inod.solutions/test/video/webp/2FightNation2030x576.webp"
+      },
+      {
+         "id": "ad_003",
+         "title": "欢迎广告 #3",
+         "description": "10秒广告 — 即将到来的活动",
+         "thumbnail": "https://cdn.jumpr.fr/publicite/spot3/thumbnail.jpg",
+         "url": "https://cloud.inod.solutions/test/video/webp/FightNation2030x1134.webp"
+      }
+   ]
 }
