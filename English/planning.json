@@ -2,74 +2,74 @@
    "planning": [
       {
          "id": "pln_101",
-         "title": "Ballon d'Or – Live backstage",
-         "event_type": "sport",
-         "price": "Free",
-         "description": "Exclusive footage before the ceremony, live backstage access.",
-         "location": "Paris",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
-         "start_time": "2025-10-20T20:00:00+02:00",
+         "title": "",
+         "event_type": "",
+         "price": "",
+         "description": "",
+         "location": "",
+         "thumbnail": "",
+         "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Backstage",
-            "description": "Backstage camera.",
-            "url": "https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
-            "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
          "id": "pln_102",
-         "title": "Electro Thursday – Warm-up",
-         "event_type": "music",
-         "price": "Premium",
-         "description": "DJ warm-up before doors open, backstage atmosphere.",
-         "location": "Thonon-les-Bains",
-         "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-         "start_time": "2025-10-21T19:30:00+02:00",
+         "title": "",
+         "event_type": "",
+         "price": "",
+         "description": "",
+         "location": "",
+         "thumbnail": "",
+         "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Main stage",
-            "description": "DJ and crowd view.",
-            "url": "https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
-            "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
          "id": "pln_103",
-         "title": "Servette FC – Tactical session",
-         "event_type": "sport",
-         "price": "Pay Per View",
-         "description": "On-field session with tactical briefing and instant reactions.",
-         "location": "Geneva",
-         "thumbnail": "https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
-         "start_time": "2025-10-22T21:00:00+02:00",
+         "title": "",
+         "event_type": "",
+         "price": "",
+         "description": "",
+         "location": "",
+         "thumbnail": "",
+         "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Field",
-            "description": "Camera at midfield.",
-            "url": "https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
-            "thumbnail": "https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
          "id": "pln_104",
-         "title": "Paris Culture Live – Immersive exhibition",
-         "event_type": "culture",
-         "price": "Free",
-         "description": "Live guided tour of an immersive art installation.",
-         "location": "Paris",
-         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-         "start_time": "2025-10-23T18:00:00+02:00",
+         "title": "",
+         "event_type": "",
+         "price": "",
+         "description": "",
+         "location": "",
+         "thumbnail": "",
+         "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Exhibition tour",
-            "description": "Live visit inside the artworks.",
-            "url": "https://cdn.jumpr.fr/ExpoV2/playlist.m3u8",
-            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       }
    ]
