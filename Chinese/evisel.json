@@ -1,85 +1,28 @@
 {
    "events":[
       {
-         "id":"evt_001",
-         "title":"金球奖",
-         "description":"乌斯曼·登贝莱在埃夫勒的画面",
-         "location":"埃夫勒",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
-         "teaser":"",
-         "event_type":"sport",
-         "stereo":false,
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"舞台视角",
-               "description":"摄像机对准主舞台",
-               "url":"https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
-            }
-         ]
-      },
-      {
-         "id":"evt_002",
-         "title":"巴卡里·萨马克",
-         "description":"巴卡里·萨马克在与奥尔蒂斯比赛前两周进行实战训练",
-         "location":"马恩河畔尚",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
-         "teaser":"",
-         "event_type":"sport",
-         "stereo":false,
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"拳台视角",
-               "description":"摄像机对准拳台。",
-               "url":"https://cdn.jumpr.fr/BakaryV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
-            }
-         ]
-      },
-      {
          "id":"evt_003",
-         "title":"塞尔维特足球俱乐部",
-         "description":"塞尔维特俱乐部庆祝成立135周年！",
-         "location":"日内瓦",
-         "thumbnail":"https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
+         "title":"",
+         "description":"",
+         "location":"",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
          "teaser":"",
-         "event_type":"sport",
+         "event_type":"",
          "stereo":false,
          "streams":[
             {
                "id":"stream_01",
-               "title":"训练",
-               "description":"摄像机位于球场中央。",
-               "url":"https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
+               "title":"",
+               "description":"",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             },
             {
                "id":"stream_02",
-               "title":"游戏表演",
-               "description":"摄像机位于球场中央。",
-               "url":"https://cdn.jumpr.fr/GameShowV2/playlist.m3u8",
+               "title":"",
+               "description":"",
+               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
-            }
-         ]
-      },
-      {
-         "id":"evt_004",
-         "title":"电子音乐周四",
-         "description":"托农泳池的盛大回归！",
-         "location":"托农莱班",
-         "thumbnail":"https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-         "teaser":"",
-         "event_type":"sport",
-         "stereo":false,
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"DJ视角",
-               "description":"摄像机对准主舞台。",
-               "url":"https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5"
             }
          ]
       }
