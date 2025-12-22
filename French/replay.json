@@ -2,7 +2,7 @@
    "replayCreators": [
       {
          "id": "cr_001",
-         "name": "Inside Football",
+         "name": "inside-football",
          "event_type":"sport",
          "teaser":"",
          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
@@ -14,39 +14,39 @@
          "channel": {
             "canonical_url": "/replay/creators/inside-football",
             "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "name": "Inside Football",
-            "description": "Analyses tactiques, inside clubs et interviews exclusives."
+            "name": "足球内线",
+            "description": "战术分析、俱乐部内幕与独家专访。"
          },
          "replays": [
             {
                "id": "rep_001_1",
-               "title": "Débrief J10 – Ligue 1",
+               "title": "法甲第10轮赛后分析",
                "date": "2025-10-12T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
                "teaser":"",
-               "stereo":true,
-               "description": "Emission complète en VOD",
-               "url": ""
+               "stereo":false,
+               "description": "完整节目点播",
+               "url": "https://cdn.jumpr.fr/InsideFoot_J10/playlist.m3u8"
             },
             {
                "id": "rep_001_2",
-               "title": "Interview – Jeune crack à suivre",
+               "title": "采访 – 明日之星",
                "date": "2025-10-15T18:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "teaser":"",
-               "stereo":true,
-               "description": "Format court 12 min",
-               "url": ""
+               "stereo":false,
+               "description": "短格式 – 12分钟",
+               "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"
             },
             {
                "id": "rep_001_3",
-               "title": "Top buts du mois",
+               "title": "本月最佳进球",
                "date": "2025-09-30T21:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "teaser":"",
-               "stereo":true,
-               "description": "Les plus beaux gestes",
-               "url": ""
+               "stereo":false,
+               "description": "精彩集锦",
+               "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8"
             }
          ]
       },
@@ -73,10 +73,10 @@
                "title": "Sparring à haute intensité",
                "date": "2025-10-10T17:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
-               "teaser":"",                  
-               "stereo":true,
+               "teaser":"",
+               "stereo":false,
                "description": "Caméra au bord du ring",
-               "url": "https://cdn.jumpr.fr/KSW-2/out/playlist.m3u8""
+               "url": "https://cdn.jumpr.fr/Bakary_Ring/playlist.m3u8"
             },
             {
                "id": "rep_002_2",
@@ -134,6 +134,7 @@
          "id": "cr_004",
          "name": "Paris Culture Live",
          "event_type":"culture",
+         "teaser":"",
          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
          "metrics": {
             "followers": 12800,
