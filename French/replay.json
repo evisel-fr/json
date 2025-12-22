@@ -26,7 +26,7 @@
                "teaser":"",
                "stereo":true,
                "description": "Emission complète en VOD",
-               "url": "https://cdn.jumpr.fr/KSW/out/playlist.m3u8"
+               "url": ""
             },
             {
                "id": "rep_001_2",
@@ -36,7 +36,7 @@
                "teaser":"",
                "stereo":true,
                "description": "Format court 12 min",
-               "url": "https://cdn.jumpr.fr/KSW-2/out/playlist.m3u8"
+               "url": ""
             },
             {
                "id": "rep_001_3",
@@ -46,7 +46,7 @@
                "teaser":"",
                "stereo":true,
                "description": "Les plus beaux gestes",
-               "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"
+               "url": ""
             }
          ]
       },
