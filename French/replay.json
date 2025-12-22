@@ -52,41 +52,41 @@
       },
       {
          "id": "cr_002",
-         "name": "Bakary Gym",
+         "name": "Orléans Loiret Basket",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+         "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/a/a0/Logo_Orl%C3%A9ans_Loiret_Basket_-_2014.svg",
          "metrics": {
             "followers": 25700,
             "subscribers": 12100
          },
          "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/bakary-gym",
-            "profile_image": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
-            "name": "Bakary Gym",
+            "canonical_url": "/replay/creators/orleans-loiret-basket",
+            "profile_image": "https://upload.wikimedia.org/wikipedia/fr/a/a0/Logo_Orl%C3%A9ans_Loiret_Basket_-_2014.svg",
+            "name": "Orléans Loiret Basket",
             "description": "Prépa physique, nutrition et coulisses d’un boxeur pro."
          },
          "replays": [
             {
                "id": "rep_002_1",
-               "title": "Sparring à haute intensité",
-               "date": "2025-10-10T17:00:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+               "title": "Orléans Loiret Basket VS La Rochelle",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail": "https://www.lnb.tv/image/1920/1080/c462a9c0-c2ed-4f9a-bb34-03a91d9860d7.png?v=20251208093913&fm=webp",
                "teaser":"",
                "stereo":true,
                "description": "Caméra au bord du ring",
-               "url": "https://cdn.jumpr.fr/KSW-2/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/Basket-1/Orlean_opti.mp4"
             },
             {
                "id": "rep_002_2",
-               "title": "Routine d’entraînement – Épaules",
-               "date": "2025-10-05T11:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "title": "Orléans Loiret Basket VS La Rochelle",
+               "date": "2025-12-19T11:00:00+02:00",
+               "thumbnail": "https://www.lnb.tv/image/1920/1080/c462a9c0-c2ed-4f9a-bb34-03a91d9860d7.png?v=20251208093913&fm=webp",
                "teaser":"",
                "stereo":true,
                "description": "Séance guidée 25 min",
-               "url": "https://cdn.jumpr.fr/KSW-3/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/Basket-2/Orlean_8K_PremiumStable.mp4"
             }
          ]
       },
