@@ -84,9 +84,9 @@
                "date": "2025-10-05T11:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "teaser":"",
-               "stereo":false,
+               "stereo":true,
                "description": "Séance guidée 25 min",
-               "url": "https://cdn.jumpr.fr/Bakary_Workout/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW-1/playlist.m3u8"
             }
          ]
       },
