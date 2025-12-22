@@ -11,11 +11,11 @@
          "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Backstage",
-            "description": "Caméra coulisses.",
-            "url": "https://cdn.jumpr.fr/OusmaneV2/playlist.m3u8",
-            "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
@@ -29,11 +29,11 @@
          "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Scène principale",
-            "description": "Vue DJ et public.",
-            "url": "https://cdn.jumpr.fr/JeudiV2/playlist.m3u8",
-            "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
@@ -47,11 +47,11 @@
          "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Terrain",
-            "description": "Caméra au milieu du terrain.",
-            "url": "https://cdn.jumpr.fr/EntrainementV2/playlist.m3u8",
-            "thumbnail": "https://shop.servettefc.ch/cdn/shop/files/2025-03-12-PACKSHOT-SFC-135ANS-4-5_21_1200x.jpg?v=1746111423",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       },
       {
@@ -65,11 +65,11 @@
          "start_time": "",
          "stream": {
             "id": "stream_01",
-            "title": "Parcours expo",
-            "description": "Visite live au cœur des œuvres.",
-            "url": "https://cdn.jumpr.fr/ExpoV2/playlist.m3u8",
-            "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "language": "fr"
+            "title": "",
+            "description": "",
+            "url": "",
+            "thumbnail": "",
+            "language": ""
          }
       }
    ]
