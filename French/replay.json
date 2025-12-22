@@ -60,7 +60,7 @@
             "followers": 25700,
             "subscribers": 12100
          },
-         "verified": false,
+         "verified": true,
          "channel": {
             "canonical_url": "/replay/creators/bakary-gym",
             "profile_image": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
@@ -74,9 +74,9 @@
                "date": "2025-10-10T17:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
                "teaser":"",
-               "stereo":false,
+               "stereo":true,
                "description": "Caméra au bord du ring",
-               "url": "https://cdn.jumpr.fr/Legacy-test/Legacy1.mp4"
+               "url": "https://cdn.jumpr.fr/KSW-6K/MorelyvsSurdyn_6K_FLUID.mp4"
             },
             {
                "id": "rep_002_2",
