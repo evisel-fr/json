@@ -26,7 +26,7 @@
                "teaser":"",
                "stereo":true,
                "description": "完整节目点播",
-               "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/Legacy-test/playlist.m3u8"
             },
             {
                "id": "rep_001_2",
