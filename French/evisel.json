@@ -2,25 +2,25 @@
    "events":[
       {
          "id":"evt_003",
-         "title":"100% fight",
-         "description":"Plongez au cœur de l’action avec 100% FIGHT 62 !",
-         "location":"L'Embarcadère Aubervilliers",
-         "thumbnail":"https://www.orleans-events.com/sites/default/files/styles/agenda_teaser/public/2025-11/OLB%20GENERIQUE.png?itok=49dDyl-8",
-         "teaser":"https://cloud.inod.solutions/test/video/gif/GIFMMA.gif",
-         "event_type":"sport",
-         "stereo":true,
+         "title":"",
+         "description":"",
+         "location":"",
+         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
+         "teaser":"",
+         "event_type":"",
+         "stereo":false,
          "streams":[
             {
                "id":"stream_01",
-               "title":"Vue du cage",
-               "description":"Caméra cage",
+               "title":"",
+               "description":"",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             },
             {
                "id":"stream_02",
-               "title":"Vue du ring 2",
-               "description":"Caméra ring",
+               "title":",
+               "description":"",
                "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
                "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
             }
@@ -28,6 +28,7 @@
       }
    ]
 }
+
 
 
 
