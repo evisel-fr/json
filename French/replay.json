@@ -2,31 +2,31 @@
    "replayCreators": [
       {
          "id": "cr_001",
-         "name": "inside-football",
+         "name": "KSW",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+         "thumbnail": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
          "metrics": {
             "followers": 48200,
             "subscribers": 18300
          },
          "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/inside-football",
-            "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "name": "足球内线",
-            "description": "战术分析、俱乐部内幕与独家专访。"
+            "canonical_url": "/replay/creators/KSW",
+            "profile_image": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "name": "KSW",
+            "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses."
          },
          "replays": [
             {
                "id": "rep_001_1",
-               "title": "法甲第10轮赛后分析",
-               "date": "2025-10-12T20:30:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+               "title": "KSW 113",
+               "date": "2025-12-20T20:30:00+02:00",
+               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-22-192637.png"",
                "teaser":"",
                "stereo":true,
-               "description": "完整节目点播",
-               "url": "https://cdn.jumpr.fr/KSW-1/playlist.m3u8"
+               "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
+               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
             },
             {
                "id": "rep_001_2",
