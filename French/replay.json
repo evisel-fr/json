@@ -26,7 +26,7 @@
                "teaser":"",
                "stereo":true,
                "description": "Emission complète en VOD",
-               "url": "https://cloud.inod.solutions/test/video/KOF_10s.mp4"
+               "url": "https://cdn.jumpr.fr/KSW-113/out/master.m3u8"
             },
             {
                "id": "rep_001_2",
