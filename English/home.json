@@ -2,24 +2,24 @@
    "items": [
       {
          "id": "ad_001",
-         "title": "Welcome Ad #1",
-         "description": "15s spot — welcome to EVISEL",
+         "title": "Publicité d'accueil #1",
+         "description": "Spot 15s — bienvenue sur EVISEL",
          "thumbnail": "https://cdn.jumpr.fr/publicite/spot1/thumbnail.jpg",
-         "url": "https://cloud.inod.solutions/test/video/webp/1FightNation2030x576.webp"
+         "url": "https://cdn.jumpr.fr/Video-Accueil/1FightNation2030x576.mp4"
       },
       {
          "id": "ad_002",
-         "title": "Welcome Ad #2",
-         "description": "20s spot — new partner",
+         "title": "Publicité d'accueil #2",
+         "description": "Spot 20s — nouveau partenaire",
          "thumbnail": "https://cdn.jumpr.fr/publicite/spot2/thumbnail.jpg",
-         "url": "https://cloud.inod.solutions/test/video/webp/2FightNation2030x576.webp"
+         "url": "https://cdn.jumpr.fr/Video-Accueil/2FightNation2030x576.mp4"
       },
       {
          "id": "ad_003",
-         "title": "Welcome Ad #3",
-         "description": "10s spot — upcoming event",
+         "title": "Publicité d'accueil #3",
+         "description": "Spot 10s — événement à venir",
          "thumbnail": "https://cdn.jumpr.fr/publicite/spot3/thumbnail.jpg",
-         "url": "https://cloud.inod.solutions/test/video/webp/FightNation2030x1134.webp"
+         "url": "https://cdn.jumpr.fr/Video-Accueil/FightNation2030x1134.mp4"
       }
    ]
 }
