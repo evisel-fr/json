@@ -21,7 +21,7 @@
             {
                "id": "rep_001_1",
                "title": "KAOUCHEN VS GEBUREK",
-               "date": "2025-12-19T20:30:00+02:00",
+               "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
                "teaser":"",
                "stereo":true,
@@ -31,7 +31,7 @@
             {
                "id": "rep_001_4",
                "title": "WLODARCZYK VS KRAWCZYK",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
                "teaser":"",
                "stereo":true,
@@ -41,7 +41,7 @@
             {
                "id": "rep_001_5",
                "title": "MORELLI VS SURDYN",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser":"",
                "stereo":true,
@@ -51,7 +51,7 @@
             {
                "id": "rep_001_2",
                "title": "ZALEWSKI VS DEBIENNE",
-               "date": "2025-12-19T20:30:00+02:00",
+               "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
                "teaser":"",
                "stereo":true,
@@ -61,7 +61,7 @@
             {
                "id": "rep_001_6",
                "title": "SAKAI VS WOJCIK",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
                "teaser":"",
                "stereo":true,
@@ -71,7 +71,7 @@
             {
                "id": "rep_001_7",
                "title": "ROZALSKI VS BEKAVAC",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
                "teaser":"",
                "stereo":true,
@@ -81,7 +81,7 @@
              {
                "id": "rep_001_8",
                "title": "MICHALSKI VS JANIKOWSKI",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
                "teaser":"",
                "stereo":true,
@@ -91,7 +91,7 @@
             {
                "id": "rep_001_3",
                "title": "AJ VS LISEK",
-               "date": "2025-12-19T20:30:00+02:00",
+               "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser":"",
                "stereo":true,
@@ -101,7 +101,7 @@
             {
                "id": "rep_001_9",
                "title": "MARTINEK VS SZPILKA",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
                "teaser":"",
                "stereo":true,
@@ -111,7 +111,7 @@
             {
                "id": "rep_001_10",
                "title": "PAWLAK VS ZERHOUNI",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
                "teaser":"",
                "stereo":true,
@@ -121,7 +121,7 @@
             {
                "id": "rep_001_11",
                "title": "BARTTOSINSKI VS TULSHAEV",
-               "date": "2025-12-19T18:00:00+02:00",
+               "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
                "teaser":"",
                "stereo":true,
@@ -140,33 +140,33 @@
             "followers": 25700,
             "subscribers": 12100
          },
-         "verified": false,
+         "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/bakary-gym",
-            "profile_image": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
-            "name": "Bakary Gym",
-            "description": "Prépa physique, nutrition et coulisses d’un boxeur pro."
+            "canonical_url": "/replay/creators/orleans-loiret-basket",
+            "profile_image": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "name": "Orléans Loiret Basket",
+            "description": "La chaîne Orléans Loiret Basket vous plonge au cœur du club avec des matchs, replays et temps forts exclusifs."
          },
          "replays": [
             {
                "id": "rep_002_1",
-               "title": "Sparring à haute intensité",
-               "date": "2025-10-10T17:00:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+               "title": "Le premier quart-temps du match Orléans – La Rochelle.",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
                "teaser":"",                  
-               "stereo":false,                  
-               "description": "Caméra au bord du ring",
-               "url": "https://cdn.jumpr.fr/Bakary_Ring/playlist.m3u8"
+               "stereo":true,                  
+               "description": "Caméra au milieu du terrain",
+               "url": "https://cdn.jumpr.fr/Basket-Orlean_8k/Basket-Orlean_8k.mp4"
             },
             {
                "id": "rep_002_2",
-               "title": "Routine d’entraînement – Épaules",
-               "date": "2025-10-05T11:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "title": "Le dernier quart-temps du match Orléans – La Rochelle.",
+               "date": "2025-10-19T11:00:00+02:00",
+               "thumbnail": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
                "teaser":"",
-               "stereo":false,
-               "description": "Séance guidée 25 min",
-               "url": "https://cdn.jumpr.fr/Bakary_Workout/playlist.m3u8"
+               "stereo":true,
+               "description": "Caméra derriére le panier de basket",
+               "url": "https://cdn.jumpr.fr/Basket-Orlean_8k/Basket-Orlean_8k.mp4"
             }
          ]
       },
