@@ -47,8 +47,8 @@
                "stereo":false,
                "description": "Best highlights",
                "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8"
-            }
-             {
+            },
+            {
                "id": "rep_001_1",
                "title": "Match Review J10 – Ligue 1",
                "date": "2025-10-12T20:30:00+02:00",
@@ -68,7 +68,7 @@
                "description": "Short format – 12 min",
                "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"                  
             },
-             {
+            {
                "id": "rep_001_1",
                "title": "Match Review J10 – Ligue 1",
                "date": "2025-10-12T20:30:00+02:00",
