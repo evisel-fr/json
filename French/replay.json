@@ -162,71 +162,71 @@
       },
       {
          "id": "cr_003",
-         "name": "Jeudi Electro",
-         "event_type":"music",
+         "name": "FIGHT NATION",
+         "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+         "thumbnail": "https://pbs.twimg.com/media/ErY7j_CW4AUmN0W.jpg",
          "metrics": {
             "followers": 33400,
             "subscribers": 15600
          },
          "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/jeudi-electro",
-            "profile_image": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
-            "name": "Jeudi Electro",
-            "description": "Sets live, warm-ups et aftermovies en replay."
+            "canonical_url": "/replay/creators/fight-nation",
+            "profile_image": "https://pbs.twimg.com/media/ErY7j_CW4AUmN0W.jpg",
+            "name": "FIGHT NATION",
+            "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat."
          },
          "replays": [
             {
                "id": "rep_003_1",
-               "title": "Warm-up – Opening Night",
-               "date": "2025-10-01T20:00:00+02:00",
-               "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
+               "title": "Legacy Fight Night",
+               "date": "2025-11-06T20:00:00+02:00",
+               "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser":"",
-               "stereo":false,                 
-               "description": "Set 45 min",
-               "url": "https://cdn.jumpr.fr/Jeudi_Warmup/playlist.m3u8"
+               "stereo":true,                 
+               "description": "Extrait du gala",
+               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
             },
             {
                "id": "rep_003_2",
-               "title": "Aftermovie – Été 2025",
+               "title": "Royal Fight",
                "date": "2025-09-15T18:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+               "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser":"",
-               "stereo":false,
-               "description": "Les meilleurs moments",
+               "stereo":true,
+               "description": "Extrait du gala",
                "url": "https://cdn.jumpr.fr/Jeudi_Aftermovie/playlist.m3u8"
             }
          ]
       },
       {
          "id": "cr_004",
-         "name": "Paris Culture Live",
-         "event_type":"culture",
+         "name": "100% Fight",
+         "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+         "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
          "metrics": {
             "followers": 12800,
             "subscribers": 5200
          },
-         "verified": false,
+         "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/paris-culture-live",
+            "canonical_url": "/replay/creators/100%-fight",
             "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "name": "Paris Culture Live",
-            "description": "Visites guidées d'expos et coulisses culturelles."
+            "name": "100% Fight",
+            "description": "La chaîne 100% Fight vous propose le meilleur des sports de combat à travers des combats, replays et contenus exclusifs."
          },
          "replays": [
             {
                "id": "rep_004_1",
-               "title": "Expo immersive – Parcours guidé",
+               "title": "100% Fight 62",
                "date": "2025-09-28T16:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+               "thumbnail": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser":"",
-               "stereo":false,
-               "description": "Visite live au cœur des œuvres.",
-               "url": "https://cdn.jumpr.fr/ExpoV2/playlist.m3u8"
+               "stereo":true,
+               "description": "RODRIGUEZ VS CABREL KEMEZEU",
+               "url": "https://cdn.jumpr.fr/100%Fight_8k/100%Fight_8k.mp4"
             }
          ]
       }
