@@ -165,7 +165,7 @@
          "name": "FIGHT NATION",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://pbs.twimg.com/media/ErY7j_CW4AUmN0W.jpg",
+         "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/91/13/969113b1-c5bc-c6a8-4417-0accb094bb05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
          "metrics": {
             "followers": 33400,
             "subscribers": 15600
@@ -173,7 +173,7 @@
          "verified": true,
          "channel": {
             "canonical_url": "/replay/creators/fight-nation",
-            "profile_image": "https://pbs.twimg.com/media/ErY7j_CW4AUmN0W.jpg",
+            "profile_image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/91/13/969113b1-c5bc-c6a8-4417-0accb094bb05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
             "name": "FIGHT NATION",
             "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat."
          },
@@ -196,7 +196,7 @@
                "teaser":"",
                "stereo":true,
                "description": "Extrait du gala",
-               "url": "https://cdn.jumpr.fr/Jeudi_Aftermovie/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
             }
          ]
       },
