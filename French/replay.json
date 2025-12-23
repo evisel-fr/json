@@ -2,31 +2,31 @@
    "replayCreators": [
       {
          "id": "cr_001",
-         "name": "Inside Football",
+         "name": "KSW",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
+         "thumbnail": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
          "metrics": {
             "followers": 48200,
             "subscribers": 18300
          },
          "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/inside-football",
-            "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "name": "Inside Football",
-            "description": "Tactical analysis, club insights and exclusive interviews."
+            "canonical_url": "/replay/creators/ksw",
+            "profile_image": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "name": "KSW",
+            "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses."
          },
          "replays": [
             {
                "id": "rep_001_1",
-               "title": "Match Review J10 – Ligue 1",
-               "date": "2025-10-12T20:30:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
+               "title": "Kaouchen VS Geburek",
+               "date": "2025-12-19T20:30:00+02:00",
+               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-164904.png",
                "teaser":"",
-               "stereo":false,
-               "description": "Full show on demand",
-               "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"                  
+               "stereo":true,
+               "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+               "url": "https://cdn.jumpr.fr/Kaouchen_vs_Geburek/playlist.m3u8"                  
             },
             {
                "id": "rep_001_2",
@@ -49,7 +49,7 @@
                "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8"
             },
             {
-               "id": "rep_001_1",
+               "id": "rep_001_4",
                "title": "Match Review J10 – Ligue 1",
                "date": "2025-10-12T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
@@ -59,7 +59,7 @@
                "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_2",
+               "id": "rep_001_5",
                "title": "Interview – Rising young talent",
                "date": "2025-10-15T18:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
@@ -69,7 +69,7 @@
                "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_1",
+               "id": "rep_001_6",
                "title": "Match Review J10 – Ligue 1",
                "date": "2025-10-12T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
@@ -79,7 +79,7 @@
                "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_2",
+               "id": "rep_001_7",
                "title": "Interview – Rising young talent",
                "date": "2025-10-15T18:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
@@ -89,7 +89,7 @@
                "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_3",
+               "id": "rep_001_8",
                "title": "Top goals of the month",
                "date": "2025-09-30T21:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
@@ -99,7 +99,7 @@
                "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8"
             },
             {
-               "id": "rep_001_1",
+               "id": "rep_001_9",
                "title": "Match Review J10 – Ligue 1",
                "date": "2025-10-12T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
@@ -109,7 +109,7 @@
                "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_2",
+               "id": "rep_001_10",
                "title": "Interview – Rising young talent",
                "date": "2025-10-15T18:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
@@ -119,7 +119,7 @@
                "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"                  
             },
             {
-               "id": "rep_001_3",
+               "id": "rep_001_11",
                "title": "Top goals of the month",
                "date": "2025-09-30T21:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
