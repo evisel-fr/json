@@ -157,16 +157,6 @@
                "stereo":true,                  
                "description": "Caméra au milieu du terrain",
                "url": "https://cdn.jumpr.fr/Basket-Orlean_8k/Basket-Orlean_8k.mp4"
-            },
-            {
-               "id": "rep_002_2",
-               "title": "Le dernier quart-temps du match Orléans – La Rochelle.",
-               "date": "2025-10-19T11:00:00+02:00",
-               "thumbnail": "https://www.lnb.tv/image/1920/1080/c462a9c0-c2ed-4f9a-bb34-03a91d9860d7.png?v=20251208093913&fm=webp",
-               "teaser":"",
-               "stereo":true,
-               "description": "Caméra derriére le panier de basket",
-               "url": "https://cdn.jumpr.fr/Basket-Orlean_8k/Basket-Orlean_8k.mp4"
             }
          ]
       },
