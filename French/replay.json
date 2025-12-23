@@ -2,181 +2,91 @@
    "replayCreators": [
       {
          "id": "cr_001",
-         "name": "KSW",
+         "name": "Inside Football",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
          "metrics": {
             "followers": 48200,
             "subscribers": 18300
          },
          "verified": true,
          "channel": {
-            "canonical_url": "/replay/creators/KSW",
-            "profile_image": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "name": "KSW",
-            "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses."
+            "canonical_url": "/replay/creators/inside-football",
+            "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
+            "name": "Inside Football",
+            "description": "Tactical analysis, club insights and exclusive interviews."
          },
          "replays": [
             {
                "id": "rep_001_1",
-               "title": "KSW 113",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-164904.png",
+               "title": "Match Review J10 – Ligue 1",
+               "date": "2025-10-12T20:30:00+02:00",
+               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/550825108_1156884656557254_2600194261612656895_n.jpg",
                "teaser":"",
-               "stereo":true,
-               "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/Kaouchen_vs_Geburek/playlist.m3u8"
+               "stereo":false,
+               "description": "Full show on demand",
+               "url": "https://cdn.jumpr.fr/KSW-H265/out/playlist.m3u8"                  
             },
             {
                "id": "rep_001_2",
-               "title": "采访 – 明日之星",
+               "title": "Interview – Rising young talent",
                "date": "2025-10-15T18:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "teaser":"",
-               "stereo":true,
-               "description": "短格式 – 12分钟",
-               "url": "https://cdn.jumpr.fr/KSW-8K-Premium/MorelyvsSurdyn_8K_PremiumStable.mp4"
+               "stereo":false,
+               "description": "Short format – 12 min",
+               "url": "https://cdn.jumpr.fr/InsideFoot_Interview/playlist.m3u8"                  
             },
             {
                "id": "rep_001_3",
-               "title": "KSW 113",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-22-192637.png",
-               "teaser":"",
-               "stereo":true,
-               "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
-            },
-            {
-               "id": "rep_001_3",
-               "title": "采访 – 明日之星",
-               "date": "2025-10-15T18:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "teaser":"",
-               "stereo":true,
-               "description": "短格式 – 12分钟",
-               "url": "https://cdn.jumpr.fr/KSW-8K-Premium/MorelyvsSurdyn_8K_PremiumStable.mp4"
-            },
-            {
-               "id": "rep_001_4",
-               "title": "本月最佳进球",
+               "title": "Top goals of the month",
                "date": "2025-09-30T21:00:00+02:00",
                "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
                "teaser":"",
-               "stereo":true,
-               "description": "精彩集锦",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
-            }
-            {
-               "id": "rep_001_5",
-               "title": "采访 – 明日之星",
-               "date": "2025-10-15T18:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "teaser":"",
-               "stereo":true,
-               "description": "短格式 – 12分钟",
-               "url": "https://cdn.jumpr.fr/KSW-8K-Premium/MorelyvsSurdyn_8K_PremiumStable.mp4"
-            },
-            {
-               "id": "rep_001_6",
-               "title": "KSW 113",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-22-192637.png",
-               "teaser":"",
-               "stereo":true,
-               "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
-            },
-            {
-               "id": "rep_001_7",
-               "title": "采访 – 明日之星",
-               "date": "2025-10-15T18:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "teaser":"",
-               "stereo":true,
-               "description": "短格式 – 12分钟",
-               "url": "https://cdn.jumpr.fr/KSW-8K-Premium/MorelyvsSurdyn_8K_PremiumStable.mp4"
-            },
-            {
-               "id": "rep_001_8",
-               "title": "本月最佳进球",
-               "date": "2025-09-30T21:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "teaser":"",
-               "stereo":true,
-               "description": "精彩集锦",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
-            }
-            {
-               "id": "rep_001_9",
-               "title": "采访 – 明日之星",
-               "date": "2025-10-15T18:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
-               "teaser":"",
-               "stereo":true,
-               "description": "短格式 – 12分钟",
-               "url": "https://cdn.jumpr.fr/KSW-8K-Premium/MorelyvsSurdyn_8K_PremiumStable.mp4"
-            },
-            {
-               "id": "rep_001_10",
-               "title": "本月最佳进球",
-               "date": "2025-09-30T21:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "teaser":"",
-               "stereo":true,
-               "description": "精彩集锦",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
-            }
-            {
-               "id": "rep_001_11",
-               "title": "本月最佳进球",
-               "date": "2025-09-30T21:00:00+02:00",
-               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-               "teaser":"",
-               "stereo":true,
-               "description": "精彩集锦",
-               "url": "https://cdn.jumpr.fr/KSW-8K/MorelyvsSurdyn_8K_FLUID.mp4"
+               "stereo":false,
+               "description": "Best highlights",
+               "url": "https://cdn.jumpr.fr/InsideFoot_TopButs/playlist.m3u8"
             }
          ]
       },
       {
          "id": "cr_002",
-         "name": "Orléans Loiret Basket",
+         "name": "Bakary Gym",
          "event_type":"sport",
          "teaser":"",
-         "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/a/a0/Logo_Orl%C3%A9ans_Loiret_Basket_-_2014.svg",
+         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
          "metrics": {
             "followers": 25700,
             "subscribers": 12100
          },
-         "verified": true,
+         "verified": false,
          "channel": {
-            "canonical_url": "/replay/creators/orleans-loiret-basket",
-            "profile_image": "https://upload.wikimedia.org/wikipedia/fr/a/a0/Logo_Orl%C3%A9ans_Loiret_Basket_-_2014.svg",
-            "name": "Orléans Loiret Basket",
+            "canonical_url": "/replay/creators/bakary-gym",
+            "profile_image": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+            "name": "Bakary Gym",
             "description": "Prépa physique, nutrition et coulisses d’un boxeur pro."
          },
          "replays": [
             {
                "id": "rep_002_1",
-               "title": "Orléans Loiret Basket VS La Rochelle",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail": "https://www.lnb.tv/image/1920/1080/c462a9c0-c2ed-4f9a-bb34-03a91d9860d7.png?v=20251208093913&fm=webp",
-               "teaser":"",
-               "stereo":true,
+               "title": "Sparring à haute intensité",
+               "date": "2025-10-10T17:00:00+02:00",
+               "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/558995744_1104559571658571_7556524691112463794_n.jpg",
+               "teaser":"",                  
+               "stereo":false,                  
                "description": "Caméra au bord du ring",
-               "url": "https://cdn.jumpr.fr/Basket-1/Orlean_opti.mp4"
+               "url": "https://cdn.jumpr.fr/Bakary_Ring/playlist.m3u8"
             },
             {
                "id": "rep_002_2",
-               "title": "Orléans Loiret Basket VS La Rochelle",
-               "date": "2025-12-19T11:00:00+02:00",
-               "thumbnail": "https://www.lnb.tv/image/1920/1080/c462a9c0-c2ed-4f9a-bb34-03a91d9860d7.png?v=20251208093913&fm=webp",
+               "title": "Routine d’entraînement – Épaules",
+               "date": "2025-10-05T11:00:00+02:00",
+               "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer3.jpg?alt=media&token=b8e5ce5b-0f3a-4648-8356-19d315e940d5",
                "teaser":"",
-               "stereo":true,
+               "stereo":false,
                "description": "Séance guidée 25 min",
-               "url": "https://cdn.jumpr.fr/Basket-2/Orlean_8K_PremiumStable.mp4"
+               "url": "https://cdn.jumpr.fr/Bakary_Workout/playlist.m3u8"
             }
          ]
       },
@@ -204,7 +114,7 @@
                "date": "2025-10-01T20:00:00+02:00",
                "thumbnail": "https://www.festivaloffavignon.com/data/spectacles/5564-zmJgPjmxaak29E8CYihX-catalogue.png",
                "teaser":"",
-               "stereo":false,
+               "stereo":false,                 
                "description": "Set 45 min",
                "url": "https://cdn.jumpr.fr/Jeudi_Warmup/playlist.m3u8"
             },
