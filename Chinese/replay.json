@@ -229,6 +229,36 @@
                "url": "https://cdn.jumpr.fr/100%Fight_8k/100%Fight_8k.mp4"
             }
          ]
+      },
+      {
+         "id": "cr_005",
+         "name": "Servette FC",
+         "event_type":"sport",
+         "teaser":"",
+         "thumbnail": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+         "metrics": {
+            "followers": 12800,
+            "subscribers": 5200
+         },
+         "verified": true,
+         "channel": {
+            "canonical_url": "/replay/creators/servette-fc",
+            "profile_image": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "name": "Servette FC",
+            "description": "Servette FC 官方频道为你带来比赛、回放以及回顾俱乐部历史与最新动态的独家内容。"
+         },
+         "replays": [
+            {
+               "id": "rep_005_1",
+               "title": "俱乐部成立 135 周年！",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser":"",
+               "stereo":true,
+               "description": "训练与游戏秀",
+               "url": "https://cdn.jumpr.fr/Le_Servette_FC_fête_ses_125_ans_8k/Le_Servette_FC_fête_ses_125_ans_8k.mp4"
+            }
+         ]
       }
    ]
 }
