@@ -5,21 +5,20 @@
          "name": "KSW",
          "event_type":"sport",
          "teaser":"",
+         "canonical_url": "/replay/creators/ksw",
          "thumbnail": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+         "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses.",
+         "classement":0,
+         "colorHexa": "#000000",
+         "verified": true,        
          "metrics": {
             "followers": 48200,
             "subscribers": 18300
          },
-         "verified": true,
-         "channel": {
-            "canonical_url": "/replay/creators/ksw",
-            "profile_image": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "name": "KSW",
-            "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses."
-         },
          "replays": [
             {
                "id": "rep_001_1",
+               "classement":0,
                "title": "KAOUCHEN VS GEBUREK",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
@@ -30,6 +29,7 @@
             },
             {
                "id": "rep_001_4",
+               "classement":0,
                "title": "WLODARCZYK VS KRAWCZYK",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
@@ -40,6 +40,7 @@
             },
             {
                "id": "rep_001_5",
+               "classement":0,
                "title": "MORELLI VS SURDYN",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
@@ -50,6 +51,7 @@
             },
             {
                "id": "rep_001_2",
+               "classement":0,
                "title": "ZALEWSKI VS DEBIENNE",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
@@ -60,6 +62,7 @@
             },
             {
                "id": "rep_001_6",
+               "classement":0,
                "title": "SAKAI VS WOJCIK",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
@@ -70,6 +73,7 @@
             },
             {
                "id": "rep_001_7",
+               "classement":0,
                "title": "ROZALSKI VS BEKAVAC",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
@@ -80,6 +84,7 @@
             },
              {
                "id": "rep_001_8",
+               "classement":0,
                "title": "MICHALSKI VS JANIKOWSKI",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
@@ -90,6 +95,7 @@
             },
             {
                "id": "rep_001_3",
+               "classement":0,
                "title": "AJ VS LISEK",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
@@ -100,6 +106,7 @@
             },
             {
                "id": "rep_001_9",
+               "classement":0,
                "title": "MARTINEK VS SZPILKA",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
@@ -110,6 +117,7 @@
             },
             {
                "id": "rep_001_10",
+               "classement":0,
                "title": "PAWLAK VS ZERHOUNI",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
@@ -120,6 +128,7 @@
             },
             {
                "id": "rep_001_11",
+               "classement":0,
                "title": "BARTTOSINSKI VS TULSHAEV",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
@@ -135,21 +144,20 @@
          "name": "Orléans Loiret Basket",
          "event_type":"sport",
          "teaser":"",
+         "canonical_url": "/replay/creators/orleans-loiret-basket",
          "thumbnail": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+         "description": "La chaîne Orléans Loiret Basket vous plonge au cœur du club avec des matchs, replays et temps forts exclusifs.",
+         "classement":0,
+         "colorHexa": "#000000",
+         "verified": true,
          "metrics": {
             "followers": 25700,
             "subscribers": 12100
-         },
-         "verified": true,
-         "channel": {
-            "canonical_url": "/replay/creators/orleans-loiret-basket",
-            "profile_image": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "name": "Orléans Loiret Basket",
-            "description": "La chaîne Orléans Loiret Basket vous plonge au cœur du club avec des matchs, replays et temps forts exclusifs."
-         },
+         },        
          "replays": [
             {
                "id": "rep_002_1",
+               "classement":0,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail": "https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/599957222_1507636328029041_214829872522856768_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JfXcDciylaIQ7kNvwEEVOUD&_nc_oc=AdmHPMoPHffoecuI-eApIohcjcJeotZBaQX-MAZJCGwX8mcE3R2MMvmWPNyxKeyzkhId5BDmkcq_XtiwOtJ7pXuz&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=vikZdgk2r5FN7KKsaQX4eQ&oh=00_AfkScjNdBz1hxl7r4xNul-eQINFr8rmn4ZCmbS12VT97dw&oe=6950C999",
@@ -165,21 +173,20 @@
          "name": "FIGHT NATION",
          "event_type":"sport",
          "teaser":"",
+         "canonical_url": "/replay/creators/fight-nation",
          "thumbnail": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+         "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat.",
+         "classement":0,
+         "colorHexa": "#000000",
+         "verified": true,
          "metrics": {
             "followers": 33400,
             "subscribers": 15600
-         },
-         "verified": true,
-         "channel": {
-            "canonical_url": "/replay/creators/fight-nation",
-            "profile_image": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
-            "name": "FIGHT NATION",
-            "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat."
-         },
+         },        
          "replays": [
             {
                "id": "rep_003_1",
+               "classement":0,
                "title": "Legacy Fight Night",
                "date": "2025-11-06T20:00:00+02:00",
                "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
@@ -190,6 +197,7 @@
             },
             {
                "id": "rep_003_2",
+               "classement":0,
                "title": "Royal Fight",
                "date": "2025-09-15T18:00:00+02:00",
                "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
@@ -205,21 +213,20 @@
          "name": "100% Fight",
          "event_type":"sport",
          "teaser":"",
+         "canonical_url": "/replay/creators/100%-fight",
          "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+         "description": "La chaîne 100% Fight vous propose le meilleur des sports de combat à travers des combats, replays et contenus exclusifs.",
+         "classement":0,
+         "colorHexa": "#000000",
+         "verified": true,
          "metrics": {
             "followers": 12800,
             "subscribers": 5200
          },
-         "verified": true,
-         "channel": {
-            "canonical_url": "/replay/creators/100%-fight",
-            "profile_image": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85",
-            "name": "100% Fight",
-            "description": "La chaîne 100% Fight vous propose le meilleur des sports de combat à travers des combats, replays et contenus exclusifs."
-         },
          "replays": [
             {
                "id": "rep_004_1",
+               "classement":0,
                "title": "100% Fight 62",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
@@ -235,21 +242,20 @@
          "name": "Servette FC",
          "event_type":"sport",
          "teaser":"",
+         "canonical_url": "/replay/creators/servette-fc",
          "thumbnail": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+         "description": "La chaîne du Servette FC vous propose des matchs, replays et contenus exclusifs retraçant l’histoire et l’actualité du club.",
+         "classement":0,
+         "colorHexa": "#000000",
+         "verified": true,
          "metrics": {
             "followers": 12800,
             "subscribers": 5200
-         },
-         "verified": true,
-         "channel": {
-            "canonical_url": "/replay/creators/servette-fc",
-            "profile_image": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "name": "Servette FC",
-            "description": "La chaîne du Servette FC vous propose des matchs, replays et contenus exclusifs retraçant l’histoire et l’actualité du club."
-         },
+         },         
          "replays": [
             {
                "id": "rep_005_1",
+               "classement":0,
                "title": "Les 135 ans du club !",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",

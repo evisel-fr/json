@@ -8,15 +8,7 @@
          "description": "",
          "location": "",
          "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": "",
-         "stream": {
-            "id": "stream_01",
-            "title": "",
-            "description": "",
-            "url": "",
-            "thumbnail": "",
-            "language": ""
-         }
+         "start_time": ""
       },
       {
          "id": "pln_102",
@@ -26,15 +18,7 @@
          "description": "",
          "location": "",
          "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": "",
-         "stream": {
-            "id": "stream_01",
-            "title": "",
-            "description": "",
-            "url": "",
-            "thumbnail": "",
-            "language": ""
-         }
+         "start_time": ""
       },
       {
          "id": "pln_103",
@@ -44,15 +28,7 @@
          "description": "",
          "location": "",
          "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": "",
-         "stream": {
-            "id": "stream_01",
-            "title": "",
-            "description": "",
-            "url": "",
-            "thumbnail": "",
-            "language": ""
-         }
+         "start_time": ""
       },
       {
          "id": "pln_104",
@@ -62,15 +38,7 @@
          "description": "",
          "location": "",
          "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": "",
-         "stream": {
-            "id": "stream_01",
-            "title": "",
-            "description": "",
-            "url": "",
-            "thumbnail": "",
-            "language": ""
-         }
+         "start_time": ""
       }
    ]
 }

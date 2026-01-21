@@ -1,0 +1,28 @@
+{
+   "pub": [
+      {
+         "id": "pln_101",
+         "title": "",
+         "description": "",
+         "thumbnail": "https://fastly.picsum.photos/id/741/1280/720.jpg?hmac=geRZNoC6vZ53tqou3ARC3Aby29Ml8rT3iwOjMjfdxjo"
+      },
+      {
+         "id": "pln_102",
+         "title": "",
+         "description": "",
+         "thumbnail": "https://fastly.picsum.photos/id/826/1920/1080.jpg?hmac=CSZ6ZNnqhNlFOUi55Unatj6afDU9RgJUK2RB6IPwkwg"
+      },
+      {
+         "id": "pln_103",
+         "title": "",
+         "description": "",
+         "thumbnail": "https://placeholdpicsum.dev/photo/1600/900"
+      },
+      {
+         "id": "pln_104",
+         "title": "",
+         "description": "",
+         "thumbnail": "https://plchldr.co/i/1600x900"
+      }
+   ]
+}
