@@ -1,30 +1,82 @@
 {
-   "events":[
-      {
-         "id":"evt_003",
-         "title":"",
-         "description":"",
-         "location":"",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "teaser":"",
-         "event_type":"",
-         "stereo":false,
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"",
-               "description":"",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
-            },
-            {
-               "id":"stream_02",
-               "title":"",
-               "description":"",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
-            }
-         ]
-      }
-   ]
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "Orléans Loiret Basket",
+      "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+      "location": "Orléans",
+      "thumbnail": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        },
+        {
+          "id": "stream_02",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        }
+      ]
+    },
+    {
+      "id": "evt_002",
+      "title": "FIGHT NATION",
+      "description": "Extrait du gala Legacy Fight Night",
+      "location": "Paris",
+      "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        },
+        {
+          "id": "stream_02",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        }
+      ]
+    },
+    {
+      "id": "evt_003",
+      "title": "Servette FC",
+      "description": "Les 135 ans du club !",
+      "location": "Genève",
+      "thumbnail": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        },
+        {
+          "id": "stream_02",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4",
+          "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
+        }
+      ]
+    }
+  ]
 }
