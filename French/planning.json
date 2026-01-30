@@ -1,44 +1,44 @@
 {
-   "planning": [
-      {
-         "id": "pln_101",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_102",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_103",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_104",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      }
-   ]
+  "planning": [
+    {
+      "id": "pln_101",
+      "title": "PSG vs FC Nantes",
+      "event_type": "Football - Ligue 1",
+      "price": "À partir de 25€",
+      "description": "Affiche de Ligue 1 opposant le Paris Saint-Germain au FC Nantes dans une rencontre décisive pour le haut du classement.",
+      "location": "Parc des Princes, Paris",
+      "thumbnail": "https://billetterie.psg.fr/media/paris_nantes_copie.png",
+      "start_time": "2026-02-15T21:00:00"
+    },
+    {
+      "id": "pln_102",
+      "title": "Festival Sport & Territoires",
+      "event_type": "Événement régional",
+      "price": "Gratuit",
+      "description": "Journée dédiée au sport et aux initiatives locales avec démonstrations, rencontres et animations pour tous les publics.",
+      "location": "Centre-Val de Loire, France",
+      "thumbnail": "https://www.centre-valdeloire.fr/sites/default/files/media/image/2024-12/469165995_1001356755358836_6635649083546772435_n.jpg",
+      "start_time": "2026-02-20T10:00:00"
+    },
+    {
+      "id": "pln_103",
+      "title": "Fight Night – Championnat Indoor",
+      "event_type": "Sport de combat",
+      "price": "15€",
+      "description": "Soirée de combats spectaculaires réunissant les meilleurs athlètes nationaux dans une ambiance survoltée.",
+      "location": "Arena Métropolitaine",
+      "thumbnail": "https://sportall-images-staging.s3.eu-west-3.amazonaws.com/public/6966124d999ba030a8c89f0f_fg41WUIM4Bqj4M.jpeg",
+      "start_time": "2026-02-22T19:30:00"
+    },
+    {
+      "id": "pln_104",
+      "title": "Live Show Gaming & Esport",
+      "event_type": "Esport / Streaming",
+      "price": "Accès en ligne – Gratuit",
+      "description": "Émission live dédiée au gaming et à l’esport avec invités, analyses en direct et interactions avec la communauté.",
+      "location": "En ligne (Streaming)",
+      "thumbnail": "https://i.ytimg.com/vi/SFKNG57scXA/maxresdefault.jpg",
+      "start_time": "2026-02-25T20:00:00"
+    }
+  ]
 }
