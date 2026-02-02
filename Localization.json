@@ -2,7 +2,7 @@
   "English": {
     "Home": "Home",
     "Live": "Live",
-    "Come": "Soon",
+    "Come": "Schedule",
     "Replay": "Replay",
     "Account": "Account",
     "VideoEnabled": "Available videos",
@@ -25,12 +25,19 @@
     "MenuReplaySport": "Replay Sport",
     "Yes": "Yes",
     "No": "No",
-    "LaunchLive": "Do you want to start the live?"
+    "LaunchLive": "Do you want to start the live?",
+    "SeeAll": "See all",
+    "TopCreators": "Top 4 Creators",
+    "OtherCreators": "Other Creators",
+    "ContenuCreator": "Creator Content",
+    "LiveToCome": "Live to come",
+    "Subscribe": "Subscribe",
+    "Favorite": "Favorite"
   },
   "French": {
     "Home": "Accueil",
     "Live": "Live à la une",
-    "Come": "À venir",
+    "Come": "Programmation",
     "Replay": "Replay",
     "Account": "Mon compte",
     "VideoEnabled": "Vidéos disponibles",
@@ -53,12 +60,19 @@
     "MenuReplaySport": "Replay Sport",
     "Yes": "Oui",
     "No": "Non",
-    "LaunchLive": "Voulez vous lancer le live ?"
+    "LaunchLive": "Voulez vous lancer le live ?",
+    "SeeAll": "Tout voir",
+    "TopCreators": "Top 4 des Créateurs",
+    "OtherCreators": "Autres Créateurs",
+    "ContenuCreator": "Contenu du Créateur",
+    "LiveToCome": "Live à venir",
+    "Subscribe": "S'abonner",
+    "Favorite": "Favori"
   },
   "Chinese": {
     "Home": "主页",
     "Live": "直播",
-    "Come": "即将到来",
+    "Come": "节目安排",
     "Replay": "回放",
     "Account": "账户",
     "VideoEnabled": "可用视频",
@@ -81,7 +95,14 @@
     "MenuReplaySport": "体育回放",
     "Yes": "是",
     "No": "否",
-    "LaunchLive": "您要开始直播吗？"
+    "LaunchLive": "您要开始直播吗？",
+    "SeeAll": "查看全部",
+    "TopCreators": "前4名创作者",
+    "OtherCreators": "其他创作者",
+    "ContenuCreator": "创作者内容",
+    "LiveToCome": "即将直播",
+    "Subscribe": "订阅",
+    "Favorite": "收藏夹"
   }
 }
 
