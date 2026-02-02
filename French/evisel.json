@@ -15,6 +15,7 @@
           "title": "",
           "description": "",
           "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4",
+          "stereo":true,
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
         },
         {
@@ -80,3 +81,4 @@
     }
   ]
 }
+
