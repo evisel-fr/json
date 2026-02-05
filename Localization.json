@@ -34,7 +34,9 @@
     "Subscribe": "Subscribe",
     "Favorite": "Favorite",
     "NoLiveAvailable": "No live available",
-    "NoComesAvailable": "No live to come"
+    "NoComesAvailable": "No live to come",
+    "BestReplayCreator": "Best videos",
+    "Return": "Return"
   },
   "French": {
     "Home": "Accueil",
@@ -71,7 +73,9 @@
     "Subscribe": "S'abonner",
     "Favorite": "Favori",
     "NoLiveAvailable": "Aucun live disponible",
-    "NoComesAvailable": "Aucun live à venir"
+    "NoComesAvailable": "Aucun live à venir",
+    "BestReplayCreator": "Meilleures vidéos",
+    "Return": "Retour"
   },
   "Chinese": {
     "Home": "主页",
@@ -108,7 +112,9 @@
     "Subscribe": "订阅",
     "Favorite": "收藏夹",
     "NoLiveAvailable": "没有可用的直播",
-    "NoComesAvailable": "没有即将直播"
+    "NoComesAvailable": "没有即将直播",
+    "BestReplayCreator": "最佳视频",
+    "Return": "返回"
   }
 }
 
