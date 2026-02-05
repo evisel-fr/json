@@ -2,10 +2,10 @@
   "events": [
     {
       "id": "evt_001",
-      "title": "Orléans Loiret Basket",
-      "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+      "title": "Association Demain Solidaire",
+      "description": "Visioconférence",
       "location": "Orléans",
-      "thumbnail": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCpC76ys0EQd9mmuSaNzXcWGEDx0yej4UMA&s",
       "teaser": "",
       "event_type": "sport",
       "stereo": false,
@@ -21,7 +21,7 @@
           "id": "stream_02",
           "title": "",
           "description": "",
-          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4",
+          "url": "rtmp://tencentplay.evisel-playback.com/live/camera2",
           "thumbnail": "https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
         }
       ]
@@ -80,6 +80,7 @@
     }
   ]
 }
+
 
 
 
