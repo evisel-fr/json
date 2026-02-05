@@ -32,7 +32,8 @@
     "ContenuCreator": "Creator Content",
     "LiveToCome": "Live to come",
     "Subscribe": "Subscribe",
-    "Favorite": "Favorite"
+    "Favorite": "Favorite",
+    "NoLiveAvailable": "No live available"
   },
   "French": {
     "Home": "Accueil",
@@ -67,7 +68,8 @@
     "ContenuCreator": "Contenu du Créateur",
     "LiveToCome": "Live à venir",
     "Subscribe": "S'abonner",
-    "Favorite": "Favori"
+    "Favorite": "Favori",
+    "NoLiveAvailable": "Aucun live disponible"
   },
   "Chinese": {
     "Home": "主页",
@@ -102,7 +104,8 @@
     "ContenuCreator": "创作者内容",
     "LiveToCome": "即将直播",
     "Subscribe": "订阅",
-    "Favorite": "收藏夹"
+    "Favorite": "收藏夹",
+    "NoLiveAvailable": "没有可用的直播"
   }
 }
 
