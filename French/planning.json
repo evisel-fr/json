@@ -2,43 +2,63 @@
   "planning": [
     {
       "id": "pln_101",
-      "title": "PSG vs FC Nantes",
-      "event_type": "Football - Ligue 1",
-      "price": "À partir de 25€",
-      "description": "Affiche de Ligue 1 opposant le Paris Saint-Germain au FC Nantes dans une rencontre décisive pour le haut du classement.",
-      "location": "Parc des Princes, Paris",
-      "thumbnail": "https://hbcnantes.com/uploads/hbc-nantes/actu/decembre-2022/22-23-xxl-psg-cube-basique.jpg",
-      "start_time": "2026-02-15T21:00:00"
+      "title": "Fight Nation : Gala Fraternité Police & Forces de l'Ordre",
+      "event_type": "MMA",
+      "price": "2.99 €",
+      "description": "Le 29 mars, le MMA s'engage ! Fight Nation et la Fraternité Police s'unissent pour une soirée de combats intenses sous le parrainage du champion Jimmy Vienot. Vivez un événement unique où l'élite des forces de l'ordre monte dans la cage pour la bonne cause.",
+      "location": "Paris",
+      "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
+      "start_time": "2026-03-29T21:00:00"
     },
     {
       "id": "pln_102",
-      "title": "Festival Sport & Territoires",
-      "event_type": "Événement régional",
-      "price": "Gratuit",
-      "description": "Journée dédiée au sport et aux initiatives locales avec démonstrations, rencontres et animations pour tous les publics.",
-      "location": "Centre-Val de Loire, France",
-      "thumbnail": "https://www.centre-valdeloire.fr/sites/default/files/media/image/2024-12/469165995_1001356755358836_6635649083546772435_n.jpg",
-      "start_time": "2026-02-20T10:00:00"
+      "title": "KSW 117",
+      "event_type": "MMA",
+      "price": "6.99 €",
+      "description": "Prochain gala XTB KSW 117",
+      "location": "Pologne",
+      "thumbnail": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+      "start_time": "2026-04-20T20:00:00"
     },
     {
       "id": "pln_103",
-      "title": "Fight Night – Championnat Indoor",
-      "event_type": "Sport de combat",
-      "price": "15€",
-      "description": "Soirée de combats spectaculaires réunissant les meilleurs athlètes nationaux dans une ambiance survoltée.",
-      "location": "Arena Métropolitaine",
-      "thumbnail": "https://sportall-images-staging.s3.eu-west-3.amazonaws.com/public/6966124d999ba030a8c89f0f_fg41WUIM4Bqj4M.jpeg",
-      "start_time": "2026-02-22T19:30:00"
+      "title": "Finales du Top 12 Badminton Français",
+      "event_type": "Badminton",
+      "price": "4.99 €",
+      "description": "Retrouvez les 4 meilleures équipes d'interclubs de badminton",
+      "location": "France",
+      "thumbnail": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
+      "start_time": "2026-05-08T19:30:00"
     },
     {
       "id": "pln_104",
-      "title": "Live Show Gaming & Esport",
-      "event_type": "Esport / Streaming",
-      "price": "Accès en ligne – Gratuit",
-      "description": "Émission live dédiée au gaming et à l’esport avec invités, analyses en direct et interactions avec la communauté.",
-      "location": "En ligne (Streaming)",
-      "thumbnail": "https://i.ytimg.com/vi/SFKNG57scXA/maxresdefault.jpg",
-      "start_time": "2026-02-25T20:00:00"
+      "title": "Tek Fight 5",
+      "event_type": "Muay Thai/MMA",
+      "price": "4.99 €",
+      "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
+      "location": "France",
+      "thumbnail": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+      "start_time": "2026-05-23T19:30:00"
+    },
+    {
+      "id": "pln_105",
+      "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
+      "event_type": "Handball",
+      "price": "14.99 €",
+      "description": "Mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s’affronteront à l’Accor Arena à Paris dans le cadre de la 28ème journée de Liqui Moly StarLigue. Un match au sommet, qui pourrait être décisif dans la course au titre, le PSG ne comptant actuellement que deux points d’avance sur le HBC Nantes.",
+      "location": "ACCOR ARENA, France",
+      "thumbnail": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
+      "start_time": "2026-05-27T19:30:00"
+    },
+    {
+      "id": "pln_106",
+      "title": "Yonex Internationaux France Badminton",
+      "event_type": "Badminton",
+      "price": "14.99 €",
+      "description": "Les meilleurs joueurs du monde se retrouveront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
+      "location": "France",
+      "thumbnail": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
+      "start_time": "2026-10-21T20:00:00"
     }
   ]
 }
