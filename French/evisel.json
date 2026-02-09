@@ -24,7 +24,7 @@
       "title": "Orléans vs La Rochelle",
       "description": "Le premier quart-temps du match Orléans – La Rochelle.",
       "location": "Orléans",
-      "thumbnail": "https://img.centrefrance.com/tPkB_ejgUFM2r39XgvH76CO7P2sMr2MJiVXXG7X0A6E/rs:fit:657:438:1:0/bG9jYWw6Ly8vMDAvMDAvMDcvNTYvNDEvMjAwMDAwNzU2NDE4MA.webp",
+      "thumbnail": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
       "teaser": "",
       "event_type": "sport",
       "stereo": true,
@@ -59,6 +59,7 @@
     }
   ]
 }
+
 
 
 
