@@ -2,8 +2,8 @@
   "events": [
     {
       "id": "evt_001",
-      "title": "KSW 113",
-      "description": "MMA",
+      "title": "KSW 113 Rozalski vs Bekavac",
+      "description": "Stipe Bekavac par KO (coup de poing), 2:59, 1er round",
       "location": "Atlas Arena de Lodz en Pologne",
       "thumbnail": "https://i.ytimg.com/vi/IsZ06E5heHE/maxresdefault.jpg",
       "teaser": "",
@@ -59,6 +59,7 @@
     }
   ]
 }
+
 
 
 
