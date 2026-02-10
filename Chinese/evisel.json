@@ -1,30 +1,61 @@
-{
-   "events":[
-      {
-         "id":"evt_003",
-         "title":"",
-         "description":"",
-         "location":"",
-         "thumbnail":"https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "teaser":"",
-         "event_type":"",
-         "stereo":false,
-         "streams":[
-            {
-               "id":"stream_01",
-               "title":"",
-               "description":"",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera1",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
-            },
-            {
-               "id":"stream_02",
-               "title":"",
-               "description":"",
-               "url":"rtmp://tencentplay.evisel-playback.com/live/camera2",
-               "thumbnail":"https://firebasestorage.googleapis.com/v0/b/jeli-a53be.appspot.com/o/evisel%2Fsoccer1.jpg?alt=media&token=85af6aad-8743-4ef9-9597-0cf33dd7cb85"
-            }
-         ]
-      }
-   ]
+{ 
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "KSW 113 Rozalski vs Bekavac",
+      "description": "Stipe Bekavac 以KO（拳击）获胜，2分59秒，第1回合",
+      "location": "波兰罗兹 Atlas Arena",
+      "thumbnail": "https://i.ytimg.com/vi/IsZ06E5heHE/maxresdefault.jpg",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "Rozalski vs Bekavac",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/KSW_8k/RozalskivsBekavac_8k.mp4",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "evt_002",
+      "title": "Orléans vs La Rochelle",
+      "description": "奥尔良对阵拉罗谢尔比赛的第一节，摄像机位于篮筐后方。",
+      "location": "奥尔良",
+      "thumbnail": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4",
+          "thumbnail": ""
+        }
+      ]
+    },
+    {
+      "id": "evt_003",
+      "title": "Servette FC",
+      "description": "为庆祝俱乐部成立135周年的训练和游戏秀！",
+      "location": "日内瓦",
+      "thumbnail": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+      "teaser": "",
+      "event_type": "sport",
+      "stereo": true,
+      "streams": [
+        {
+          "id": "stream_01",
+          "title": "",
+          "description": "",
+          "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4",
+          "thumbnail": ""
+        }
+      ]
+    }
+  ]
 }
