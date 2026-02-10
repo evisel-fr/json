@@ -296,7 +296,7 @@
       "replays": [
         {
           "id": "rep_002_1",
-          "classement": 4,
+          "classement": 6,
           "title": "Le premier quart-temps du match Orléans – La Rochelle.",
           "date": "2025-12-19T17:00:00+02:00",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg",
@@ -379,7 +379,7 @@
       "logo": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
       "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
       "description": "La chaîne Orléans Loiret Basket vous plonge au cœur du club avec des matchs, replays et temps forts exclusifs.",
-      "classement": 0,
+      "classement": 1,
       "colorHexa": "#000000",
       "verified": true,
       "metrics": {
@@ -389,7 +389,7 @@
       "replays": [
         {
           "id": "rep_002_1",
-          "classement": 6,
+          "classement": 4,
           "title": "Le premier quart-temps du match Orléans – La Rochelle.",
           "date": "2025-12-19T17:00:00+02:00",
           "thumbnail": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
