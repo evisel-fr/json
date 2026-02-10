@@ -22,7 +22,7 @@
     {
       "id": "evt_002",
       "title": "Orléans vs La Rochelle",
-      "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+      "description": "Le premier quart-temps du match Orléans – La Rochelle, caméra derrière le panier.",
       "location": "Orléans",
       "thumbnail": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
       "teaser": "",
@@ -33,7 +33,7 @@
           "id": "stream_01",
           "title": "",
           "description": "",
-          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4",
+          "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4",
           "thumbnail": ""
         }
       ]
@@ -59,6 +59,7 @@
     }
   ]
 }
+
 
 
 
