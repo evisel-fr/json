@@ -1,44 +1,64 @@
 {
-   "planning": [
-      {
-         "id": "pln_101",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_102",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_103",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_104",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      }
-   ]
+  "planning": [
+    {
+      "id": "pln_101",
+      "title": "Fight Nation：警察与执法力量兄弟会格斗盛典",
+      "event_type": "MMA",
+      "price": "2.99 €",
+      "description": "3月29日，MMA 为公益而战！Fight Nation 与警察兄弟会携手，在冠军 Jimmy Vienot 的支持下呈现一场激烈的格斗之夜。体验一场独特赛事，执法精英为公益走进笼中对决。",
+      "location": "巴黎",
+      "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
+      "start_time": "2026-03-29T21:00:00"
+    },
+    {
+      "id": "pln_102",
+      "title": "KSW 117",
+      "event_type": "MMA",
+      "price": "6.99 €",
+      "description": "下一场 XTB KSW 117 格斗盛典",
+      "location": "波兰",
+      "thumbnail": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+      "start_time": "2026-04-20T20:00:00"
+    },
+    {
+      "id": "pln_103",
+      "title": "法国羽毛球 Top 12 决赛",
+      "event_type": "Badminton",
+      "price": "4.99 €",
+      "description": "汇聚法国羽毛球俱乐部联赛最强的四支队伍。",
+      "location": "法国",
+      "thumbnail": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
+      "start_time": "2026-05-08T19:30:00"
+    },
+    {
+      "id": "pln_104",
+      "title": "Tek Fight 5",
+      "event_type": "Muay Thai/MMA",
+      "price": "4.99 €",
+      "description": "5月23日，Jesse Owens 体育馆将再次迎来笼斗赛事，MMA 这项快速发展的运动延续了本地俱乐部以泰拳和踢拳为基础的传统。",
+      "location": "法国",
+      "thumbnail": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+      "start_time": "2026-05-23T19:30:00"
+    },
+    {
+      "id": "pln_105",
+      "title": "法国国家手球联赛：PSG Handball vs HBC Nantes",
+      "event_type": "Handball",
+      "price": "14.99 €",
+      "description": "2026年5月27日，巴黎圣日耳曼手球队将在巴黎 Accor Arena 与 HBC Nantes 进行 Liqui Moly StarLigue 第28轮对决。这场巅峰之战可能决定冠军归属，目前 PSG 仅领先南特两分。",
+      "location": "ACCOR ARENA，法国",
+      "thumbnail": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
+      "start_time": "2026-05-27T19:30:00"
+    },
+    {
+      "id": "pln_106",
+      "title": "Yonex 法国羽毛球公开赛",
+      "event_type": "Badminton",
+      "price": "14.99 €",
+      "description": "世界顶级羽毛球选手将再次齐聚 Yonex 法国羽毛球公开赛。",
+      "location": "法国",
+      "thumbnail": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
+      "start_time": "2026-10-21T20:00:00"
+    }
+  ]
 }
