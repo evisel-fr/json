@@ -301,7 +301,7 @@
           "date": "2025-12-19T17:00:00+02:00",
           "thumbnail": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
           "teaser": "",
-          "stereo": true,
+          "stereo": false,
           "description": "Caméra scène",
           "url": "https://cdn.jumpr.fr/Dembele_8k/Ousmane30fps.mp4"
         }
