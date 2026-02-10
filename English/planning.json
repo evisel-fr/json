@@ -1,44 +1,64 @@
 {
-   "planning": [
-      {
-         "id": "pln_101",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_102",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_103",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      },
-      {
-         "id": "pln_104",
-         "title": "",
-         "event_type": "",
-         "price": "",
-         "description": "",
-         "location": "",
-         "thumbnail": "https://evisel-tv.fr/wp-content/uploads/2025/10/Logo-final.jpg",
-         "start_time": ""
-      }
-   ]
+  "planning": [
+    {
+      "id": "pln_101",
+      "title": "Fight Nation: Police & Law Enforcement Brotherhood Gala",
+      "event_type": "MMA",
+      "price": "2.99 €",
+      "description": "On March 29, MMA fights for a cause! Fight Nation and the Police Brotherhood unite for an intense fight night under the patronage of champion Jimmy Vienot. Experience a unique event where elite law enforcement members step into the cage for charity.",
+      "location": "Paris",
+      "thumbnail": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
+      "start_time": "2026-03-29T21:00:00"
+    },
+    {
+      "id": "pln_102",
+      "title": "KSW 117",
+      "event_type": "MMA",
+      "price": "6.99 €",
+      "description": "Upcoming XTB KSW 117 gala event.",
+      "location": "Poland",
+      "thumbnail": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+      "start_time": "2026-04-20T20:00:00"
+    },
+    {
+      "id": "pln_103",
+      "title": "French Badminton Top 12 Finals",
+      "event_type": "Badminton",
+      "price": "4.99 €",
+      "description": "Featuring the four best interclub badminton teams in France.",
+      "location": "France",
+      "thumbnail": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
+      "start_time": "2026-05-08T19:30:00"
+    },
+    {
+      "id": "pln_104",
+      "title": "Tek Fight 5",
+      "event_type": "Muay Thai/MMA",
+      "price": "4.99 €",
+      "description": "On May 23 at Jesse Owens Gymnasium, the cage returns with MMA, a rapidly growing discipline continuing the legacy of Muay Thai and kickboxing, historic pillars of the local club.",
+      "location": "France",
+      "thumbnail": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+      "start_time": "2026-05-23T19:30:00"
+    },
+    {
+      "id": "pln_105",
+      "title": "French National Handball League: PSG Handball vs HBC Nantes",
+      "event_type": "Handball",
+      "price": "14.99 €",
+      "description": "On May 27, 2026, Paris Saint-Germain Handball and HBC Nantes will face each other at the Accor Arena in Paris during the 28th round of Liqui Moly StarLigue. A top-level clash that could be decisive in the title race, with PSG currently only two points ahead of Nantes.",
+      "location": "ACCOR ARENA, France",
+      "thumbnail": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
+      "start_time": "2026-05-27T19:30:00"
+    },
+    {
+      "id": "pln_106",
+      "title": "Yonex French Open Badminton",
+      "event_type": "Badminton",
+      "price": "14.99 €",
+      "description": "The world's best players will gather once again for a new edition of the Yonex French Open Badminton tournament.",
+      "location": "France",
+      "thumbnail": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
+      "start_time": "2026-10-21T20:00:00"
+    }
+  ]
 }
