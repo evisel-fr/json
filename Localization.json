@@ -27,9 +27,9 @@
     "No": "No",
     "LaunchLive": "Do you want to start the live?",
     "SeeAll": "See all",
-    "TopCreators": "Top 4 Creators",
-    "OtherCreators": "Other Creators",
-    "ContenuCreator": "Creator Content",
+    "TopCreators": "Top 4 Chanels",
+    "OtherCreators": "Other Chanels",
+    "ContenuCreator": "Chanel Content",
     "LiveToCome": "Live to come",
     "Subscribe": "Subscribe",
     "Favorite": "Favorite",
@@ -66,9 +66,9 @@
     "No": "Non",
     "LaunchLive": "Voulez vous lancer le live ?",
     "SeeAll": "Tout voir",
-    "TopCreators": "Top 4 des Créateurs",
-    "OtherCreators": "Autres Créateurs",
-    "ContenuCreator": "Contenu du Créateur",
+    "TopCreators": "Top 4 des Chaines",
+    "OtherCreators": "Autres Chaines",
+    "ContenuCreator": "Contenu de la chaine",
     "LiveToCome": "Live à venir",
     "Subscribe": "S'abonner",
     "Favorite": "Favori",
@@ -105,9 +105,9 @@
     "No": "否",
     "LaunchLive": "您要开始直播吗？",
     "SeeAll": "查看全部",
-    "TopCreators": "前4名创作者",
-    "OtherCreators": "其他创作者",
-    "ContenuCreator": "创作者内容",
+    "TopCreators": "前4大频道",
+    "OtherCreators": "其他频道",
+    "ContenuCreator": "频道内容",
     "LiveToCome": "即将直播",
     "Subscribe": "订阅",
     "Favorite": "收藏夹",
@@ -117,6 +117,7 @@
     "Return": "返回"
   }
 }
+
 
 
 
