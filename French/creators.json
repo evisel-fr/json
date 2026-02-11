@@ -366,7 +366,7 @@
           "location": "Orléans",
           "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
           "teaser": "",
-          "onLive" :true,
+          "onLive" :false,
           "start_time": "2025-12-20T20:30:00+02:00",
           "stereo": true,
           "streams": [
@@ -418,7 +418,7 @@
           "teaser": "",
           "onLive" :true,
           "start_time": "2025-12-20T20:30:00+02:00",
-          "stereo": true,
+          "stereo": false,
           "streams": [
             {
               "id": "stream_01",
@@ -433,6 +433,299 @@
               "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "cr_003",
+      "name": "SFR Sport",
+      "description": "SFR Sport.",
+      "event_type": "sport",
+      "teaser": "",
+      "pictures": {
+        "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_54_13": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
+      },
+      "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
+      "classement": 0,
+      "colorHexa": "#FFCD00",
+      "verified": true,
+      "metrics": { "followers": 48200, "subscribers": 18300 },
+      "replays": [
+        {
+           "id": "rep_001_1",
+           "classement":2,
+           "title": "KAOUCHEN VS GEBUREK",
+           "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+           "date": "2025-12-20T20:30:00+02:00",
+           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
+           "teaser":"",
+           "stereo":true,
+           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"                  
+        },
+        {
+           "id": "rep_001_4",
+           "classement":10,
+           "title": "WLODARCZYK VS KRAWCZYK",
+           "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
+           "date": "2025-12-20T18:00:00+02:00",
+           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
+           "teaser":"",
+           "stereo":true,
+           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"                  
+        }
+      ],
+      "events":[
+        {
+          "id": "evt_001",
+          "title": "Orléans Loiret Basket",
+          "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+          "location": "Orléans",
+          "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            }
+        ]
+        },
+        {
+          "id": "evt_002",
+          "title": "FIGHT NATION",
+          "description": "Extrait du gala Legacy Fight Night",
+          "location": "Paris",
+          "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
+            }
+          ]
+        },
+        {
+          "id": "evt_003",
+          "title": "Servette FC",
+          "description": "Les 135 ans du club !",
+          "location": "Genève",
+          "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": false,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cr_004",
+      "name": "NRJ Sport",
+      "description": "NRJ Sport.",
+      "event_type": "sport",
+      "teaser": "",
+      "pictures": {
+        "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_54_13": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
+      },
+      "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
+      "classement": 0,
+      "colorHexa": "#FFCD00",
+      "verified": true,
+      "metrics": { "followers": 48200, "subscribers": 18300 },
+      "replays": [
+        {
+           "id": "rep_001_1",
+           "classement":2,
+           "title": "KAOUCHEN VS GEBUREK",
+           "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+           "date": "2025-12-20T20:30:00+02:00",
+           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
+           "teaser":"",
+           "stereo":true,
+           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"                  
+        }
+      ],
+      "events":[
+        {
+          "id": "evt_001",
+          "title": "Orléans Loiret Basket",
+          "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+          "location": "Orléans",
+          "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            }
+        ]
+        }
+      ]
+    },
+    {
+      "id": "cr_005",
+      "name": "TF1 Sport",
+      "description": "TF1 Sport.",
+      "event_type": "sport",
+      "teaser": "",
+      "pictures": {
+        "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_54_13": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
+      },
+      "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
+      "classement": 0,
+      "colorHexa": "#FFCD00",
+      "verified": true,
+      "metrics": { "followers": 48200, "subscribers": 18300 },
+      "replays": [
+        {
+           "id": "rep_001_1",
+           "classement":2,
+           "title": "KAOUCHEN VS GEBUREK",
+           "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+           "date": "2025-12-20T20:30:00+02:00",
+           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
+           "teaser":"",
+           "stereo":true,
+           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"                  
+        }
+      ],
+      "events":[
+        {
+          "id": "evt_001",
+          "title": "Orléans Loiret Basket",
+          "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+          "location": "Orléans",
+          "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            }
+        ]
+        }
+      ]
+    },
+    {
+      "id": "cr_006",
+      "name": "M6 Sport",
+      "description": "M6 Sport.",
+      "event_type": "sport",
+      "teaser": "",
+      "pictures": {
+        "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_54_13": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
+      },
+      "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
+      "classement": 0,
+      "colorHexa": "#FFCD00",
+      "verified": true,
+      "metrics": { "followers": 48200, "subscribers": 18300 },
+      "replays": [
+        {
+           "id": "rep_001_1",
+           "classement":2,
+           "title": "KAOUCHEN VS GEBUREK",
+           "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+           "date": "2025-12-20T20:30:00+02:00",
+           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
+           "teaser":"",
+           "stereo":true,
+           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"                  
+        }
+      ],
+      "events":[
+        {
+          "id": "evt_001",
+          "title": "Orléans Loiret Basket",
+          "description": "Le premier quart-temps du match Orléans – La Rochelle.",
+          "location": "Orléans",
+          "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2025-12-20T20:30:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            },
+            {
+              "id": "stream_02",
+              "title": "",
+              "description": "",
+              "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+            }
+        ]
         }
       ]
     }
