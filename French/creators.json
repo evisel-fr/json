@@ -9,7 +9,7 @@
       "pictures": {
         "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
         "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-        "logo_4_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+        "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
         "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
       },
       "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
@@ -227,7 +227,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?1",
         "logo_16_9": "https://picsum.photos/1280/720?2",
-        "logo_4_1": "https://picsum.photos/1280/720?3",
+        "logo_2_1": "https://picsum.photos/1280/720?3",
         "couverture": "https://picsum.photos/1280/720?4"
       },
       "classement": 1,
@@ -291,7 +291,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?8",
         "logo_16_9": "https://picsum.photos/1280/720?9",
-        "logo_4_1": "https://picsum.photos/1280/720?10",
+        "logo_2_1": "https://picsum.photos/1280/720?10",
         "couverture": "https://picsum.photos/1280/720?11"
       },
       "classement": 2,
@@ -344,7 +344,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?21",
         "logo_16_9": "https://picsum.photos/1280/720?22",
-        "logo_54_13": "https://picsum.photos/1280/720?23",
+        "logo_2_1": "https://picsum.photos/1280/720?23",
         "couverture": "https://picsum.photos/1280/720?24"
       },
       "classement": 1,
@@ -393,7 +393,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?27",
         "logo_16_9": "https://picsum.photos/1280/720?28",
-        "logo_54_13": "https://picsum.photos/1280/720?29",
+        "logo_2_1": "https://picsum.photos/1280/720?29",
         "couverture": "https://picsum.photos/1280/720?30"
       },
       "classement": 3,
@@ -441,7 +441,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?33",
         "logo_16_9": "https://picsum.photos/1280/720?34",
-        "logo_54_13": "https://picsum.photos/1280/720?35",
+        "logo_2_1": "https://picsum.photos/1280/720?35",
         "couverture": "https://picsum.photos/1280/720?36"
       },
       "classement": 2,
