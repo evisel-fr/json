@@ -227,7 +227,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?1",
         "logo_16_9": "https://picsum.photos/1280/720?2",
-        "logo_2_1": "https://picsum.photos/1280/720?3",
+        "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?4"
       },
       "classement": 1,
@@ -291,7 +291,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?8",
         "logo_16_9": "https://picsum.photos/1280/720?9",
-        "logo_2_1": "https://picsum.photos/1280/720?10",
+        "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?11"
       },
       "classement": 2,
@@ -344,7 +344,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?21",
         "logo_16_9": "https://picsum.photos/1280/720?22",
-        "logo_2_1": "https://picsum.photos/1280/720?23",
+        "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?24"
       },
       "classement": 1,
@@ -393,7 +393,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?27",
         "logo_16_9": "https://picsum.photos/1280/720?28",
-        "logo_2_1": "https://picsum.photos/1280/720?29",
+        "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?30"
       },
       "classement": 3,
@@ -441,7 +441,7 @@
       "pictures": {
         "thumbnail_16_9": "https://picsum.photos/1280/720?33",
         "logo_16_9": "https://picsum.photos/1280/720?34",
-        "logo_2_1": "https://picsum.photos/1280/720?35",
+        "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?36"
       },
       "classement": 2,
