@@ -36,7 +36,8 @@
     "NoLiveAvailable": "No live available",
     "NoComesAvailable": "No live to come",
     "BestReplayCreator": "Best videos",
-    "Return": "Return"
+    "Return": "Return",
+    "SeeCreator": "See the creator"
   },
   "French": {
     "Home": "Accueil",
@@ -75,7 +76,8 @@
     "NoLiveAvailable": "Aucun live disponible",
     "NoComesAvailable": "Aucun live à venir",
     "BestReplayCreator": "Meilleures vidéos",
-    "Return": "Retour"
+    "Return": "Retour",
+    "SeeCreator": "Voir le créateur"
   },
   "Chinese": {
     "Home": "主页",
@@ -114,7 +116,8 @@
     "NoLiveAvailable": "没有可用的直播",
     "NoComesAvailable": "没有即将直播",
     "BestReplayCreator": "最佳视频",
-    "Return": "返回"
+    "Return": "返回",
+    "SeeCreator": "查看创作者"
   }
 }
 
