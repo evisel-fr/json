@@ -12,11 +12,12 @@
         "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
         "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png"
       },
-      "3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
+      "model3D": "https://cdn.jumpr.fr/3D_KSW/3D_KSW.png",
       "classement": 0,
       "colorHexa": "#FFCD00",
       "verified": true,
       "metrics": { "followers": 48200, "subscribers": 18300 },
+
       "replays": [
         {
            "id": "rep_001_1",
@@ -140,6 +141,7 @@
            "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         }
       ],
+
       "events":[
         {
           "id": "evt_001",
@@ -230,6 +232,7 @@
         "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?4"
       },
+      "model3D": "",
       "classement": 1,
       "colorHexa": "#FF0055",
       "verified": true,
@@ -294,6 +297,7 @@
         "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?11"
       },
+      "model3D": "",
       "classement": 2,
       "colorHexa": "#00AEEF",
       "verified": true,
@@ -347,6 +351,7 @@
         "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?24"
       },
+      "model3D": "",
       "classement": 1,
       "colorHexa": "#E63946",
       "verified": true,
@@ -396,6 +401,7 @@
         "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?30"
       },
+      "model3D": "",
       "classement": 3,
       "colorHexa": "#7209B7",
       "verified": true,
@@ -444,6 +450,7 @@
         "logo_2_1": "https://picsum.photos/1000/500?35",
         "couverture": "https://picsum.photos/1280/720?36"
       },
+      "model3D": "",
       "classement": 2,
       "colorHexa": "#00BBF9",
       "verified": true,
