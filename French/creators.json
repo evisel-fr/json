@@ -16,10 +16,8 @@
          "classement": 0,
          "colorHexa": "#FFCD00",
          "verified": true,
-         "metrics": {
-            "followers": 48200,
-            "subscribers": 18300
-         },
+         "metrics": { "followers": 48200, "subscribers": 18300 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_001_3",
@@ -257,10 +255,8 @@
          "classement": 0,
          "colorHexa": "#FF0055",
          "verified": true,
-         "metrics": {
-            "followers": 33400,
-            "subscribers": 15600
-         },
+         "metrics": { "followers": 33400, "subscribers": 15600 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_002_1",
@@ -323,10 +319,8 @@
          "classement": 2,
          "colorHexa": "#00AEEF",
          "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
+         "metrics": { "followers": 25700, "subscribers": 12100 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_003_1",
@@ -378,10 +372,8 @@
          "classement": 1,
          "colorHexa": "#E63946",
          "verified": true,
-         "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
-         },
+         "metrics": { "followers": 12800, "subscribers": 5200 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_004_1",
@@ -433,10 +425,8 @@
          "classement": 3,
          "colorHexa": "#7209B7",
          "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
+         "metrics": { "followers": 25700, "subscribers": 12100 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_002_1",
@@ -468,10 +458,8 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
+         "metrics": { "followers": 25700, "subscribers": 12100 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_002_1",
@@ -523,10 +511,8 @@
          "classement": 2,
          "colorHexa": "#E63946",
          "verified": true,
-         "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
-         },
+         "metrics": { "followers": 12800, "subscribers": 5200 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_005_1",
@@ -578,10 +564,8 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
+         "metrics": { "followers": 25700, "subscribers": 12100 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_008_1",
@@ -644,10 +628,8 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
+         "metrics": { "followers": 25700, "subscribers": 12100 },
+         "priceCreator":{ "devise": "EUR", "price": 3.99 },
          "replays": [
             {
                "id": "rep_002_1",

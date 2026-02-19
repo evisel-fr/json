@@ -17,7 +17,7 @@
       "colorHexa": "#FFCD00",
       "verified": true,
       "metrics": { "followers": 48200, "subscribers": 18300 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_001_3",
@@ -200,7 +200,7 @@
       "colorHexa": "#FF0055",
       "verified": true,
       "metrics": { "followers": 33400, "subscribers": 15600 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_002_1",
@@ -265,7 +265,7 @@
       "colorHexa": "#00AEEF",
       "verified": true,
       "metrics": { "followers": 25700, "subscribers": 12100 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_003_1",
@@ -338,7 +338,7 @@
       "colorHexa": "#E63946",
       "verified": true,
       "metrics": { "followers": 12800, "subscribers": 5200 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_004_1",
@@ -374,7 +374,7 @@
       "colorHexa": "#7209B7",
       "verified": true,
       "metrics": { "followers": 25700, "subscribers": 12100 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_002_1",
@@ -412,7 +412,7 @@
       "colorHexa": "#00BBF9",
       "verified": true,
       "metrics": { "followers": 25700, "subscribers": 12100 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_002_1",
@@ -447,7 +447,7 @@
       "colorHexa": "#00BBF9",
       "verified": true,
       "metrics": { "followers": 12800, "subscribers": 5200 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_005_1",
@@ -496,7 +496,7 @@
       "colorHexa": "#00BBF9",
       "verified": true,
       "metrics": { "followers": 25700, "subscribers": 12100 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_008_1",
@@ -556,7 +556,7 @@
       "colorHexa": "#00BBF9",
       "verified": true,
       "metrics": { "followers": 25700, "subscribers": 12100 },
-
+      "priceCreator":{ "devise": "EUR", "price": 3.99 },
       "replays": [
         {
           "id": "rep_002_1",
