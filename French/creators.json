@@ -180,6 +180,63 @@
               "url": ""
             }
           ]
+        },
+        {
+          "id": "evt_003",
+          "title": "KSW 117",
+          "description": "Prochain gala XTB KSW 117",
+          "location": "Pologne",
+          "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2026-04-20T20:00:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "KSW 117",
+              "description": "Prochain gala XTB KSW 117",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "evt_004",
+          "title": "KSW 117",
+          "description": "Prochain gala XTB KSW 117",
+          "location": "Pologne",
+          "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2026-04-20T20:00:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "KSW 117",
+              "description": "Prochain gala XTB KSW 117",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "id": "evt_005",
+          "title": "KSW 117",
+          "description": "Prochain gala XTB KSW 117",
+          "location": "Pologne",
+          "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2026-04-20T20:00:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "KSW 117",
+              "description": "Prochain gala XTB KSW 117",
+              "url": ""
+            }
+          ]
         }
       ]
     },
