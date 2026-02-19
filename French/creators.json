@@ -161,6 +161,25 @@
               "url": "https://cdn.jumpr.fr/KSW_8k/RozalskivsBekavac_8k.mp4"
             }
           ]
+        },
+        {
+          "id": "evt_002",
+          "title": "KSW 117",
+          "description": "Prochain gala XTB KSW 117",
+          "location": "Pologne",
+          "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
+          "teaser": "",
+          "onLive" :false,
+          "start_time": "2026-04-20T20:00:00+02:00",
+          "stereo": true,
+          "streams": [
+            {
+              "id": "stream_01",
+              "title": "KSW 117",
+              "description": "Prochain gala XTB KSW 117",
+              "url": ""
+            }
+          ]
         }
       ]
     },
@@ -264,19 +283,19 @@
       "events": [
         {
           "id": "evt_004",
-          "title": "FOOTBALL LIVE",
-          "description": "Match amical international en direct.",
-          "location": "Marseille",
-          "thumbnail_16_9": "https://picsum.photos/1280/720?13",
+          "title": "Tek Fight 5",
+          "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
+          "location": "France",
+          "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
           "teaser": "",
-          "onLive": true,
-          "start_time": "2025-12-05T21:00:00+02:00",
+          "onLive": false,
+          "start_time": "2026-05-23T19:30:00+02:00",
           "stereo": true,
           "streams": [
             {
               "id": "stream_01",
-              "title": "",
-              "description": "",
+              "title": "Tek Fight 5",
+              "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
               "url": "https://cdn.jumpr.fr/sample5.mp4"
             }
           ]
@@ -367,18 +386,7 @@
 
       "events": [
         {
-          "id": "evt_011_1",
-          "title": "Electro Night Paris",
-          "description": "Soirée live avec 5 DJs internationaux.",
-          "location": "Paris",
-          "thumbnail_16_9": "https://picsum.photos/1280/720?32",
-          "teaser": "",
-          "onLive": true,
-          "start_time": "2025-12-31T22:00:00+02:00",
-          "stereo": true,
-          "streams": [
-            { "id": "stream_01", "title": "", "description": "", "url": "https://cdn.jumpr.fr/sample13.mp4" }
-          ]
+          
         }
       ]
     },
