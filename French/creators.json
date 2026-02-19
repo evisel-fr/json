@@ -385,15 +385,12 @@
       ],
 
       "events": [
-        {
-          
-        }
       ]
     },
     {
       "id": "cr_006",
       "name": "EFC 27",
-      "description": "Compétitions esport et tournois internationaux.",
+      "description": "La chaîne de l'EFC 27 l'ancien club de Ousmane Dembele",
       "event_type": "sport",
       "teaser": "",
       "pictures": {
