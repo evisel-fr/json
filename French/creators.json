@@ -2,7 +2,7 @@
    "creators": [
       {
          "id": "cr_001",
-         "name": "KSW test",
+         "name": "KSW",
          "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses.",
          "event_type": "sport",
          "teaser": "",
@@ -243,7 +243,7 @@
       },
       {
          "id": "cr_002",
-         "name": "FIGHT NATION test",
+         "name": "FIGHT NATION",
          "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat.",
          "event_type": "sport",
          "teaser": "",
