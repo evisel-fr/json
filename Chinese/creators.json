@@ -27,6 +27,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Adam Modzelewski 以 KO（连续打击）获胜，第1回合 1分18秒。",
           "url": "https://cdn.jumpr.fr/KSW_8k/AJvsLisek_8k.mp4"
         },
@@ -38,6 +39,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Marcelo Morelli 以 TKO（连续打击）获胜，第1回合 4分56秒。",
           "url": "https://cdn.jumpr.fr/KSW_8k/MorelyvsSurdyn_8k.mp4"
         },
@@ -49,6 +51,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Wiktor Zalewski 以 TKO（连续打击）获胜，第3回合 4分06秒。",
           "url": "https://cdn.jumpr.fr/KSW_8k/ZalewskivsDebienne_8k.mp4"
         },
@@ -60,6 +63,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Stipe Bekavac 以 KO（一击）获胜，第1回合 2分59秒。",
           "url": "https://cdn.jumpr.fr/KSW_8k/RozalskivsBekavac_8k.mp4"
         },
@@ -71,6 +75,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Souheil Kaouchen 以 TKO（连续打击）获胜，第1回合 2分53秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -82,6 +87,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Igor Włodarczyk 以降服获胜（裸绞），第1回合 1分51秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -93,6 +99,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Marcin Wójcik 以一致判定获胜（3×30–27）。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -104,6 +111,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Michał Michalski 以 TKO（连续打击）获胜，第1回合 4分19秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -115,6 +123,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Artur Szpilka 以 TKO（连续打击）获胜，第2回合 2分07秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -126,6 +135,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Paweł Pawlak 以降服获胜（膝锁），第5回合 3分09秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         },
@@ -137,6 +147,7 @@
           "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "Adrian Bartosiński 以 TKO（连续打击）获胜，第3回合 4分56秒。",
           "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
         }
@@ -153,6 +164,7 @@
           "onLive" :true,
           "start_time": "2025-12-20T20:30:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             {
               "id": "stream_01",
@@ -172,6 +184,7 @@
           "onLive" :false,
           "start_time": "2026-04-20T20:00:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             {
               "id": "stream_01",
@@ -211,6 +224,7 @@
           "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
         },
         {
@@ -222,6 +236,7 @@
           "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
           "teaser": "",
           "stereo": false,
+          "price": 3.99,
           "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
         }
       ],
@@ -237,6 +252,7 @@
           "onLive": false,
           "start_time": "026-03-29T21:00:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             {
               "id": "stream_01",
@@ -275,6 +291,7 @@
           "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "红角机位",
           "url": "https://cdn.jumpr.fr/TekFight_8k/TekFight_8k.mp4"
         }
@@ -291,6 +308,7 @@
           "onLive": false,
           "start_time": "2026-05-23T19:30:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             {
               "id": "stream_01",
@@ -329,6 +347,7 @@
           "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "RODRIGUEZ VS CABREL KEMEZEU",
           "url": "https://cdn.jumpr.fr/100%Fight_8k/100%Fight_8k.mp4"
         }
@@ -366,6 +385,7 @@
           "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "擂台机位",
           "url": "https://cdn.jumpr.fr/Bakary_8k/Bakary_8k.mp4"
         }
@@ -404,6 +424,7 @@
           "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
           "teaser": "",
           "stereo": false,
+          "price": 3.99,
           "description": "舞台机位",
           "url": "https://cdn.jumpr.fr/Dembele_8k/Ousmane30fps.mp4"
         }
@@ -440,6 +461,7 @@
           "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "训练与游戏秀",
           "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
         }
@@ -456,6 +478,7 @@
           "onLive": true,
           "start_time": "2025-11-18T19:00:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             { "id": "stream_01", "title": "Servette FC", "description": "为庆祝俱乐部成立135周年的训练和游戏秀！", "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4" }
           ]
@@ -489,6 +512,7 @@
           "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "篮筐后方机位",
           "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4"
         },
@@ -500,6 +524,7 @@
           "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "球场侧边机位",
           "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
         }
@@ -516,6 +541,7 @@
           "onLive": true,
           "start_time": "2025-11-18T19:00:00+02:00",
           "stereo": true,
+          "price": 3.99,
           "streams": [
             { "id": "stream_01", "title": "Orléans vs La Rochelle", "description": "奥尔良对阵拉罗谢尔比赛的第一节，摄像机位于篮筐后方。", "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4" }
           ]
@@ -549,6 +575,7 @@
           "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
           "teaser": "",
           "stereo": true,
+          "price": 3.99,
           "description": "DJ 机位",
           "url": "https://cdn.jumpr.fr/Jeudi_8k/Jeudi_8k.mp4"
         }
