@@ -6,7 +6,7 @@
       "userId": "user_001",
       "email": "alice.martin@test.com",
       "displayName": "Alice",
-      "avatarUrl": "https://cdn.app/avatar/alice.png",
+      "avatarUrl": "https://picsum.photos/512/512?38",
       "country": "FR",
       "language": "fr",
       "createdAt": "2025-11-12T10:15:00Z",
@@ -14,22 +14,22 @@
       "platformId": "meta_001",          
 
       "favoriteCreatorIds": ["cr_001", "cr_003"],
-      "watchlistReplayIds": ["replay_10", "replay_22"],
-      "watchHistoryIds": ["replay_01", "live_05"],
+      "watchlistReplayIds": ["rep_001_5", "rep_001_7"],
+      "watchHistoryIds": ["rep_001_4", "rep_001_1"],
 
       "subscribedCreatorIds": ["cr_004"],
-      "purchasedReplayIds": ["replay_10"],
-      "purchasedLiveIds": ["event_07"],
+      "purchasedReplayIds": ["rep_002_1"],
+      "purchasedLiveIds": ["evt_012_1"],
 
       "lastLogin": "2026-02-25T18:42:00Z",
       "playbackProgress": [
         {
-          "contentId": "replay_01",
+          "contentId": "evt_012_1",
           "progress": 0.65,
           "lastWatchDate": "2026-02-24T21:10:00Z"
         },
         {
-          "contentId": "replay_22",
+          "contentId": "evt_007_1",
           "progress": 0.12,
           "lastWatchDate": "2026-02-25T19:05:00Z"
         }
@@ -39,7 +39,7 @@
       "userId": "user_002",
       "email": "julien.dupont@test.com",
       "displayName": "Julien",
-      "avatarUrl": "https://cdn.app/avatar/julien.png",
+      "avatarUrl": "https://picsum.photos/512/512?38",
       "country": "FR",
       "language": "fr",
       "createdAt": "2025-06-02T09:00:00Z",
@@ -47,19 +47,19 @@
       "platformId": "meta_002",
 
       "favoriteCreatorIds": ["cr_001", "cr_003"],
-      "watchlistReplayIds": ["replay_05"],
-      "watchHistoryIds": ["replay_03"],
+      "watchlistReplayIds": ["rep_001_5", "rep_001_7"],
+      "watchHistoryIds": ["rep_001_4", "rep_001_1"],
 
       "subscribedCreatorIds": ["cr_004"],
-      "purchasedReplayIds": ["replay_05", "replay_08"],
-      "purchasedLiveIds": [],
+      "purchasedReplayIds": ["rep_002_1"],
+      "purchasedLiveIds": ["evt_012_1"],
 
-      "lastLogin": "2026-02-26T08:12:00Z",
+      "lastLogin": "2026-02-25T18:42:00Z",
       "playbackProgress": [
         {
-          "contentId": "replay_05",
-          "progress": 0.9,
-          "lastWatchDate": "2026-02-25T22:00:00Z"
+          "contentId": "evt_012_1",
+          "progress": 0.65,
+          "lastWatchDate": "2026-02-24T21:10:00Z"
         }
       ]
     },
@@ -67,23 +67,24 @@
       "userId": "user_003",
       "email": "sophia.lee@test.com",
       "displayName": "Sophia",
-      "avatarUrl": "https://cdn.app/avatar/sophia.png",
+      "avatarUrl": "https://picsum.photos/512/512?38",
       "country": "US",
       "language": "en",
       "createdAt": "2024-12-20T14:30:00Z",
       "isActive": true,
       "platformId": "meta_003",
 
-      "favoriteCreatorIds": ["creator_03"],
+      "favoriteCreatorIds": ["cr_001"],
       "watchlistReplayIds": [],
       "watchHistoryIds": [],
 
-      "subscribedCreatorIds": ["creator_05"],
+      "subscribedCreatorIds": ["cr_002"],
       "purchasedReplayIds": [],
-      "purchasedLiveIds": ["event_02"],
+      "purchasedLiveIds": [],
 
-      "lastLogin": "2026-02-20T16:55:00Z",
-      "playbackProgress": []
+      "lastLogin": "2026-02-25T18:42:00Z",
+      "playbackProgress": [
+      ]
     }
   ]
 }
