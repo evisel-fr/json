@@ -34,7 +34,8 @@
     "SeeCreator": "See the creator",
     "Creators": "Creators",
     "BuyReplayDescription": "Do you want to buy this replay ?",
-    "Buy": "Buy"
+    "Buy": "Buy",
+    "BuyLiveDescription": "Do you want to buy this live ?"
   },
   "French": {
     "Home": "Accueil",
@@ -71,7 +72,8 @@
     "SeeCreator": "Voir le créateur",
     "Creators": "Créateurs",
     "BuyReplayDescription": "Voulez-vous acheter ce replay ?",
-    "Buy": "Acheter"
+    "Buy": "Acheter",
+    "BuyLiveDescription": "Voulez-vous acheter ce live ?"
   },
   "Chinese": {
     "Home": "主页",
@@ -108,7 +110,8 @@
     "SeeCreator": "查看创作者",
     "Creators": "创作者",
     "BuyReplayDescription": "您想购买这个回放吗？",
-    "Buy": "购买"
+    "Buy": "购买",
+    "BuyLiveDescription": "您想购买这个直播吗？"
   }
 }
 
