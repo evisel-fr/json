@@ -1,17 +1,11 @@
 {
   "English": {
     "Home": "Home",
-    "Live": "Live",
     "Come": "Schedule",
-    "Replay": "Replay",
     "Account": "Account",
-    "VideoEnabled": "Available videos",
-    "NbVideo": "video(s)",
     "Subscriber": "follower(s)",
     "Trigger": "Select",
     "Teleportation": "Teleport",
-    "ExplicationTrigger": "Selection",
-    "ExplicationTeleportation": "Push the joystick forward to teleport",
     "AreaNotAvailable": "Area Not Available",
     "MenuEnvironment": "Environment",
     "MenuZones": "Area",
@@ -38,21 +32,17 @@
     "BestReplayCreator": "Best videos",
     "Return": "Return",
     "SeeCreator": "See the creator",
-    "Creators": "Creators"
+    "Creators": "Creators",
+    "BuyReplayDescription": "Do you want to buy this replay ?",
+    "Buy": "Buy"
   },
   "French": {
     "Home": "Accueil",
-    "Live": "Live à la une",
     "Come": "Programmation",
-    "Replay": "Replay",
     "Account": "Mon compte",
-    "VideoEnabled": "Vidéos disponibles",
-    "NbVideo": "vidéo(s)",
     "Subscriber": "abonné(s)",
     "Trigger": "Sélectionner",
     "Teleportation": "Téléportation",
-    "ExplicationTrigger": "Sélection",
-    "ExplicationTeleportation": "Avancez le joystick vers l'avant pour vous téléporter",
     "AreaNotAvailable": "Zone non disponible",
     "MenuEnvironment": "Environnement",
     "MenuZones": "Zones",
@@ -79,21 +69,17 @@
     "BestReplayCreator": "Meilleures vidéos",
     "Return": "Retour",
     "SeeCreator": "Voir le créateur",
-    "Creators": "Créateurs"
+    "Creators": "Créateurs",
+    "BuyReplayDescription": "Voulez-vous acheter ce replay ?",
+    "Buy": "Acheter"
   },
   "Chinese": {
     "Home": "主页",
-    "Live": "直播",
     "Come": "节目安排",
-    "Replay": "回放",
     "Account": "账户",
-    "VideoEnabled": "可用视频",
-    "NbVideo": "个视频",
     "Subscriber": "关注者",
     "Trigger": "选择",
     "Teleportation": "传送",
-    "ExplicationTrigger": "选择",
-    "ExplicationTeleportation": "将操纵杆向前推动以传送",
     "AreaNotAvailable": "区域不可用",
     "MenuEnvironment": "环境",
     "MenuZones": "区域",
@@ -120,7 +106,9 @@
     "BestReplayCreator": "最佳视频",
     "Return": "返回",
     "SeeCreator": "查看创作者",
-    "Creators": "创作者"
+    "Creators": "创作者",
+    "BuyReplayDescription": "您想购买这个回放吗？",
+    "Buy": "购买"
   }
 }
 
