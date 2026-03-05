@@ -16,8 +16,14 @@
          "classement": 0,
          "colorHexa": "#FFCD00",
          "verified": true,
-         "metrics": { "followers": 48200, "subscribers": 18300 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 48200,
+            "subscribers": 18300
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_001_3",
@@ -29,7 +35,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Adam Modzelewski vainqueur par KO (coups), à 1 min 18 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/AJvsLisek_8k.mp4"
+               "url": "https://cloud.inod.solutions/test/video/KOF_10s_h265_nvenc.mp4"
             },
             {
                "id": "rep_001_5",
@@ -271,8 +277,14 @@
          "classement": 0,
          "colorHexa": "#FF0055",
          "verified": true,
-         "metrics": { "followers": 33400, "subscribers": 15600 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 33400,
+            "subscribers": 15600
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_002_1",
@@ -338,8 +350,14 @@
          "classement": 2,
          "colorHexa": "#00AEEF",
          "verified": true,
-         "metrics": { "followers": 25700, "subscribers": 12100 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_003_1",
@@ -393,8 +411,14 @@
          "classement": 1,
          "colorHexa": "#E63946",
          "verified": true,
-         "metrics": { "followers": 12800, "subscribers": 5200 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 12800,
+            "subscribers": 5200
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_004_1",
@@ -448,8 +472,14 @@
          "classement": 3,
          "colorHexa": "#7209B7",
          "verified": true,
-         "metrics": { "followers": 25700, "subscribers": 12100 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_002_1",
@@ -482,8 +512,14 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": { "followers": 25700, "subscribers": 12100 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_002_1",
@@ -537,8 +573,14 @@
          "classement": 2,
          "colorHexa": "#E63946",
          "verified": true,
-         "metrics": { "followers": 12800, "subscribers": 5200 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 12800,
+            "subscribers": 5200
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_005_1",
@@ -592,8 +634,14 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": { "followers": 25700, "subscribers": 12100 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_008_1",
@@ -659,8 +707,14 @@
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
-         "metrics": { "followers": 25700, "subscribers": 12100 },
-         "priceCreator":{ "devise": "EUR", "price": 3.99 },
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 3.99
+         },
          "replays": [
             {
                "id": "rep_002_1",
