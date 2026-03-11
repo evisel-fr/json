@@ -37,7 +37,9 @@
     "BuyReplayDescription": "Do you want to buy this replay ?",
     "Buy": "Buy",
     "BuyLiveDescription": "Do you want to buy this live ?",
-    "Unfollow": "Unfollow"
+    "Unfollow": "Unfollow",
+    "ReplayBought": "Replay bought",
+    "LiveBought": "Live bought"
   },
   "French": {
     "Home": "Accueil",
@@ -77,7 +79,9 @@
     "BuyReplayDescription": "Voulez-vous acheter ce replay ?",
     "Buy": "Acheter",
     "BuyLiveDescription": "Voulez-vous acheter ce live ?",
-    "Unfollow": "Se désabonner"
+    "Unfollow": "Se désabonner",
+    "ReplayBought": "Replay achetés",
+    "LiveBought": "Live achetés"
   },
   "Chinese": {
     "Home": "主页",
@@ -117,7 +121,9 @@
     "BuyReplayDescription": "您想购买这个回放吗？",
     "Buy": "购买",
     "BuyLiveDescription": "您想购买这个直播吗？",
-    "Unfollow": "取消关注"
+    "Unfollow": "取消关注",
+    "ReplayBought": "回放已购买",
+    "LiveBought": "直播已购买"
   }
 }
 
