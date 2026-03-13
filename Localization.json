@@ -40,7 +40,7 @@
     "Unfollow": "Unfollow",
     "ReplayBought": "Replay bought",
     "LiveBought": "Live bought",
-    "Subscribed": "Subscribed"
+    "Subscribed": "Subscriptions"
   },
   "French": {
     "Home": "Accueil",
@@ -83,7 +83,7 @@
     "Unfollow": "Se désabonner",
     "ReplayBought": "Replay achetés",
     "LiveBought": "Live achetés",
-    "Subscribed": "Abonné"
+    "Subscribed": "Abonnements"
   },
   "Chinese": {
     "Home": "主页",
