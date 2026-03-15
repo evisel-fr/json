@@ -47,7 +47,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Marcelo Morelli vainqueur par TKO (coups), à 4 min 56 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_10s_h265_5760.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_2",
@@ -59,7 +59,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Wiktor Zalewski vainqueur par TKO (coups), à 4 min 06 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/ZalewskivsDebienne_8k.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_7",
@@ -71,7 +71,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Stipe Bekavac vainqueur par KO (coup), à 2 min 59 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/RozalskivsBekavac_8k.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_1",
@@ -83,7 +83,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_4",
@@ -95,7 +95,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_6",
@@ -107,7 +107,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Marcin Wójcik vainqueur par décision unanime (3 × 30–27).",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_8",
@@ -119,7 +119,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Michał Michalski vainqueur par TKO (coups), à 4 min 19 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_9",
@@ -131,7 +131,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Artur Szpilka vainqueur par TKO (coups), à 2 min 07 s du 2ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_10",
@@ -143,7 +143,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Paweł Pawlak vainqueur par soumission (clé de genou), à 3 min 09 s du 5ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             },
             {
                "id": "rep_001_11",
@@ -155,7 +155,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KaouchenvsGeburek_8K_EASYDECODE_PP/KaouchenvsGeburek_8K_EASYDECODE_PP.mp4"
+               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
             }
          ],
          "events": [
@@ -175,7 +175,7 @@
                      "id": "stream_01",
                      "title": "Rozalski vs Bekavac",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/RozalskivsBekavac_8k.mp4"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": ""
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             },
@@ -215,7 +215,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": ""
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             },
@@ -235,7 +235,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": ""
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             },
@@ -255,7 +255,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": ""
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             }
@@ -296,7 +296,7 @@
                "teaser": "",
                "stereo": true,
                "price": 3.99,
-               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
+               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/playlist.m3u8"
             },
             {
                "id": "rep_002_2",
@@ -308,7 +308,7 @@
                "teaser": "",
                "stereo": false,
                "price": 3.99,
-               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/LegacyFightNight_8k.mp4"
+               "url": "https://cdn.jumpr.fr/LegacyFightNight_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -369,7 +369,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Caméra coin rouge",
-               "url": "https://cdn.jumpr.fr/TekFight_8k/TekFight_8k.mp4"
+               "url": "https://cdn.jumpr.fr/TekFight_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -430,7 +430,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "RODRIGUEZ VS CABREL KEMEZEU",
-               "url": "https://cdn.jumpr.fr/100%Fight_8k/100%Fight_8k.mp4"
+               "url": "https://cdn.jumpr.fr/100%Fight_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -491,7 +491,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Caméra ring",
-               "url": "https://cdn.jumpr.fr/Bakary_8k/Bakary_8k.mp4"
+               "url": "https://cdn.jumpr.fr/Bakary_8k/playlist.m3u8"
             }
          ],
          "events": []
@@ -531,7 +531,7 @@
                "stereo": false,
                "price": 3.99,
                "description": "Caméra scène",
-               "url": "https://cdn.jumpr.fr/Dembele_8k/Ousmane30fps.mp4"
+               "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -592,7 +592,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Entrainement et Game Show",
-               "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
+               "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -612,7 +612,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/Servette_FC_8k.mp4"
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
                ]
             }
@@ -653,7 +653,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Caméra derrière le panier",
-               "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4"
+               "url": "https://cdn.jumpr.fr/Basket1_8k/playlist.m3u8"
             },
             {
                "id": "rep_008_2",
@@ -665,7 +665,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Caméra sur le coté du terrain",
-               "url": "https://cdn.jumpr.fr/Basket1_8k/Basket1_8k.mp4"
+               "url": "https://cdn.jumpr.fr/Basket2_8k/playlist.m3u8"
             }
          ],
          "events": [
@@ -685,7 +685,7 @@
                      "id": "stream_01",
                      "title": "Orléans vs La Rochelle",
                      "description": "Le premier quart-temps du match Orléans – La Rochelle, caméra derrière le panier.",
-                     "url": "https://cdn.jumpr.fr/Basket1_8k/Basket2_8k.mp4"
+                     "url": "https://cdn.jumpr.fr/Basket1_8k/playlist.m3u8"
                   }
                ]
             }
@@ -726,7 +726,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Caméra DJ",
-               "url": "https://cdn.jumpr.fr/Jeudi_8k/Jeudi_8k.mp4"
+               "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
             }
          ],
          "events": [
