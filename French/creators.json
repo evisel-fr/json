@@ -47,7 +47,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Marcelo Morelli vainqueur par TKO (coups), à 4 min 56 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_2",
@@ -59,7 +59,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Wiktor Zalewski vainqueur par TKO (coups), à 4 min 06 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_7",
@@ -71,7 +71,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Stipe Bekavac vainqueur par KO (coup), à 2 min 59 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_1",
@@ -83,7 +83,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_4",
@@ -95,7 +95,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_6",
@@ -107,7 +107,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Marcin Wójcik vainqueur par décision unanime (3 × 30–27).",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_8",
@@ -119,7 +119,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Michał Michalski vainqueur par TKO (coups), à 4 min 19 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_9",
@@ -131,7 +131,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Artur Szpilka vainqueur par TKO (coups), à 2 min 07 s du 2ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_10",
@@ -143,7 +143,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Paweł Pawlak vainqueur par soumission (clé de genou), à 3 min 09 s du 5ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             },
             {
                "id": "rep_001_11",
@@ -155,7 +155,7 @@
                "stereo": true,
                "price": 3.99,
                "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
             }
          ],
          "events": [
@@ -175,7 +175,7 @@
                      "id": "stream_01",
                      "title": "Rozalski vs Bekavac",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -215,7 +215,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -235,7 +235,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -255,7 +255,7 @@
                      "id": "stream_01",
                      "title": "KSW 117",
                      "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             }
