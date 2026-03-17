@@ -508,7 +508,7 @@
                "teaser": "",
                "stereo": true,
                "description": "Camera behind the basket",
-               "url": "https://cdn.jumpr.fr/Basket1_8k/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
             },
             {
                "id": "rep_008_2",
@@ -519,7 +519,7 @@
                "teaser": "",
                "stereo": true,
                "description": "Camera on the side of the court",
-               "url": "https://cdn.jumpr.fr/Basket2_8k/playlist.m3u8"
+               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
             }
          ],
          "events": [
@@ -539,7 +539,7 @@
                      "id": "stream_01",
                      "title": "Orléans vs La Rochelle",
                      "description": "Camera behind the basket",
-                     "url": "https://cdn.jumpr.fr/Basket1_8k/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
                   }
                ]
             }
