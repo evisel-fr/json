@@ -3,7 +3,7 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une ambiance électrique, rythmée par des productions scéniques spectaculaires et des combats inoubliables.",
+         "description": "KSW (Konfrontacja Sztuk Walki) to czołowa organizacja MMA w Europie. Odkryj epickie starcia najlepszych zawodników na kontynencie w elektryzującej atmosferze, w rytm spektakularnych produkcji scenicznych i niezapomnianych walk.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -30,7 +30,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser": "",
                "stereo": true,
-               "description": "Adam Modzelewski vainqueur par KO (coups), à 1 min 18 s du 1er round.",
+               "description": "Adam Modzelewski wygrywa przez KO (ciosy) w 1 min 18 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -48,7 +48,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Marcelo Morelli vainqueur par TKO (coups), à 4 min 56 s du 1er round.",
+               "description": "Marcelo Morelli wygrywa przez TKO (ciosy) w 4 min 56 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -66,7 +66,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
                "teaser": "",
                "stereo": true,
-               "description": "Wiktor Zalewski vainqueur par TKO (coups), à 4 min 06 s du 3ᵉ round.",
+               "description": "Wiktor Zalewski wygrywa przez TKO (ciosy) w 4 min 06 s 3. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -84,7 +84,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
                "teaser": "",
                "stereo": true,
-               "description": "Stipe Bekavac vainqueur par KO (coup), à 2 min 59 s du 1er round.",
+               "description": "Stipe Bekavac wygrywa przez KO (cios) w 2 min 59 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -102,7 +102,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
                "teaser": "",
                "stereo": true,
-               "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
+               "description": "Souheil Kaouchen wygrywa przez TKO (ciosy) w 2 min 53 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -120,7 +120,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
                "teaser": "",
                "stereo": true,
-               "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
+               "description": "Igor Włodarczyk wygrywa przez poddanie (duszenie zza pleców) w 1 min 51 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -138,7 +138,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
                "teaser": "",
                "stereo": true,
-               "description": "Marcin Wójcik vainqueur par décision unanime (3 × 30–27).",
+               "description": "Marcin Wójcik wygrywa przez jednogłośną decyzję sędziów (3 × 30–27).",
                "streams": [
                   {
                      "id": "stream_01",
@@ -156,7 +156,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
                "teaser": "",
                "stereo": true,
-               "description": "Michał Michalski vainqueur par TKO (coups), à 4 min 19 s du 1er round.",
+               "description": "Michał Michalski wygrywa przez TKO (ciosy) w 4 min 19 s 1. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -174,7 +174,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
                "teaser": "",
                "stereo": true,
-               "description": "Artur Szpilka vainqueur par TKO (coups), à 2 min 07 s du 2ᵉ round.",
+               "description": "Artur Szpilka wygrywa przez TKO (ciosy) w 2 min 07 s 2. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -192,7 +192,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
                "teaser": "",
                "stereo": true,
-               "description": "Paweł Pawlak vainqueur par soumission (clé de genou), à 3 min 09 s du 5ᵉ round.",
+               "description": "Paweł Pawlak wygrywa przez poddanie (balacha na kolano) w 3 min 09 s 5. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -210,13 +210,13 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
                "teaser": "",
                "stereo": true,
-               "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
+               "description": "Adrian Bartosiński wygrywa przez TKO (ciosy) w 4 min 56 s 3. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             }
@@ -225,9 +225,9 @@
             {
                "id": "evt_live_ksw",
                "classement": 6,
-               "title": "KSW 117 bientôt disponible",
-               "description": "Le main event bat son plein. Rejoignez la cage !",
-               "location": "Pologne",
+               "title": "KSW 117 wkrótce",
+               "description": "Walka wieczoru trwa w najlepsze. Dołącz do klatki!",
+               "location": "Polska",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "",
                "onLive": true,
@@ -236,8 +236,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Live Caméra 1",
-                     "description": "Flux principal",
+                     "title": "Kamera na żywo 1",
+                     "description": "Główny strumień",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
@@ -246,8 +246,8 @@
                "id": "pln_102",
                "classement": 7,
                "title": "KSW 117",
-               "description": "Prochain gala XTB KSW 117",
-               "location": "Pologne",
+               "description": "Nadchodząca gala XTB KSW 117",
+               "location": "Polska",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "",
                "onLive": false,
@@ -257,7 +257,7 @@
                   {
                      "id": "stream_01",
                      "title": "KSW 117",
-                     "description": "Prochain gala XTB KSW 117",
+                     "description": "Nadchodząca gala XTB KSW 117",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
@@ -266,26 +266,26 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail": "https://lesvoix.fr/wp-content/uploads/2017/04/ad_34538125_55024be150618436_web.jpg"
+               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_02",
-               "thumbnail": "https://static.actugaming.net/media/2025/04/nintendo-switch-2-scaled.jpeg"
+               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
             },
             {
                "id": "pub_03",
-               "thumbnail": "https://i.ytimg.com/vi/HmkzG5L7IRA/maxresdefault.jpg"
+               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_04",
-               "thumbnail": "https://www.notebookcheck.biz/fileadmin/Notebooks/News/_nc4/Meta-Quest-3S.jpg"
+               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
             }
          ]
       },
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "La chaîne Fight Nation est la plateforme incontournable des sports de combat en France. Accédez en exclusivité aux galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs forts, réunissant l'élite de la discipline.",
+         "description": "Kanał Fight Nation to najważniejsza platforma sportów walki we Francji. Zyskaj ekskluzywny dostęp do prestiżowych gal, śledź rozwój wschodzących gwiazd i wspieraj ważne wydarzenia charytatywne gromadzące elitę tej dyscypliny.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -308,7 +308,7 @@
                "id": "rep_002_1",
                "classement": 10,
                "title": "Legacy Fight Night",
-               "description": "Extrait du gala",
+               "description": "Fragment gali",
                "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
@@ -319,7 +319,7 @@
                "id": "rep_002_2",
                "classement": 7,
                "title": "Royal Fight",
-               "description": "Extrait du gala",
+               "description": "Fragment gali",
                "date": "2025-11-11T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser": "",
@@ -327,13 +327,13 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue 1",
+                     "title": "Widok 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "Vue 2",
+                     "title": "Widok 2",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
                   }
@@ -344,9 +344,9 @@
             {
                "id": "pln_101",
                "classement": 5,
-               "title": "Fight Nation : Gala Fraternité Police & Forces de l'Ordre",
-               "description": "Le 29 mars, le MMA s'engage ! Fight Nation et la Fraternité Police s'unissent pour une soirée de combats intenses sous le parrainage du champion Jimmy Vienot. Vivez un événement unique où l'élite des forces de l'ordre monte dans la cage pour la bonne cause.",
-               "location": "Paris",
+               "title": "Fight Nation: Gala Braterstwa Policji i Służb Mundurowych",
+               "description": "29 marca MMA wkracza do akcji! Fight Nation i Braterstwo Policji łączą siły podczas intensywnego wieczoru walk pod patronatem mistrza Jimmy'ego Vienota. Przeżyj wyjątkowe wydarzenie, podczas którego elita organów ścigania wchodzi do klatki w szczytnym celu.",
+               "location": "Paryż",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
                "teaser": "",
                "onLive": false,
@@ -355,8 +355,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Main Event",
-                     "description": "Gala Fraternité Live",
+                     "title": "Walka Wieczoru",
+                     "description": "Gala Braterstwa na żywo",
                      "url": "https://cdn.jumpr.fr/sample3.mp4"
                   }
                ]
@@ -367,7 +367,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight révolutionne le monde des sports de combat en combinant habilement une cage pour le MMA et un ring pour le Muay Thaï et le kickboxing. Plongez au cœur d'un spectacle hybride et novateur où les disciplines se croisent avec intensité.",
+         "description": "Tek Fight rewolucjonizuje świat sportów walki, umiejętnie łącząc klatkę do MMA z ringiem do Muay Thai i kickboxingu. Zanurz się w sercu innowacyjnego, hybrydowego widowiska, w którym dyscypliny krzyżują się z niezwykłą intensywnością.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -389,12 +389,12 @@
             {
                "id": "rep_003_1",
                "classement": 9,
-               "title": "Muay Thaï",
+               "title": "Muay Thai",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra coin rouge",
+               "description": "Kamera - czerwony narożnik",
                "streams": [
                   {
                      "id": "stream_01",
@@ -410,8 +410,8 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5",
-               "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
-               "location": "France",
+               "description": "23 maja w hali Gymnase Jesse Owens klatka powróci wraz z MMA – prężnie rozwijającą się dyscypliną, która wpisuje się w ciągłość Muay Thai i kickboxingu, historycznych filarów lokalnego klubu.",
+               "location": "Francja",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "onLive": false,
@@ -421,7 +421,7 @@
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "Live depuis le Gymnase Jesse Owens",
+                     "description": "Na żywo z Gymnase Jesse Owens",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
@@ -432,7 +432,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "La chaîne 100% Fight vous propose le meilleur des sports de combat à travers des combats, replays et contenus exclusifs.",
+         "description": "Kanał 100% Fight oferuje to, co najlepsze w sportach walki: walki, powtórki i ekskluzywne treści.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -476,7 +476,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "La chaîne dedié à la sensation de la boxe française, Bakary Samake",
+         "description": "Kanał poświęcony sensacji francuskiego boksu, Bakary'emu Samake.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -503,7 +503,7 @@
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra ring",
+               "description": "Kamera - ring",
                "streams": [
                   {
                      "id": "stream_01",
@@ -520,7 +520,7 @@
       {
          "id": "cr_006",
          "name": "EFC 27",
-         "description": "La chaîne de l'EFC 27 l'ancien club de Ousmane Dembele",
+         "description": "Kanał EFC 27, byłego klubu Ousmane'a Dembele.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -542,12 +542,12 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "Retour du ballon d'or dans son ancien club !",
+               "title": "Powrót zdobywcy Złotej Piłki do swojego dawnego klubu!",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "Caméra scène",
+               "description": "Kamera ze sceny",
                "streams": [
                   {
                      "id": "stream_01",
@@ -564,7 +564,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l’actualité trépidante de l'emblématique club genevois.",
+         "description": "Kanał Servette FC oferuje mecze na żywo, legendarne powtórki i ekskluzywne materiały ukazujące bogatą historię i ekscytujące aktualności kultowego klubu z Genewy.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -586,12 +586,12 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "Entrainement et Game Show pour les 135 ans du club !",
+               "title": "Trening i Game Show na 135-lecie klubu!",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "stereo": true,
-               "description": "Entrainement et Game Show",
+               "description": "Trening i Game Show",
                "streams": [
                   {
                      "id": "stream_01",
@@ -605,10 +605,10 @@
          "events": [
             {
                "id": "evt_007_1",
-               "classement": 3,
-               "title": "Servette FC : En direct du stade",
-               "description": "Suivez le match en direct !",
-               "location": "Genève",
+               "classement": 1,
+               "title": "Servette FC: Na żywo ze stadionu",
+               "description": "Śledź mecz na żywo!",
+               "location": "Genewa",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "onLive": true,
@@ -617,8 +617,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Flux Live",
-                     "description": "Caméra terrain",
+                     "title": "Transmisja na żywo",
+                     "description": "Kamera z boiska",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
                ]
@@ -629,7 +629,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Plongez au cœur du parquet avec la chaîne Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux temps forts exclusifs de votre équipe préférée.",
+         "description": "Zanurz się w samym centrum parkietu dzięki kanałowi Orléans Loiret Basket. Śledź mecze na żywo w niesamowitej jakości, oglądaj najlepsze powtórki i zyskaj dostęp do ekskluzywnych najważniejszych momentów swojej ulubionej drużyny.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -651,12 +651,12 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "Le premier quart-temps du match Orléans – La Rochelle, caméra derrière le panier.",
+               "title": "Pierwsza kwarta meczu Orléans – La Rochelle, kamera za koszem.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra derrière le panier",
+               "description": "Kamera za koszem",
                "streams": [
                   {
                      "id": "stream_01",
@@ -669,12 +669,12 @@
             {
                "id": "rep_008_2",
                "classement": 21,
-               "title": "Le premier quart-temps du match Orléans – La Rochelle, caméra sur le coté du terrain.",
+               "title": "Pierwsza kwarta meczu Orléans – La Rochelle, kamera z boku boiska.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra sur le coté du terrain",
+               "description": "Kamera z boku boiska",
                "streams": [
                   {
                      "id": "stream_01",
@@ -690,8 +690,8 @@
                "id": "evt_008_1",
                "classement": 1,
                "title": "Orléans vs La Rochelle",
-               "description": "Le match en direct, caméra derrière le panier.",
-               "location": "Orléans",
+               "description": "Mecz na żywo, kamera za koszem.",
+               "location": "Orlean",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "onLive": true,
@@ -701,7 +701,7 @@
                   {
                      "id": "stream_01",
                      "title": "Orléans vs La Rochelle",
-                     "description": "Caméra derrière le panier",
+                     "description": "Kamera za koszem",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
                   }
                ]
@@ -712,7 +712,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "La chaîne du festival de Jeudi Electro",
+         "description": "Kanał festiwalu Jeudi Electro.",
          "event_type": "musique",
          "teaserVideo": "",
          "pictures": {
@@ -734,12 +734,12 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "Extrait de l'édition de Thonon les bains 2025",
+               "title": "Fragment edycji z Thonon-les-Bains 2025",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra DJ",
+               "description": "Kamera na DJ-a",
                "streams": [
                   {
                      "id": "stream_01",
@@ -756,7 +756,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes d'interclubs et vibrez au rythme des smashes de l'élite du badminton international en France.",
+         "description": "Oficjalny kanał Francuskiej Federacji Badmintona. Śledź najważniejsze zawody sezonu, kibicuj drużynom klubowym i poczuj rytm smeczów elity międzynarodowego badmintona we Francji.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -779,9 +779,9 @@
             {
                "id": "pln_103",
                "classement": 2,
-               "title": "Finales du Top 12 Badminton Français",
-               "description": "Retrouvez les 4 meilleures équipes d'interclubs de badminton.",
-               "location": "France",
+               "title": "Finały Top 12 Francuskiego Badmintona",
+               "description": "Oglądaj 4 najlepsze drużyny klubowe badmintona.",
+               "location": "Francja",
                "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
                "teaser": "",
                "onLive": false,
@@ -790,8 +790,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Terrain Principal",
-                     "description": "Flux en direct",
+                     "title": "Główny Kord",
+                     "description": "Transmisja na żywo",
                      "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
                   }
                ]
@@ -799,9 +799,9 @@
             {
                "id": "pln_106",
                "classement": 10,
-               "title": "Yonex Internationaux France Badminton",
-               "description": "Les meilleurs joueurs du monde se retrouveront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
-               "location": "France",
+               "title": "Międzynarodowe Mistrzostwa Francji w Badmintonie Yonex",
+               "description": "Najlepsi zawodnicy na świecie spotkają się na kolejnej edycji Międzynarodowych Mistrzostw Francji w Badmintonie Yonex.",
+               "location": "Francja",
                "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
                "teaser": "",
                "onLive": false,
@@ -810,8 +810,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Court 1",
-                     "description": "Caméra principale",
+                     "title": "Kord 1",
+                     "description": "Kamera główna",
                      "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
                   }
                ]
@@ -822,7 +822,7 @@
       {
          "id": "cr_011",
          "name": "Ligue Nationale de Handball",
-         "description": "Vibrez au rythme de la LNH ! Retrouvez les chocs au sommet de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs opposant les plus grands clubs.",
+         "description": "Poczuj rytm LNH! Oglądaj starcia na szczycie w Liqui Moly StarLigue i zanurz się w intensywność francuskich mistrzostw w piłce ręcznej z decydującymi meczami pomiędzy największymi klubami.",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -846,8 +846,8 @@
                "id": "pln_105",
                "classement": 15,
                "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
-               "description": "Mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s’affronteront à l’Accor Arena à Paris dans le cadre de la 28ème journée de Liqui Moly StarLigue. Un match au sommet, qui pourrait être décisif dans la course au titre.",
-               "location": "ACCOR ARENA, France",
+               "description": "W środę, 27 maja 2026 roku, Paris Saint-Germain Handball i HBC Nantes zmierzą się w Accor Arena w Paryżu w ramach 28. kolejki Liqui Moly StarLigue. Mecz na szczycie, który może zadecydować o mistrzostwie.",
+               "location": "ACCOR ARENA, Francja",
                "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
                "teaser": "",
                "onLive": false,
@@ -856,8 +856,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Direct ACCOR ARENA",
-                     "description": "Flux de match",
+                     "title": "Na żywo z ACCOR ARENA",
+                     "description": "Transmisja meczu",
                      "url": "https://cdn.jumpr.fr/sample_handball.mp4"
                   }
                ]
