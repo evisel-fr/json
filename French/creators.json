@@ -3,7 +3,7 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "KSW est l’une des plus grandes organisations de MMA en Europe. Retrouvez les combats les plus spectaculaires, des athlètes d’élite et des affrontements intenses.",
+         "description": "KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une ambiance électrique, rythmée par des productions scéniques spectaculaires et des combats inoubliables.",
          "event_type": "sport",
          "teaser": "",
          "pictures": {
@@ -160,27 +160,27 @@
          ],
          "events": [
             {
-               "id": "evt_001",
-               "title": "KSW 113 Rozalski vs Bekavac",
-               "description": "Stipe Bekavac par KO (coup de poing), 2:59, 1er round",
-               "location": "Atlas Arena de Lodz en Pologne",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/IsZ06E5heHE/maxresdefault.jpg",
+               "id": "evt_live_ksw",
+               "title": "KSW Live Event En Cours",
+               "description": "Le main event bat son plein. Rejoignez la cage !",
+               "location": "Pologne",
+               "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
                "teaser": "",
                "onLive": true,
-               "start_time": "2025-12-20T20:30:00+02:00",
+               "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "price": 3.99,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Rozalski vs Bekavac",
-                     "description": "",
+                     "title": "Live Caméra 1",
+                     "description": "Flux principal",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
             {
-               "id": "evt_002",
+               "id": "pln_102",
                "title": "KSW 117",
                "description": "Prochain gala XTB KSW 117",
                "location": "Pologne",
@@ -189,67 +189,7 @@
                "onLive": false,
                "start_time": "2026-04-20T20:00:00+02:00",
                "stereo": true,
-               "price": 3.99,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "KSW 117",
-                     "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_003",
-               "title": "KSW 117",
-               "description": "Prochain gala XTB KSW 117",
-               "location": "Pologne",
-               "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-04-20T20:00:00+02:00",
-               "stereo": true,
-               "price": 3.99,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "KSW 117",
-                     "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_004",
-               "title": "KSW 117",
-               "description": "Prochain gala XTB KSW 117",
-               "location": "Pologne",
-               "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-04-20T20:00:00+02:00",
-               "stereo": true,
-               "price": 3.99,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "KSW 117",
-                     "description": "Prochain gala XTB KSW 117",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_005",
-               "title": "KSW 117",
-               "description": "Prochain gala XTB KSW 117",
-               "location": "Pologne",
-               "thumbnail_16_9": "https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68da633f8e1b0e6ae39b828c_ksw.png",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-04-20T20:00:00+02:00",
-               "stereo": true,
-               "price": 3.99,
+               "price": 6.99,
                "streams": [
                   {
                      "id": "stream_01",
@@ -264,7 +204,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "La chaîne Fight Nation vous donne un accès privilégié aux combats, replays et contenus exclusifs du monde des sports de combat.",
+         "description": "La chaîne Fight Nation est la plateforme incontournable des sports de combat en France. Accédez en exclusivité aux galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs forts, réunissant l'élite de la discipline.",
          "event_type": "sport",
          "teaser": "",
          "pictures": {
@@ -274,7 +214,7 @@
             "couverture": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
-         "classement": 0,
+         "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -302,7 +242,7 @@
                "id": "rep_002_2",
                "classement": 7,
                "title": "Royal Fight",
-               "description": "xtrait du gala",
+               "description": "Extrait du gala",
                "date": "2025-11-11T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser": "",
@@ -313,21 +253,21 @@
          ],
          "events": [
             {
-               "id": "evt_002_1",
-               "title": "Gala Fraternité",
-               "description": "Gala Fraternité Police & Forces de l'Ordre",
+               "id": "pln_101",
+               "title": "Fight Nation : Gala Fraternité Police & Forces de l'Ordre",
+               "description": "Le 29 mars, le MMA s'engage ! Fight Nation et la Fraternité Police s'unissent pour une soirée de combats intenses sous le parrainage du champion Jimmy Vienot. Vivez un événement unique où l'élite des forces de l'ordre monte dans la cage pour la bonne cause.",
                "location": "Paris",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
                "teaser": "",
                "onLive": false,
-               "start_time": "026-03-29T21:00:00+02:00",
+               "start_time": "2026-03-29T21:00:00+02:00",
                "stereo": true,
-               "price": 3.99,
+               "price": 2.99,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
-                     "description": "",
+                     "title": "Main Event",
+                     "description": "Gala Fraternité Live",
                      "url": "https://cdn.jumpr.fr/sample3.mp4"
                   }
                ]
@@ -337,7 +277,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "La chaîne Tek Fight revolutionne les gala de combat en combinant une cage pour le MMA, et un ring pour le Muay Thaï et le kickboxing",
+         "description": "Tek Fight révolutionne le monde des sports de combat en combinant habilement une cage pour le MMA et un ring pour le Muay Thaï et le kickboxing. Plongez au cœur d'un spectacle hybride et novateur où les disciplines se croisent avec intensité.",
          "event_type": "sport",
          "teaser": "",
          "pictures": {
@@ -374,7 +314,7 @@
          ],
          "events": [
             {
-               "id": "evt_004",
+               "id": "pln_104",
                "title": "Tek Fight 5",
                "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
                "location": "France",
@@ -383,12 +323,12 @@
                "onLive": false,
                "start_time": "2026-05-23T19:30:00+02:00",
                "stereo": true,
-               "price": 3.99,
+               "price": 4.99,
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui s’inscrit dans la continuité du Muay Thaï et du kickboxing, piliers historiques du club local.",
+                     "description": "Live depuis le Gymnase Jesse Owens",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
@@ -560,7 +500,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous propose des matchs, replays et contenus exclusifs retraçant l’histoire et l’actualité du club.",
+         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l’actualité trépidante de l'emblématique club genevois.",
          "event_type": "sport",
          "teaser": "",
          "pictures": {
@@ -598,20 +538,20 @@
          "events": [
             {
                "id": "evt_007_1",
-               "title": "Servette FC",
-               "description": "Entrainement et Game Show pour les 135 ans du club !",
+               "title": "Servette FC : En direct du stade",
+               "description": "Suivez le match en direct !",
                "location": "Genève",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "onLive": true,
-               "start_time": "2025-11-18T19:00:00+02:00",
+               "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "price": 3.99,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
-                     "description": "",
+                     "title": "Flux Live",
+                     "description": "Caméra terrain",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
                ]
@@ -621,7 +561,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "La chaîne Orléans Loiret Basket vous plonge au cœur du club avec des matchs, replays et temps forts exclusifs.",
+         "description": "Plongez au cœur du parquet avec la chaîne Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux temps forts exclusifs de votre équipe préférée.",
          "event_type": "sport",
          "teaser": "",
          "pictures": {
@@ -672,19 +612,19 @@
             {
                "id": "evt_008_1",
                "title": "Orléans vs La Rochelle",
-               "description": "Le premier quart-temps du match Orléans – La Rochelle, caméra derrière le panier.",
+               "description": "Le match en direct, caméra derrière le panier.",
                "location": "Orléans",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "onLive": true,
-               "start_time": "2025-11-18T19:00:00+02:00",
+               "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "price": 3.99,
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "Orléans vs La Rochelle",
-                     "description": "Le premier quart-temps du match Orléans – La Rochelle, caméra derrière le panier.",
+                     "description": "Caméra derrière le panier",
                      "url": "https://cdn.jumpr.fr/Basket1_8k/playlist.m3u8"
                   }
                ]
@@ -747,6 +687,122 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/sample15.mp4"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id": "cr_010",
+         "name": "FFBAD",
+         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes d'interclubs et vibrez au rythme des smashes de l'élite du badminton international en France.",
+         "event_type": "sport",
+         "teaser": "",
+         "pictures": {
+            "thumbnail_16_9": "https://frontwebservice.ffbad.org/storage/documents/pages/Vie_des_clubs/Boite_a_outils_dirigeants/Charte_graphique/vie-des-clubs-boite-a-outils-dirigeants-charte-graphique-logo-vertical-negatifpng_591372.webp",
+            "logo_16_9": "https://frontwebservice.ffbad.org/storage/documents/pages/Vie_des_clubs/Boite_a_outils_dirigeants/Charte_graphique/vie-des-clubs-boite-a-outils-dirigeants-charte-graphique-logo-vertical-negatifpng_591372.webp",
+            "logo_2_1": "https://frontwebservice.ffbad.org/storage/documents/pages/Vie_des_clubs/Boite_a_outils_dirigeants/Charte_graphique/vie-des-clubs-boite-a-outils-dirigeants-charte-graphique-logo-vertical-negatifpng_591372.webp",
+            "couverture": "https://frontwebservice.ffbad.org/storage/documents/pages/Vie_des_clubs/Boite_a_outils_dirigeants/Charte_graphique/vie-des-clubs-boite-a-outils-dirigeants-charte-graphique-logo-vertical-negatifpng_591372.webp"
+         },
+         "model3D": "",
+         "classement": 3,
+         "colorHexa": "#183262",
+         "verified": true,
+         "metrics": {
+            "followers": 18500,
+            "subscribers": 7200
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 2.99
+         },
+         "replays": [],
+         "events": [
+            {
+               "id": "pln_103",
+               "title": "Finales du Top 12 Badminton Français",
+               "description": "Retrouvez les 4 meilleures équipes d'interclubs de badminton.",
+               "location": "France",
+               "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-08T19:30:00+02:00",
+               "stereo": false,
+               "price": 4.99,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Terrain Principal",
+                     "description": "Flux en direct",
+                     "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
+                  }
+               ]
+            },
+            {
+               "id": "pln_106",
+               "title": "Yonex Internationaux France Badminton",
+               "description": "Les meilleurs joueurs du monde se retrouveront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
+               "location": "France",
+               "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-10-21T20:00:00+02:00",
+               "stereo": false,
+               "price": 14.99,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Court 1",
+                     "description": "Caméra principale",
+                     "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "id": "cr_011",
+         "name": "Ligue Nationale de Handball",
+         "description": "Vibrez au rythme de la LNH ! Retrouvez les chocs au sommet de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs opposant les plus grands clubs.",
+         "event_type": "sport",
+         "teaser": "",
+         "pictures": {
+            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Ligue_Nationale_de_Handball_2016.svg/1200px-Logo_Ligue_Nationale_de_Handball_2016.svg.png",
+            "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Ligue_Nationale_de_Handball_2016.svg/1200px-Logo_Ligue_Nationale_de_Handball_2016.svg.png",
+            "logo_2_1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Ligue_Nationale_de_Handball_2016.svg/1200px-Logo_Ligue_Nationale_de_Handball_2016.svg.png",
+            "couverture": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Ligue_Nationale_de_Handball_2016.svg/1200px-Logo_Ligue_Nationale_de_Handball_2016.svg.png"
+         },
+         "model3D": "",
+         "classement": 1,
+         "colorHexa": "#03224C",
+         "verified": true,
+         "metrics": {
+            "followers": 54200,
+            "subscribers": 22100
+         },
+         "priceCreator": {
+            "devise": "EUR",
+            "price": 5.99
+         },
+         "replays": [],
+         "events": [
+            {
+               "id": "pln_105",
+               "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
+               "description": "Mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s’affronteront à l’Accor Arena à Paris dans le cadre de la 28ème journée de Liqui Moly StarLigue. Un match au sommet, qui pourrait être décisif dans la course au titre.",
+               "location": "ACCOR ARENA, France",
+               "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-27T19:30:00+02:00",
+               "stereo": false,
+               "price": 14.99,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Direct ACCOR ARENA",
+                     "description": "Flux de match",
+                     "url": "https://cdn.jumpr.fr/sample_handball.mp4"
                   }
                ]
             }
