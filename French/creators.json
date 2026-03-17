@@ -224,7 +224,7 @@
          "events": [
             {
                "id": "evt_live_ksw",
-               "classement": 1,
+               "classement": 6,
                "title": "KSW 117 bientôt disponible",
                "description": "Le main event bat son plein. Rejoignez la cage !",
                "location": "Pologne",
@@ -244,7 +244,7 @@
             },
             {
                "id": "pln_102",
-               "classement": 1,
+               "classement": 7,
                "title": "KSW 117",
                "description": "Prochain gala XTB KSW 117",
                "location": "Pologne",
@@ -326,7 +326,7 @@
          "events": [
             {
                "id": "pln_101",
-               "classement": 1,
+               "classement": 5,
                "title": "Fight Nation : Gala Fraternité Police & Forces de l'Ordre",
                "description": "Le 29 mars, le MMA s'engage ! Fight Nation et la Fraternité Police s'unissent pour une soirée de combats intenses sous le parrainage du champion Jimmy Vienot. Vivez un événement unique où l'élite des forces de l'ordre monte dans la cage pour la bonne cause.",
                "location": "Paris",
@@ -588,7 +588,7 @@
          "events": [
             {
                "id": "evt_007_1",
-               "classement": 1,
+               "classement": 3,
                "title": "Servette FC : En direct du stade",
                "description": "Suivez le match en direct !",
                "location": "Genève",
@@ -761,7 +761,7 @@
          "events": [
             {
                "id": "pln_103",
-               "classement": 1,
+               "classement": 2,
                "title": "Finales du Top 12 Badminton Français",
                "description": "Retrouvez les 4 meilleures équipes d'interclubs de badminton.",
                "location": "France",
@@ -781,7 +781,7 @@
             },
             {
                "id": "pln_106",
-               "classement": 1,
+               "classement": 10,
                "title": "Yonex Internationaux France Badminton",
                "description": "Les meilleurs joueurs du monde se retrouveront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
                "location": "France",
@@ -827,7 +827,7 @@
          "events": [
             {
                "id": "pln_105",
-               "classement": 1,
+               "classement": 15,
                "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
                "description": "Mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s’affronteront à l’Accor Arena à Paris dans le cadre de la 28ème journée de Liqui Moly StarLigue. Un match au sommet, qui pourrait être décisif dans la course au titre.",
                "location": "ACCOR ARENA, France",
