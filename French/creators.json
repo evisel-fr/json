@@ -31,7 +31,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Adam Modzelewski vainqueur par KO (coups), à 1 min 18 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_5",
@@ -42,7 +49,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Marcelo Morelli vainqueur par TKO (coups), à 4 min 56 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_2",
@@ -53,7 +67,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Wiktor Zalewski vainqueur par TKO (coups), à 4 min 06 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_7",
@@ -64,7 +85,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Stipe Bekavac vainqueur par KO (coup), à 2 min 59 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_1",
@@ -75,7 +103,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Souheil Kaouchen vainqueur par TKO (coups), à 2 min 53 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_4",
@@ -86,7 +121,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_6",
@@ -97,7 +139,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Marcin Wójcik vainqueur par décision unanime (3 × 30–27).",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_8",
@@ -108,7 +157,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Michał Michalski vainqueur par TKO (coups), à 4 min 19 s du 1er round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_9",
@@ -119,7 +175,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Artur Szpilka vainqueur par TKO (coups), à 2 min 07 s du 2ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_10",
@@ -130,7 +193,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Paweł Pawlak vainqueur par soumission (clé de genou), à 3 min 09 s du 5ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_001_11",
@@ -141,7 +211,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Adrian Bartosiński vainqueur par TKO (coups), à 4 min 56 s du 3ᵉ round.",
-               "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
@@ -229,7 +306,20 @@
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser": "",
                "stereo": false,
-               "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue 1",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Vue 2",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
@@ -286,7 +376,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Caméra coin rouge",
-               "url": "https://cdn.jumpr.fr/TekFight_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
@@ -343,7 +440,14 @@
                "teaser": "",
                "stereo": true,
                "description": "RODRIGUEZ VS CABREL KEMEZEU",
-               "url": "https://cdn.jumpr.fr/100%Fight_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/100%Fight_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": []
@@ -379,7 +483,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Caméra ring",
-               "url": "https://cdn.jumpr.fr/Bakary_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Bakary_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": []
@@ -415,7 +526,14 @@
                "teaser": "",
                "stereo": false,
                "description": "Caméra scène",
-               "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": []
@@ -451,7 +569,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Entrainement et Game Show",
-               "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
@@ -508,7 +633,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Caméra derrière le panier",
-               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_008_2",
@@ -519,7 +651,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Caméra sur le coté du terrain",
-               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
@@ -576,7 +715,14 @@
                "teaser": "",
                "stereo": true,
                "description": "Caméra DJ",
-               "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": []
