@@ -185,7 +185,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_002",
@@ -253,7 +254,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_003",
@@ -310,7 +312,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_004",
@@ -346,7 +349,8 @@
                "url": "https://cdn.jumpr.fr/100%Fight_8k/playlist.m3u8"
             }
          ],
-         "events": []
+         "events": [],
+         "pubs": []
       },
       {
          "id": "cr_005",
@@ -382,7 +386,8 @@
                "url": "https://cdn.jumpr.fr/Bakary_8k/playlist.m3u8"
             }
          ],
-         "events": []
+         "events": [],
+         "pubs": []
       },
       {
          "id": "cr_006",
@@ -418,7 +423,8 @@
                "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
             }
          ],
-         "events": []
+         "events": [],
+         "pubs": []
       },
       {
          "id": "cr_007",
@@ -475,7 +481,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_008",
@@ -543,7 +550,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_009",
@@ -579,7 +587,8 @@
                "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
             }
          ],
-         "events": []
+         "events": [],
+         "pubs": []
       },
       {
          "id": "cr_010",
@@ -644,7 +653,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       },
       {
          "id": "cr_011",
@@ -689,7 +699,8 @@
                   }
                ]
             }
-         ]
+         ],
+         "pubs": []
       }
    ]
 }
