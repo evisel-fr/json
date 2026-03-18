@@ -701,7 +701,7 @@
                "location": "Orléans",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "streams": [
