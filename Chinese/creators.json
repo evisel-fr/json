@@ -216,7 +216,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
                   }
                ]
             }
@@ -224,9 +224,9 @@
          "events": [
             {
                "id": "evt_live_ksw",
-               "classement": 1,
+               "classement": 6,
                "title": "KSW 117 即将上线",
-               "description": "主赛事正在如火如荼地进行中。加入八角笼吧！",
+               "description": "主赛事即将来临。准备好进入八角笼吧！",
                "location": "波兰",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "",
@@ -244,7 +244,7 @@
             },
             {
                "id": "pln_102",
-               "classement": 1,
+               "classement": 7,
                "title": "KSW 117",
                "description": "即将举办的 XTB KSW 117 盛典",
                "location": "波兰",
@@ -263,7 +263,24 @@
                ]
             }
          ],
-         "pubs": []
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
+            },
+            {
+               "id": "pub_03",
+               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
+            },
+            {
+               "id": "pub_04",
+               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
+            }
+         ]
       },
       {
          "id": "cr_002",
@@ -278,7 +295,7 @@
             "couverture": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "teaser_16_9": ""
          },
-         "model3D": "",
+         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
          "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
@@ -296,14 +313,7 @@
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
                "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
-                  }
-               ]
+               "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
             },
             {
                "id": "rep_002_2",
@@ -317,13 +327,13 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue 1",
+                     "title": "机位 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "Vue 2",
+                     "title": "机位 2",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
                   }
@@ -333,7 +343,7 @@
          "events": [
             {
                "id": "pln_101",
-               "classement": 1,
+               "classement": 5,
                "title": "Fight Nation：警察与执法人员兄弟会盛典",
                "description": "3月29日，MMA 参与其中！Fight Nation 和警察兄弟会联合举办一场在冠军 Jimmy Vienot 赞助下的激烈格斗之夜。体验一场独特的活动，执法界的精英们为慈善事业踏入八角笼。",
                "location": "巴黎",
@@ -488,7 +498,7 @@
             {
                "id": "rep_002_1",
                "classement": 5,
-               "title": "Bakary Samake 柔道/实战练习",
+               "title": "Bakary Samake 实战练习",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
@@ -510,7 +520,7 @@
       {
          "id": "cr_006",
          "name": "EFC 27",
-         "description": "EFC 27 频道，这是奥斯曼·登贝莱 (Ousmane Dembele) 曾效力过的老东家俱乐部。",
+         "description": "EFC 27 频道，奥斯曼·登贝莱曾效力过的俱乐部。",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -554,7 +564,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "塞维特足球俱乐部 (Servette FC) 频道为您提供现场比赛、传奇回放以及独家内容，讲述这家标志性日内瓦俱乐部的丰富历史和激动人心的最新动态。",
+         "description": "Servette FC 频道为您提供现场比赛、传奇回放以及独家内容，讲述这家标志性日内瓦俱乐部的丰富历史和激动人心的最新动态。",
          "event_type": "sport",
          "teaserVideo": "",
          "pictures": {
@@ -595,8 +605,8 @@
          "events": [
             {
                "id": "evt_007_1",
-               "classement": 1,
-               "title": "塞维特 FC：体育场现场直播",
+               "classement": 3,
+               "title": "Servette FC：体育场现场直播",
                "description": "观看现场直播比赛！",
                "location": "日内瓦",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
@@ -724,7 +734,7 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "2025年托农莱班 (Thonon-les-Bains) 音乐节片段",
+               "title": "2025年托农莱班音乐节片段",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -768,7 +778,7 @@
          "events": [
             {
                "id": "pln_103",
-               "classement": 1,
+               "classement": 2,
                "title": "法国羽毛球 Top 12 决赛",
                "description": "见证四大顶尖羽毛球俱乐部球队的对决。",
                "location": "法国",
@@ -788,7 +798,7 @@
             },
             {
                "id": "pln_106",
-               "classement": 1,
+               "classement": 10,
                "title": "Yonex 法国羽毛球公开赛",
                "description": "世界顶尖选手将齐聚一堂，参加新一届的 Yonex 法国羽毛球公开赛。",
                "location": "法国",
@@ -834,7 +844,7 @@
          "events": [
             {
                "id": "pln_105",
-               "classement": 1,
+               "classement": 15,
                "title": "Ligue Nationale de Handball：巴黎圣日耳曼 vs HBC 南特",
                "description": "2026 年 5 月 27 日星期三，巴黎圣日耳曼手球俱乐部与 HBC 南特俱乐部将在巴黎雅高竞技场 (Accor Arena) 展开 Liqui Moly StarLigue 第 28 轮的较量。这是一场可能决定冠军归属的巅峰对决。",
                "location": "法国雅高竞技场 (ACCOR ARENA)",
