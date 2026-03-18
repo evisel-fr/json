@@ -356,8 +356,8 @@
                "location": "Paris",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
                "teaser": "",
-               "onLive": false,
-               "start_time": "2026-03-29T21:00:00+02:00",
+               "onLive": true,
+               "start_time": "2026-03-1829T21:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
