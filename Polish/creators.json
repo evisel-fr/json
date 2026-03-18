@@ -192,7 +192,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
                "teaser": "",
                "stereo": true,
-               "description": "Paweł Pawlak wygrywa przez poddanie (balacha na kolano) w 3 min 09 s 5. rundy.",
+               "description": "Paweł Pawlak wygrywa przez poddanie (dźwignia na kolano) w 3 min 09 s 5. rundy.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -226,7 +226,7 @@
                "id": "evt_live_ksw",
                "classement": 6,
                "title": "KSW 117 wkrótce",
-               "description": "Walka wieczoru trwa w najlepsze. Dołącz do klatki!",
+               "description": "Walka wieczoru nadchodzi. Przygotuj się na wejście do klatki!",
                "location": "Polska",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "",
@@ -295,7 +295,7 @@
             "couverture": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "teaser_16_9": ""
          },
-         "model3D": "",
+         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
          "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
@@ -605,7 +605,7 @@
          "events": [
             {
                "id": "evt_007_1",
-               "classement": 1,
+               "classement": 3,
                "title": "Servette FC: Na żywo ze stadionu",
                "description": "Śledź mecz na żywo!",
                "location": "Genewa",
@@ -790,7 +790,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Główny Kord",
+                     "title": "Kort Główny",
                      "description": "Transmisja na żywo",
                      "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
                   }
@@ -810,7 +810,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Kord 1",
+                     "title": "Kort 1",
                      "description": "Kamera główna",
                      "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
                   }
