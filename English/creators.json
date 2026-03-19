@@ -5,13 +5,13 @@
          "name": "KSW",
          "description": "KSW (Konfrontacja Sztuk Walki) is the premier MMA organization in Europe. Discover the epic clashes of the continent's best fighters in an electric atmosphere, punctuated by spectacular stage productions and unforgettable fights.",
          "event_type": "sport",
-         "teaserVideo": "",
+         "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "pictures": {
             "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
          "classement": 0,
@@ -313,7 +313,14 @@
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
                "stereo": true,
-               "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "View 1",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+                  }
+               ]  
             },
             {
                "id": "rep_002_2",
@@ -375,7 +382,7 @@
             "logo_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
             "logo_2_1": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
             "couverture": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
          "classement": 2,
@@ -440,7 +447,7 @@
             "logo_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
             "logo_2_1": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
             "couverture": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
          "classement": 1,
@@ -484,7 +491,7 @@
             "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "logo_2_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "couverture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
          },
          "model3D": "",
          "classement": 3,
@@ -528,7 +535,7 @@
             "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
             "logo_2_1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
             "couverture": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png"
          },
          "model3D": "",
          "classement": 2,
@@ -572,7 +579,7 @@
             "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
             "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
             "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
          },
          "model3D": "",
          "classement": 2,
@@ -637,7 +644,7 @@
             "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "logo_2_1": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "couverture": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
          "classement": 2,
@@ -712,7 +719,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "The channel for the Jeudi Electro festival.",
+         "description": "The channel for the Jeudi Electro festival",
          "event_type": "musique",
          "teaserVideo": "",
          "pictures": {
@@ -720,7 +727,7 @@
             "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
          "classement": 2,
@@ -764,7 +771,7 @@
             "logo_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "logo_2_1": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "couverture": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
          },
          "model3D": "",
          "classement": 3,
@@ -830,7 +837,7 @@
             "logo_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
             "logo_2_1": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
             "couverture": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
          },
          "model3D": "",
          "classement": 1,
