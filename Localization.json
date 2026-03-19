@@ -40,7 +40,8 @@
     "Unfollow": "Unfollow",
     "ReplayBought": "Replay bought",
     "LiveBought": "Live bought",
-    "Subscribed": "Subscriptions"
+    "Subscribed": "Subscriptions",
+    "Preorder": "Pre-Order"
   },
   "French": {
     "Home": "Accueil",
@@ -83,7 +84,8 @@
     "Unfollow": "Se désabonner",
     "ReplayBought": "Replay achetés",
     "LiveBought": "Live achetés",
-    "Subscribed": "Abonnements"
+    "Subscribed": "Abonnements",
+    "Preorder": "Préachetez"
   },
   "Chinese": {
     "Home": "主页",
@@ -126,7 +128,8 @@
     "Unfollow": "取消关注",
     "ReplayBought": "回放已购买",
     "LiveBought": "直播已购买",
-    "Subscribed": "已订阅"
+    "Subscribed": "已订阅",
+    "Preorder": "预购"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -169,6 +172,7 @@
     "Unfollow": "Anuluj subskrypcję",
     "ReplayBought": "Kupione powtórki",
     "LiveBought": "Kupione transmisje",
-    "Subscribed": "Subskrypcje"
+    "Subscribed": "Subskrypcje",
+    "Preorder": "Przedsprzedaż"
   }
 }
