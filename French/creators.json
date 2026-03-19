@@ -729,7 +729,7 @@
             "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
-         "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
+         "model3D": "",
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
