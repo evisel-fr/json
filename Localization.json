@@ -42,7 +42,8 @@
     "LiveBought": "Live bought",
     "Subscribed": "Subscriptions",
     "Preorder": "Pre-Order",
-    "OnLive": "On live"
+    "OnLive": "On live",
+    "OnLoading": "Loading"
   },
   "French": {
     "Home": "Accueil",
@@ -87,7 +88,8 @@
     "LiveBought": "Live achetés",
     "Subscribed": "Abonnements",
     "Preorder": "Préachetez",
-    "OnLive": "En direct"
+    "OnLive": "En direct",
+    "OnLoading": "Chargement en cours"
   },
   "Chinese": {
     "Home": "主页",
@@ -132,7 +134,8 @@
     "LiveBought": "直播已购买",
     "Subscribed": "已订阅",
     "Preorder": "预购",
-    "OnLive": "正在直播"
+    "OnLive": "正在直播",
+    "OnLoading": "加载中"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -177,6 +180,7 @@
     "LiveBought": "Kupione transmisje",
     "Subscribed": "Subskrypcje",
     "Preorder": "Przedsprzedaż",
-    "OnLive": "Na żywo"
+    "OnLive": "Na żywo",
+    "OnLoading": "Ładowanie"
   }
 }
