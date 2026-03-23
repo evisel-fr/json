@@ -43,7 +43,8 @@
     "Subscribed": "Subscriptions",
     "Preorder": "Pre-Order",
     "OnLive": "On live",
-    "OnLoading": "Loading"
+    "OnLoading": "Loading",
+    "Teaser": "Teaser"
   },
   "French": {
     "Home": "Accueil",
@@ -89,7 +90,8 @@
     "Subscribed": "Abonnements",
     "Preorder": "Préachetez",
     "OnLive": "En direct",
-    "OnLoading": "Chargement en cours"
+    "OnLoading": "Chargement en cours",
+    "Teaser": "Teaser"
   },
   "Chinese": {
     "Home": "主页",
@@ -135,7 +137,8 @@
     "Subscribed": "已订阅",
     "Preorder": "预购",
     "OnLive": "正在直播",
-    "OnLoading": "加载中"
+    "OnLoading": "加载中",
+    "Teaser": "拖车"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -181,6 +184,7 @@
     "Subscribed": "Subskrypcje",
     "Preorder": "Przedsprzedaż",
     "OnLive": "Na żywo",
-    "OnLoading": "Ładowanie"
+    "OnLoading": "Ładowanie",
+    "Teaser": "przyczepa"
   }
 }
