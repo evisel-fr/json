@@ -6,6 +6,7 @@
          "description": "KSW (Konfrontacja Sztuk Walki) to czołowa organizacja MMA w Europie. Odkryj epickie starcia najlepszych zawodników na kontynencie w elektryzującej atmosferze, w rytm spektakularnych produkcji scenicznych i niezapomnianych walk.",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
@@ -288,6 +289,7 @@
          "description": "Kanał Fight Nation to najważniejsza platforma sportów walki we Francji. Zyskaj ekskluzywny dostęp do prestiżowych gal, śledź rozwój wschodzących gwiazd i wspieraj ważne wydarzenia charytatywne gromadzące elitę tej dyscypliny.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
@@ -377,6 +379,7 @@
          "description": "Tek Fight rewolucjonizuje świat sportów walki, umiejętnie łącząc klatkę do MMA z ringiem do Muay Thai i kickboxingu. Zanurz się w sercu innowacyjnego, hybrydowego widowiska, w którym dyscypliny krzyżują się z niezwykłą intensywnością.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
             "logo_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
@@ -442,6 +445,7 @@
          "description": "Kanał 100% Fight oferuje to, co najlepsze w sportach walki: walki, powtórki i ekskluzywne treści.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
@@ -486,6 +490,7 @@
          "description": "Kanał poświęcony sensacji francuskiego boksu, Bakary'emu Samake.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
@@ -530,6 +535,7 @@
          "description": "Kanał EFC 27, byłego klubu Ousmane'a Dembele.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
             "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
@@ -574,6 +580,7 @@
          "description": "Kanał Servette FC oferuje mecze na żywo, legendarne powtórki i ekskluzywne materiały ukazujące bogatą historię i ekscytujące aktualności kultowego klubu z Genewy.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
             "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
@@ -639,6 +646,7 @@
          "description": "Zanurz się w samym centrum parkietu dzięki kanałowi Orléans Loiret Basket. Śledź mecze na żywo w niesamowitej jakości, oglądaj najlepsze powtórki i zyskaj dostęp do ekskluzywnych najważniejszych momentów swojej ulubionej drużyny.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
@@ -722,6 +730,7 @@
          "description": "Kanał festiwalu Jeudi Electro.",
          "event_type": "musique",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
@@ -766,6 +775,7 @@
          "description": "Oficjalny kanał Francuskiej Federacji Badmintona. Śledź najważniejsze zawody sezonu, kibicuj drużynom klubowym i poczuj rytm smeczów elity międzynarodowego badmintona we Francji.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "logo_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
@@ -832,6 +842,7 @@
          "description": "Poczuj rytm LNH! Oglądaj starcia na szczycie w Liqui Moly StarLigue i zanurz się w intensywność francuskich mistrzostw w piłce ręcznej z decydującymi meczami pomiędzy największymi klubami.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
             "logo_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",

@@ -6,6 +6,7 @@
          "description": "KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une ambiance électrique, rythmée par des productions scéniques spectaculaires et des combats inoubliables.",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
@@ -288,6 +289,7 @@
          "description": "La chaîne Fight Nation est la plateforme incontournable des sports de combat en France. Accédez en exclusivité aux galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs forts, réunissant l'élite de la discipline.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
@@ -377,6 +379,7 @@
          "description": "Tek Fight révolutionne le monde des sports de combat en combinant habilement une cage pour le MMA et un ring pour le Muay Thaï et le kickboxing. Plongez au cœur d'un spectacle hybride et novateur où les disciplines se croisent avec intensité.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
             "logo_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
@@ -442,6 +445,7 @@
          "description": "La chaîne 100% Fight vous propose le meilleur des sports de combat à travers des combats, replays et contenus exclusifs.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
@@ -486,6 +490,7 @@
          "description": "La chaîne dedié à la sensation de la boxe française, Bakary Samake",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
@@ -530,6 +535,7 @@
          "description": "La chaîne de l'EFC 27 l'ancien club de Ousmane Dembele",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
             "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
@@ -574,6 +580,7 @@
          "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l’actualité trépidante de l'emblématique club genevois.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
             "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
@@ -639,6 +646,7 @@
          "description": "Plongez au cœur du parquet avec la chaîne Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux temps forts exclusifs de votre équipe préférée.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
@@ -722,6 +730,7 @@
          "description": "La chaîne du festival de Jeudi Electro",
          "event_type": "musique",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
@@ -766,6 +775,7 @@
          "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes d'interclubs et vibrez au rythme des smashes de l'élite du badminton international en France.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "logo_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
@@ -832,6 +842,7 @@
          "description": "Vibrez au rythme de la LNH ! Retrouvez les chocs au sommet de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs opposant les plus grands clubs.",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
             "logo_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",

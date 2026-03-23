@@ -6,6 +6,7 @@
          "description": "KSW (Konfrontacja Sztuk Walki) 是欧洲首屈一指的综合格斗 (MMA) 组织。在电光火石的氛围中，伴随着壮观的舞台布景和令人难忘的战斗，探索欧洲大陆最优秀拳手之间的史诗级对决。",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
@@ -288,6 +289,7 @@
          "description": "Fight Nation 频道是法国格斗运动的必备平台。独家访问顶级盛典，关注明日之星的崛起，并支持汇聚该领域精英的盛大慈善活动。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
@@ -377,6 +379,7 @@
          "description": "Tek Fight 巧妙地将 MMA 八角笼与泰拳及踢拳的擂台结合在一起，彻底改变了格斗运动的世界。潜入一个创新混合表演的中心，各项运动在这里激烈交锋。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
             "logo_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
@@ -442,6 +445,7 @@
          "description": "100% Fight 频道通过独家格斗、回放和内容为您带来最精彩的格斗运动。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
             "logo_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
@@ -486,6 +490,7 @@
          "description": "致力于法国拳击新星 Bakary Samake 的专属频道。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
@@ -530,6 +535,7 @@
          "description": "EFC 27 频道，奥斯曼·登贝莱曾效力过的俱乐部。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
             "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
@@ -574,6 +580,7 @@
          "description": "Servette FC 频道为您提供现场比赛、传奇回放以及独家内容，讲述这家标志性日内瓦俱乐部的丰富历史和激动人心的最新动态。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
             "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
@@ -639,6 +646,7 @@
          "description": "通过 Orléans Loiret Basket 频道深入球场中心。以沉浸式画质观看现场比赛，重温最佳回放，并获取您最喜爱球队的独家精彩瞬间。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
@@ -722,6 +730,7 @@
          "description": "Jeudi Electro 音乐节频道。",
          "event_type": "musique",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
@@ -766,6 +775,7 @@
          "description": "法国羽毛球联合会官方频道。关注本赛季最盛大的比赛，为您的俱乐部球队加油助威，并随着法国国际羽毛球精英的扣杀节奏一起脉动。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "logo_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
@@ -832,6 +842,7 @@
          "description": "随着 LNH 的节奏一起脉动！寻找 Liqui Moly StarLigue 的巅峰对决，并在最大俱乐部之间的决定性比赛中，潜入法国手球锦标赛的激烈氛围。",
          "event_type": "sport",
          "teaserVideo": "",
+         "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
             "logo_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
