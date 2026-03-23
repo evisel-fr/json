@@ -663,13 +663,13 @@
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra derrière le panier",
+               "description": "Caméra sur le coté du terrain",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/60fps/master.m3u8"
                   }
                ]
             },
@@ -681,7 +681,7 @@
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra sur le coté du terrain",
+               "description": "Caméra derriere le panier",
                "streams": [
                   {
                      "id": "stream_01",
