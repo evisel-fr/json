@@ -35,9 +35,15 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
+                     "title": "Combat",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Liseck_60fps/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Ralentit",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test/playlist.m3u8"
                   }
                ]
             },
