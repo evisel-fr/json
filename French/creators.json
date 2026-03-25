@@ -267,19 +267,11 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
+               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_02",
-               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
-            },
-            {
-               "id": "pub_03",
-               "thumbnail": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
-            },
-            {
-               "id": "pub_04",
-               "thumbnail": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
+               "thumbnail_16_9": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
             }
          ]
       },

@@ -2,19 +2,19 @@
    "pubs": [
       {
          "id": "pub_01",
-         "thumbnail": "https://i.ytimg.com/vi/G3dHmtcD6hc/maxresdefault.jpg"
+         "thumbnail_16_9": "https://i.ytimg.com/vi/G3dHmtcD6hc/maxresdefault.jpg"
       },
       {
          "id": "pub_02",
-         "thumbnail": "https://www.julientellouck.com/wp-content/uploads/2025/11/PHOTO-2025-11-30-14-01-23-1.jpg"
+         "thumbnail_16_9": "https://www.julientellouck.com/wp-content/uploads/2025/11/PHOTO-2025-11-30-14-01-23-1.jpg"
       },
       {
          "id": "pub_03",
-         "thumbnail": "https://cdn.next.ink/inpactv7/data-next/images/bd/wide-linked-media/9579.jpg"
+         "thumbnail_16_9": "https://cdn.next.ink/inpactv7/data-next/images/bd/wide-linked-media/9579.jpg"
       },
       {
          "id": "pub_04",
-         "thumbnail": "https://i.ytimg.com/vi/TinvWNe41So/maxresdefault.jpg"
+         "thumbnail_16_9": "https://i.ytimg.com/vi/TinvWNe41So/maxresdefault.jpg"
       }
    ]
 }
