@@ -44,7 +44,10 @@
     "Preorder": "Pre-Order",
     "OnLive": "On live",
     "OnLoading": "Loading",
-    "Teaser": "Teaser"
+    "Teaser": "Teaser",
+    "ConnexionLoading": "Connexion loading",
+    "ConnexionFailed": "Connexion failed,\ncheck your internet connexion",
+    "ConnexionDone": "Connexion done"
   },
   "French": {
     "Home": "Accueil",
@@ -91,7 +94,10 @@
     "Preorder": "Préachetez",
     "OnLive": "En direct",
     "OnLoading": "Chargement en cours",
-    "Teaser": "Teaser"
+    "Teaser": "Teaser",
+    "ConnexionLoading": "Connexion en cours",
+    "ConnexionFailed": "Connexion échouée,\nvérifiez votre connexion internet",
+    "ConnexionDone": "Connexion réussie"
   },
   "Chinese": {
     "Home": "主页",
@@ -138,7 +144,10 @@
     "Preorder": "预购",
     "OnLive": "正在直播",
     "OnLoading": "加载中",
-    "Teaser": "拖车"
+    "Teaser": "拖车",
+    "ConnexionLoading": "连接加载中",
+    "ConnexionFailed": "连接失败，\n请检查您的网络连接",
+    "ConnexionDone": "连接成功"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -185,6 +194,9 @@
     "Preorder": "Przedsprzedaż",
     "OnLive": "Na żywo",
     "OnLoading": "Ładowanie",
-    "Teaser": "przyczepa"
+    "Teaser": "przyczepa",
+    "ConnexionLoading": "Ładowanie połączenia",
+    "ConnexionFailed": "Połączenie nieudane,\nsprawdź swoje połączenie internetowe",
+    "ConnexionDone": "Połączenie zakończone"
   }
 }
