@@ -38,12 +38,6 @@
                      "title": "Combat",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/AJ/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Ralentit",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test/playlist.m3u8"
                   }
                ]
             },
@@ -79,7 +73,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJvsLisek/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Test_180/playlist.m3u8"
                   }
                ]
             },
