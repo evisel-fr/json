@@ -47,7 +47,10 @@
     "Teaser": "Teaser",
     "ConnexionLoading": "Connexion loading",
     "ConnexionFailed": "Connexion failed,\ncheck your internet connexion",
-    "ConnexionDone": "Connexion done"
+    "ConnexionDone": "Connexion done",
+    "Leave" : "Leave",
+    "Relaunch" : "Restart",
+    "QuestionRelaunch" : "Relaunch the video or return to menu ?"
   },
   "French": {
     "Home": "Accueil",
@@ -97,7 +100,10 @@
     "Teaser": "Teaser",
     "ConnexionLoading": "Connexion en cours",
     "ConnexionFailed": "Connexion échouée,\nvérifiez votre connexion internet",
-    "ConnexionDone": "Connexion réussie"
+    "ConnexionDone": "Connexion réussie",
+    "Leave" : "Quitter",
+    "Relaunch" : "Relancer",
+    "QuestionRelaunch" : "Relancer la vidéo ou revenir au menu ?"
   },
   "Chinese": {
     "Home": "主页",
@@ -147,7 +153,10 @@
     "Teaser": "拖车",
     "ConnexionLoading": "连接加载中",
     "ConnexionFailed": "连接失败，\n请检查您的网络连接",
-    "ConnexionDone": "连接成功"
+    "ConnexionDone": "连接成功",
+    "Leave" : "离开",
+    "Relaunch" : "重新启动",
+    "QuestionRelaunch" : "重新启动视频还是返回菜单？"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -197,6 +206,9 @@
     "Teaser": "przyczepa",
     "ConnexionLoading": "Ładowanie połączenia",
     "ConnexionFailed": "Połączenie nieudane,\nsprawdź swoje połączenie internetowe",
-    "ConnexionDone": "Połączenie zakończone"
+    "ConnexionDone": "Połączenie zakończone",
+    "Leave" : "Opuść",
+    "Relaunch" : "Uruchom ponownie",
+    "QuestionRelaunch" : "Uruchomić ponownie wideo czy wrócić do menu?"
   }
 }
