@@ -35,9 +35,9 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
+                     "title": "战斗",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ/playlist.m3u8"
                   }
                ]
             },
@@ -55,7 +55,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
                ]
             },
@@ -73,7 +73,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Test_180/playlist.m3u8"
                   }
                ]
             },
@@ -91,7 +91,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Rozalski_vs_Bekavak/playlist.m3u8"
                   }
                ]
             },
@@ -217,7 +217,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Bartosinski_vs_Tulshaev/playlist.m3u8"
                   }
                ]
             }
@@ -250,7 +250,7 @@
                "description": "即将举办的 XTB KSW 117 盛典",
                "location": "波兰",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
-               "teaser": "",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": false,
                "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
@@ -287,7 +287,7 @@
             "logo_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "logo_2_1": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
             "couverture": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
          "classement": 1,
@@ -314,7 +314,7 @@
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
-               ]
+               ]  
             },
             {
                "id": "rep_002_2",
@@ -324,7 +324,7 @@
                "date": "2025-11-11T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser": "",
-               "stereo": false,
+               "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
@@ -658,30 +658,30 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "奥尔良对阵拉罗谢尔比赛第一节，篮板后方机位。",
+               "title": "奥尔良对阵拉罗谢尔比赛第一节。",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "篮板后方机位",
+               "description": "球场侧边机位",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/60fps/playlist_5k.m3u8"
                   }
                ]
             },
             {
                "id": "rep_008_2",
                "classement": 21,
-               "title": "奥尔良对阵拉罗谢尔比赛第一节，球场侧边机位。",
+               "title": "奥尔良对阵拉罗谢尔比赛第一节。",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "球场侧边机位",
+               "description": "篮板后方机位",
                "streams": [
                   {
                      "id": "stream_01",
@@ -709,7 +709,7 @@
                      "id": "stream_01",
                      "title": "奥尔良 vs 拉罗谢尔",
                      "description": "篮板后方机位",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
                   }
                ]
             }
@@ -719,7 +719,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "Jeudi Electro 音乐节频道。",
+         "description": "Jeudi Electro 音乐节频道",
          "event_type": "musique",
          "teaserVideo": "",
          "stereo": true,
@@ -730,7 +730,7 @@
             "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
-         "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
+         "model3D": "",
          "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
