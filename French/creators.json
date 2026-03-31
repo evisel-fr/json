@@ -260,7 +260,7 @@
             {
                "id": "rep_003_1",
                "classement": 9,
-               "title": "Muay Thaï",
+               "title": "Muay Thaï 1",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -271,7 +271,39 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight_8k/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                  },
+                  {
+               "id": "rep_003_2",
+               "classement": 9,
+               "title": "Muay Thaï 2",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "Caméra coin rouge",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_2/playlist.m3u8"
+                  },
+                  {
+               "id": "rep_003_",
+               "classement": 9,
+               "title": "Muay Thaï 3",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "Caméra coin rouge",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
                   }
                ]
             }
