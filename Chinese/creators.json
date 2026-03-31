@@ -3,8 +3,8 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "KSW (Konfrontacja Sztuk Walki) 是欧洲首屈一指的综合格斗 (MMA) 组织。在电光火石的氛围中，伴随着壮观的舞台布景和令人难忘的战斗，探索欧洲大陆最优秀拳手之间的史诗级对决。",
-         "event_type": "sport",
+         "description": "KSW（Konfrontacja Sztuk Walki）是欧洲顶级的综合格斗组织。在震撼的舞台效果和令人难忘的比赛中，体验欧洲最顶尖拳手之间在电光火石的氛围中的史诗般对决。",
+         "event_type": "体育",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
@@ -31,11 +31,11 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser": "",
                "stereo": true,
-               "description": "第一回合 1 分 18 秒，Adam Modzelewski 通过 KO（击打）获胜。",
+               "description": "亚当·莫泽莱夫斯基在第一回合1分18秒通过KO（击打）获胜。",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "战斗",
+                     "title": "比赛",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/AJ/playlist.m3u8"
                   }
@@ -49,31 +49,13 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "第一回合 4 分 56 秒，Marcelo Morelli 通过 TKO（击打）获胜。",
+               "description": "马塞洛·莫雷利在第一回合4分56秒通过TKO（击打）获胜。",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_2",
-               "classement": 11,
-               "title": "ZALEWSKI VS DEBIENNE",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "第三回合 4 分 06 秒，Wiktor Zalewski 通过 TKO（击打）获胜。",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Test_180/playlist.m3u8"
                   }
                ]
             },
@@ -85,7 +67,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
                "teaser": "",
                "stereo": true,
-               "description": "第一回合 2 分 59 秒，Stipe Bekavac 通过 KO（重拳）获胜。",
+               "description": "斯蒂佩·贝卡瓦茨在第一回合2分59秒通过KO（击打）获胜。",
                "streams": [
                   {
                      "id": "stream_01",
@@ -103,31 +85,13 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
                "teaser": "",
                "stereo": true,
-               "description": "第一回合 2 分 53 秒，Souheil Kaouchen 通过 TKO（击打）获胜。",
+               "description": "苏海尔·考琴在第一回合2分53秒通过TKO（击打）获胜。",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_4",
-               "classement": 18,
-               "title": "WLODARCZYK VS KRAWCZYK",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "第一回合 1 分 51 秒，Igor Włodarczyk 通过降服（裸绞）获胜。",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Kaouchen_vs_Geburek/playlist.m3u8"
                   }
                ]
             },
@@ -139,67 +103,13 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
                "teaser": "",
                "stereo": true,
-               "description": "Marcin Wójcik 一致判定获胜 (3 × 30–27)。",
+               "description": "马尔钦·武伊奇克通过一致判定获胜 (3 × 30–27)。",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_8",
-               "classement": 14,
-               "title": "MICHALSKI VS JANIKOWSKI",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "第一回合 4 分 19 秒，Michał Michalski 通过 TKO（击打）获胜。",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_9",
-               "classement": 13,
-               "title": "MARTINEK VS SZPILKA",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "第二回合 2 分 07 秒，Artur Szpilka 通过 TKO（击打）获胜。",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_10",
-               "classement": 12,
-               "title": "PAWLAK VS ZERHOUNI",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "第五回合 3 分 09 秒，Paweł Pawlak 通过降服（膝十字固）获胜。",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Sakai_vs_Wojcik/playlist.m3u8"
                   }
                ]
             },
@@ -211,7 +121,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
                "teaser": "",
                "stereo": true,
-               "description": "第三回合 4 分 56 秒，Adrian Bartosiński 通过 TKO（击打）获胜。",
+               "description": "阿德里安·巴托辛斯基在第三回合4分56秒通过TKO（击打）获胜。",
                "streams": [
                   {
                      "id": "stream_01",
@@ -225,20 +135,20 @@
          "events": [
             {
                "id": "evt_live_ksw",
-               "classement": 6,
-               "title": "KSW 117 即将上线",
-               "description": "主赛事即将来临。准备好进入八角笼吧！",
+               "classement": 1,
+               "title": "KSW 117 即将推出",
+               "description": "主赛事即将上演。准备好进入八角笼吧！",
                "location": "波兰",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
-               "teaser": "",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
+               "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "直播机位 1",
-                     "description": "主直播流",
+                     "title": "直播摄像机 1",
+                     "description": "预告片",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
@@ -247,10 +157,10 @@
                "id": "pln_102",
                "classement": 7,
                "title": "KSW 117",
-               "description": "即将举办的 XTB KSW 117 盛典",
+               "description": "KSW 117 即将推出",
                "location": "波兰",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
-               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+               "teaser": "",
                "onLive": false,
                "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
@@ -258,7 +168,7 @@
                   {
                      "id": "stream_01",
                      "title": "KSW 117",
-                     "description": "即将举办的 XTB KSW 117 盛典",
+                     "description": "预告片",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
@@ -278,8 +188,8 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "Fight Nation 频道是法国格斗运动的必备平台。独家访问顶级盛典，关注明日之星的崛起，并支持汇聚该领域精英的盛大慈善活动。",
-         "event_type": "sport",
+         "description": "Fight Nation频道是法国格斗运动的首选平台。独家观看精彩赛事，见证新星的崛起，并支持汇聚该领域精英的重要慈善活动。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -302,7 +212,7 @@
                "id": "rep_002_1",
                "classement": 10,
                "title": "Legacy Fight Night",
-               "description": "盛典片段",
+               "description": "赛事集锦",
                "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
@@ -310,7 +220,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "机位 1",
+                     "title": "视角 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
@@ -320,7 +230,7 @@
                "id": "rep_002_2",
                "classement": 7,
                "title": "Royal Fight",
-               "description": "盛典片段",
+               "description": "赛事集锦",
                "date": "2025-11-11T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
                "teaser": "",
@@ -328,48 +238,27 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "机位 1",
+                     "title": "视角 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "机位 2",
+                     "title": "视角 2",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
                   }
                ]
             }
          ],
-         "events": [
-            {
-               "id": "pln_101",
-               "classement": 5,
-               "title": "Fight Nation：警察与执法人员兄弟会盛典",
-               "description": "3月29日，MMA 参与其中！Fight Nation 和警察兄弟会联合举办一场在冠军 Jimmy Vienot 赞助下的激烈格斗之夜。体验一场独特的活动，执法界的精英们为慈善事业踏入八角笼。",
-               "location": "巴黎",
-               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-03-29T21:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "主赛事",
-                     "description": "兄弟会盛典现场直播",
-                     "url": "https://cdn.jumpr.fr/sample3.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight 巧妙地将 MMA 八角笼与泰拳及踢拳的擂台结合在一起，彻底改变了格斗运动的世界。潜入一个创新混合表演的中心，各项运动在这里激烈交锋。",
-         "event_type": "sport",
+         "description": "Tek Fight将综合格斗的八角笼与泰拳和踢拳的擂台巧妙结合，彻底改变了格斗运动的世界。沉浸在这个充满创新的混合表演中，体验不同格斗项目在这里的激烈交汇。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -391,18 +280,54 @@
             {
                "id": "rep_003_1",
                "classement": 9,
-               "title": "泰拳",
+               "title": "Muay Thaï 1",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "stereo": true,
-               "description": "红角机位",
+               "description": "红角摄像机",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight_8k/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_003_2",
+               "classement": 11,
+               "title": "Muay Thaï 2",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "红角摄像机",
+               "streams": [
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_2/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_003_3",
+               "classement": 12,
+               "title": "Muay Thaï 3",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "红角摄像机",
+               "streams": [
+                  {
+                     "id": "stream_03",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
                   }
                ]
             }
@@ -412,7 +337,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5",
-               "description": "5月23日在杰西·欧文斯体育馆，八角笼将与 MMA 一同回归。这是一项蓬勃发展的运动，延续了当地俱乐部历史支柱——泰拳和踢拳的传统。",
+               "description": "5月23日在杰西·欧文斯体育馆，八角笼将伴随综合格斗重磅回归。这项蓬勃发展的运动延续了当地俱乐部历史支柱项目——泰拳和踢拳的辉煌。",
                "location": "法国",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -423,7 +348,7 @@
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "杰西·欧文斯体育馆现场直播",
+                     "description": "杰西·欧文斯体育馆直播",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
@@ -434,8 +359,8 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "100% Fight 频道通过独家格斗、回放和内容为您带来最精彩的格斗运动。",
-         "event_type": "sport",
+         "description": "100% Fight 频道通过比赛、回放和独家内容为您呈现最顶级的格斗运动。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -479,8 +404,8 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "致力于法国拳击新星 Bakary Samake 的专属频道。",
-         "event_type": "sport",
+         "description": "专为法国拳击界新星巴卡里·萨马科打造的频道",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -502,12 +427,12 @@
             {
                "id": "rep_002_1",
                "classement": 5,
-               "title": "Bakary Samake 实战练习",
+               "title": "Sparing Bakary Samake",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
                "stereo": true,
-               "description": "擂台机位",
+               "description": "擂台摄像机",
                "streams": [
                   {
                      "id": "stream_01",
@@ -524,8 +449,8 @@
       {
          "id": "cr_006",
          "name": "EFC 27",
-         "description": "EFC 27 频道，奥斯曼·登贝莱曾效力过的俱乐部。",
-         "event_type": "sport",
+         "description": "EFC 27 频道，奥斯曼·登贝莱的前俱乐部",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -547,12 +472,12 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "金球奖得主重返老东家！",
+               "title": "金球奖得主重返前俱乐部！",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "舞台机位",
+               "description": "现场摄像机",
                "streams": [
                   {
                      "id": "stream_01",
@@ -569,8 +494,8 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "Servette FC 频道为您提供现场比赛、传奇回放以及独家内容，讲述这家标志性日内瓦俱乐部的丰富历史和激动人心的最新动态。",
-         "event_type": "sport",
+         "description": "塞尔维特足球俱乐部频道为您提供现场直播、传奇回放以及记录这家标志性日内瓦俱乐部丰富历史和激动人心现状的独家内容。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -592,12 +517,12 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "俱乐部 135 周年训练与游戏表演！",
+               "title": "俱乐部成立135周年训练与表演赛！",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "stereo": true,
-               "description": "训练与游戏表演",
+               "description": "训练与表演赛",
                "streams": [
                   {
                      "id": "stream_01",
@@ -612,8 +537,8 @@
             {
                "id": "evt_007_1",
                "classement": 3,
-               "title": "Servette FC：体育场现场直播",
-               "description": "观看现场直播比赛！",
+               "title": "塞尔维特足球俱乐部：体育场现场直播",
+               "description": "观看比赛现场直播！",
                "location": "日内瓦",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
@@ -623,8 +548,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "直播流",
-                     "description": "球场机位",
+                     "title": "现场直播",
+                     "description": "球场摄像机",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
                ]
@@ -635,8 +560,8 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "通过 Orléans Loiret Basket 频道深入球场中心。以沉浸式画质观看现场比赛，重温最佳回放，并获取您最喜爱球队的独家精彩瞬间。",
-         "event_type": "sport",
+         "description": "通过奥尔良卢瓦雷篮球频道沉浸式体验球场魅力。以身临位于境的画质观看现场直播，重温精彩回放，并获取您最喜爱球队的独家亮点。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -658,30 +583,30 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "奥尔良对阵拉罗谢尔比赛第一节。",
+               "title": "奥尔良对阵拉罗谢尔比赛的第一节。",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "球场侧边机位",
+               "description": "场边摄像机",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/60fps/playlist_5k.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
                   }
                ]
             },
             {
                "id": "rep_008_2",
                "classement": 21,
-               "title": "奥尔良对阵拉罗谢尔比赛第一节。",
+               "title": "奥尔良对阵拉罗谢尔比赛的第一节。",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "篮板后方机位",
+               "description": "篮板后摄像机",
                "streams": [
                   {
                      "id": "stream_01",
@@ -695,9 +620,9 @@
          "events": [
             {
                "id": "evt_008_1",
-               "classement": 1,
-               "title": "奥尔良 vs 拉罗谢尔",
-               "description": "比赛现场直播，篮板后方机位。",
+               "classement": 6,
+               "title": "Orléans vs La Rochelle",
+               "description": "比赛现场直播，篮板后摄像机。",
                "location": "奥尔良",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
@@ -707,8 +632,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "奥尔良 vs 拉罗谢尔",
-                     "description": "篮板后方机位",
+                     "title": "Orléans vs La Rochelle",
+                     "description": "篮板后摄像机",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
                   }
                ]
@@ -720,7 +645,7 @@
          "id": "cr_009",
          "name": "Jeudi Electro",
          "description": "Jeudi Electro 音乐节频道",
-         "event_type": "musique",
+         "event_type": "音乐",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -742,12 +667,12 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "2025年托农莱班音乐节片段",
+               "title": "托农莱班 2025 届活动集锦",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "DJ 机位",
+               "description": "DJ摄像机",
                "streams": [
                   {
                      "id": "stream_01",
@@ -764,8 +689,8 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "法国羽毛球联合会官方频道。关注本赛季最盛大的比赛，为您的俱乐部球队加油助威，并随着法国国际羽毛球精英的扣杀节奏一起脉动。",
-         "event_type": "sport",
+         "description": "法国羽毛球联合会官方频道。关注本赛季最重大的比赛，为您的俱乐部球队加油，并在法国感受国际羽毛球精英扣杀的震撼。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -788,8 +713,8 @@
             {
                "id": "pln_103",
                "classement": 2,
-               "title": "法国羽毛球 Top 12 决赛",
-               "description": "见证四大顶尖羽毛球俱乐部球队的对决。",
+               "title": "法国羽毛球十二强决赛",
+               "description": "观看排名前四的羽毛球俱乐部球队。",
                "location": "法国",
                "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
                "teaser": "",
@@ -800,7 +725,7 @@
                   {
                      "id": "stream_01",
                      "title": "主球场",
-                     "description": "现场直播流",
+                     "description": "现场直播",
                      "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
                   }
                ]
@@ -808,8 +733,8 @@
             {
                "id": "pln_106",
                "classement": 10,
-               "title": "Yonex 法国羽毛球公开赛",
-               "description": "世界顶尖选手将齐聚一堂，参加新一届的 Yonex 法国羽毛球公开赛。",
+               "title": "尤尼克斯法国羽毛球公开赛",
+               "description": "世界顶级选手将齐聚一堂，参加新一届尤尼克斯法国羽毛球公开赛。",
                "location": "法国",
                "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
                "teaser": "",
@@ -819,8 +744,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "1 号球场",
-                     "description": "主机位",
+                     "title": "1号球场",
+                     "description": "主摄像机",
                      "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
                   }
                ]
@@ -831,8 +756,8 @@
       {
          "id": "cr_011",
          "name": "Ligue Nationale de Handball",
-         "description": "随着 LNH 的节奏一起脉动！寻找 Liqui Moly StarLigue 的巅峰对决，并在最大俱乐部之间的决定性比赛中，潜入法国手球锦标赛的激烈氛围。",
-         "event_type": "sport",
+         "description": "感受LNH的节奏！观看Liqui Moly StarLigue的巅峰对决，深入体验法国手球锦标赛的激烈氛围，观看顶级俱乐部之间的决定性比赛。",
+         "event_type": "体育",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
@@ -855,9 +780,9 @@
             {
                "id": "pln_105",
                "classement": 15,
-               "title": "Ligue Nationale de Handball：巴黎圣日耳曼 vs HBC 南特",
-               "description": "2026 年 5 月 27 日星期三，巴黎圣日耳曼手球俱乐部与 HBC 南特俱乐部将在巴黎雅高竞技场 (Accor Arena) 展开 Liqui Moly StarLigue 第 28 轮的较量。这是一场可能决定冠军归属的巅峰对决。",
-               "location": "法国雅高竞技场 (ACCOR ARENA)",
+               "title": "国家手球联赛：PSG HAND vs HBC NANTES",
+               "description": "2026年5月27日星期三，巴黎圣日耳曼手球队和南特HBC将在巴黎雅高竞技场交锋，这是Liqui Moly StarLigue第28轮比赛的一部分。这场巅峰对决可能会成为争夺冠军的决定性比赛。",
+               "location": "雅高竞技场，法国",
                "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
                "teaser": "",
                "onLive": false,
@@ -866,8 +791,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "雅高竞技场现场直播",
-                     "description": "比赛直播流",
+                     "title": "雅高竞技场直播",
+                     "description": "比赛流",
                      "url": "https://cdn.jumpr.fr/sample_handball.mp4"
                   }
                ]
