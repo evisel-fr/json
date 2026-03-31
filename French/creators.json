@@ -135,14 +135,14 @@
          "events": [
             {
                "id": "evt_live_ksw",
-               "classement": 6,
+               "classement": 1,
                "title": "KSW 117 bientôt disponible",
                "description": "Le Main Event approche. Préparez-vous à entrer dans la cage !",
                "location": "Pologne",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
+               "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
@@ -600,14 +600,14 @@
          "events": [
             {
                "id": "evt_008_1",
-               "classement": 1,
+               "classement": 6,
                "title": "Orléans vs La Rochelle",
                "description": "Le match en direct, caméra derrière le panier.",
                "location": "Orléans",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "onLive": true,
-               "start_time": "2026-04-18T20:00:00+02:00",
+               "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "streams": [
                   {
