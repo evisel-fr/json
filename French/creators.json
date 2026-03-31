@@ -141,7 +141,7 @@
                "location": "Pologne",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
                "streams": [
@@ -522,7 +522,7 @@
                "location": "Genève",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "streams": [
@@ -606,7 +606,7 @@
                "location": "Orléans",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-03-17T13:00:00+01:00",
                "stereo": true,
                "streams": [
