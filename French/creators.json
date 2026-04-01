@@ -210,7 +210,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 10,
+               "classement": 2,
                "title": "Legacy Fight Night",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
@@ -558,7 +558,7 @@
          "replays": [
             {
                "id": "rep_008_1",
-               "classement": 2,
+               "classement": 10,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
