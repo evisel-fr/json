@@ -225,30 +225,6 @@
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
                ]  
-            },
-            {
-               "id": "rep_002_2",
-               "classement": 7,
-               "title": "Royal Fight",
-               "description": "Gala excerpt",
-               "date": "2025-11-11T21:00:00+02:00",
-               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
-               "teaser": "",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "View 1",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "View 2",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
-                  }
-               ]
             }
          ],
          "events": [],
