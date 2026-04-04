@@ -87,7 +87,7 @@
                "title": "Grand Prix de Miami 2026 - Live VR",
                "description": "Vivez le Grand Prix de Miami en immersion totale depuis le paddock et les tribunes.",
                "location": "Miami International Autodrome",
-               "thumbnail_16_9": "https://www.autohebdo.fr/app/uploads/2024/11/DPPI_00124009_1977.jpg",
+               "thumbnail_16_9": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245019/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Miami.jpg",
                "teaser": "",
                "onLive": false,
                "start_time": "2026-05-03T21:30:00+02:00",
@@ -107,7 +107,7 @@
                "title": "Grand Prix de Monaco 2026 - Paddock Live",
                "description": "Le Grand Prix le plus glamour de l'année. Alternez entre les caméras des stands et une vue imprenable depuis la Rascasse.",
                "location": "Monaco",
-               "thumbnail_16_9": "https://www.monacograndprixticket.com/images/monaco-grandprix.webp",
+               "thumbnail_16_9": "https://www.autohebdo.fr/app/uploads/2024/11/DPPI_00124009_1977.jpg",
                "teaser": "",
                "onLive": false,
                "start_time": "2026-05-24T15:00:00+02:00",
@@ -129,7 +129,7 @@
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://leparisien.fr/resizer/VZTc4SkrV9_CnLuyOuxaf0xtWcs=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/IQFQ775EK5B4DGMWHO32QWZTSA.jpg"
+               "thumbnail_16_9": "https://www.leparisien.fr/resizer/5D4xC-V5bpP8m6bGKJK1kxzYlhU=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/G5QQLW6U2BG2PEC4CO2FDSJXGI.jpg"
             }
          ]
       },
