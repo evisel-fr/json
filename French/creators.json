@@ -1,6 +1,130 @@
 {
    "creators": [
       {
+         "id": "cr_012",
+         "name": "CANAL+",
+         "description": "Vivez l'expérience CANAL+ en réalité virtuelle. Plongez au cœur de l'action : ressentez la vitesse de la Formule 1 depuis le cockpit, vivez les plus grandes affiches de la Ligue des Champions depuis les tribunes VIP, et soyez au bord de la pelouse pour les chocs du Top 14. Le meilleur du sport en immersion totale.",
+         "event_type": "sport",
+         "teaserVideo": "https://cdn.jumpr.fr/CanalPlus/teaser/playlist.m3u8",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal%2B.svg",
+            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal%2B.svg",
+            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal%2B.svg",
+            "couverture": "https://media.gettyimages.com/id/2253147687/photo/drone-show-during-the-top-14-match-between-toulouse-and-la-rochelle-on-december-28-2025-at.jpg?s=612x612&w=0&k=20&c=mxdxkwc-iDIannxRa-wW4Lg81EmawDh79crutrN0KNs=",
+            "teaser_16_9": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal%2B.svg"
+         },
+         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_CANAL__0404095002_texture.glb",
+         "classement": 1,
+         "colorHexa": "#000000",
+         "verified": true,
+         "metrics": {
+            "followers": 1500000,
+            "subscribers": 450000
+         },
+         "replays": [
+            {
+               "id": "rep_012_2",
+               "classement": 1,
+               "title": "Ligue des Champions : PSG vs Bayern - Inside Parc des Princes",
+               "date": "2026-03-10T21:00:00+01:00",
+               "thumbnail_16_9": "https://assets.goal.com/images/v3/getty-2263560714/GettyImages-2263560714.jpg?auto=webp&format=jpg&quality=80",
+               "teaser": "",
+               "stereo": true,
+               "description": "Le choc des huitièmes de finale retour. Plongez dans l'ambiance électrique des virages et du bord terrain.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Bord Terrain",
+                     "description": "Au plus près de l'action",
+                     "url": "https://cdn.jumpr.fr/CanalPlus/PSG_BAYERN/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_012_3",
+               "classement": 2,
+               "title": "Top 14 : Stade Toulousain vs Stade Rochelais - Au bord de la mêlée",
+               "date": "2025-12-28T21:05:00+01:00",
+               "thumbnail_16_9": "https://media.gettyimages.com/id/2253147690/photo/antoine-dupont-and-anthony-jelonch-of-toulouse-during-the-top-14-match-between-toulouse-and.jpg?s=612x612&w=0&k=20&c=ELiIM9i4b5y0_nMHDlOZaV_Ody_kW32IfbiKF1mivKw=",
+               "teaser": "",
+               "stereo": true,
+               "description": "Le classique du Top 14 en exclusivité VR. Suivez l'impact des plaquages et les percées depuis une caméra installée à 2 mètres de la ligne de touche.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Ligne de Touche",
+                     "description": "Immersion terrain",
+                     "url": "https://cdn.jumpr.fr/CanalPlus/TOP14/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_cplus_02",
+               "classement": 1,
+               "title": "Ligue des Champions : 1/2 de finale (Aller)",
+               "description": "Vivez la demi-finale aller de la Ligue des Champions en direct et en VR depuis les meilleures places du stade.",
+               "location": "Europe",
+               "thumbnail_16_9": "https://assets.goal.com/images/v3/getty-2263560714/GettyImages-2263560714.jpg?auto=webp&format=jpg&quality=80",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-28T21:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Tribunes VIP",
+                     "description": "Ambiance Stade",
+                     "url": "https://cdn.jumpr.fr/CanalPlus/LDC_Live/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_cplus_03",
+               "classement": 2,
+               "title": "Grand Prix de Miami 2026 - Live VR",
+               "description": "Vivez le Grand Prix de Miami en immersion totale depuis le paddock et les tribunes.",
+               "location": "Miami International Autodrome",
+               "thumbnail_16_9": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/content/dam/fom-website/sutton/2019/AbuDhabi/Sunday/CM1_4369_2019120131634705.webp",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-03T21:30:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue Paddock",
+                     "description": "Caméra Paddock",
+                     "url": "https://cdn.jumpr.fr/CanalPlus/F1_Miami/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_cplus_04",
+               "classement": 3,
+               "title": "Grand Prix de Monaco 2026 - Paddock Live",
+               "description": "Le Grand Prix le plus glamour de l'année. Alternez entre les caméras des stands et une vue imprenable depuis la Rascasse.",
+               "location": "Monaco",
+               "thumbnail_16_9": "https://media.formula1.com/image/upload/c_fill,w_128,h_128/q_auto/v1740000001/content/dam/fom-website/sutton/2019/AbuDhabi/Saturday/MT013171_2019113022100392.webp",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-24T15:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "La Rascasse",
+                     "description": "Vue Virage",
+                     "url": "https://cdn.jumpr.fr/CanalPlus/F1_Monaco/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": []
+      },
+      {
          "id": "cr_001",
          "name": "KSW",
          "description": "KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une ambiance électrique, rythmée par des productions scéniques spectaculaires et des combats inoubliables.",
@@ -15,7 +139,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
-         "classement": 0,
+         "classement": 2,
          "colorHexa": "#FFCD00",
          "verified": true,
          "metrics": {
@@ -60,6 +184,24 @@
                ]
             },
             {
+               "id": "rep_001_2",
+               "classement": 11,
+               "title": "ZALEWSKI VS DEBIENNE",
+               "date": "2025-12-20T20:30:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172800.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Wiktor Zalewski vainqueur par TKO (coups), à 4 min 06 s du 3ᵉ round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Test_180/playlist.m3u8"
+                  }
+               ]
+            },
+            {
                "id": "rep_001_7",
                "classement": 15,
                "title": "ROZALSKI VS BEKAVAC",
@@ -91,7 +233,25 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Kaouchen_vs_Geburek/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_4",
+               "classement": 18,
+               "title": "WLODARCZYK VS KRAWCZYK",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172730.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Igor Włodarczyk vainqueur par soumission (étranglement arrière), à 1 min 51 s du 1er round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -109,7 +269,61 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Sakai_vs_Wojcik/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_8",
+               "classement": 14,
+               "title": "MICHALSKI VS JANIKOWSKI",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172838.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Michał Michalski vainqueur par TKO (coups), à 4 min 19 s du 1er round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_9",
+               "classement": 13,
+               "title": "MARTINEK VS SZPILKA",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172902.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Artur Szpilka vainqueur par TKO (coups), à 2 min 07 s du 2ᵉ round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_10",
+               "classement": 12,
+               "title": "PAWLAK VS ZERHOUNI",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172932.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Paweł Pawlak vainqueur par soumission (clé de genou), à 3 min 09 s du 5ᵉ round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
@@ -155,10 +369,10 @@
             },
             {
                "id": "pln_102",
-               "classement": 7,
+               "classement": 2,
                "title": "KSW 117",
-               "description": "KSW 117 bientôt disponible",
-               "location": "Poland",
+               "description": "Prochain gala XTB KSW 117",
+               "location": "Pologne",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": false,
@@ -168,7 +382,7 @@
                   {
                      "id": "stream_01",
                      "title": "KSW 117",
-                     "description": "Trailer",
+                     "description": "Prochain gala XTB KSW 117",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
@@ -200,7 +414,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0404092830_texture.glb",
-         "classement": 1,
+         "classement": 3,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -210,7 +424,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 2,
+               "classement": 1,
                "title": "Legacy Fight Night",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
@@ -225,9 +439,54 @@
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
                ]  
+            },
+            {
+               "id": "rep_002_2",
+               "classement": 2,
+               "title": "Royal Fight",
+               "description": "Extrait du gala",
+               "date": "2025-11-11T21:00:00+02:00",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTFiNDRiYjVjMDJlZmNjOWRkOTY2ODNfeHlialF5MGNteFR3SzMuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue 1",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Vue 2",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
+                  }
+               ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "pln_101",
+               "classement": 1,
+               "title": "Fight Nation : Gala Fraternité Police & Forces de l'Ordre",
+               "description": "Le 29 mars, le MMA s'engage ! Fight Nation et la Fraternité Police s'unissent pour une soirée de combats intenses sous le parrainage du champion Jimmy Vienot. Vivez un événement unique où l'élite des forces de l'ordre monte dans la cage pour la bonne cause.",
+               "location": "Paris",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTgxZjRlMTBmNjAyNTUxNDgyMzBhMGZfallUck9rQzB3OFZocFYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-03-29T21:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Main Event",
+                     "description": "Gala Fraternité Live",
+                     "url": "https://cdn.jumpr.fr/sample3.mp4"
+                  }
+               ]
+            }
+         ],
          "pubs": []
       },
       {
@@ -245,7 +504,7 @@
             "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 4,
          "colorHexa": "#00AEEF",
          "verified": true,
          "metrics": {
@@ -255,7 +514,7 @@
          "replays": [
             {
                "id": "rep_003_1",
-               "classement": 9,
+               "classement": 1,
                "title": "Muay Thaï 1",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -273,7 +532,7 @@
             },
             {
                "id": "rep_003_2",
-               "classement": 11,
+               "classement": 2,
                "title": "Muay Thaï 2",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -291,7 +550,7 @@
             },
             {
                "id": "rep_003_3",
-               "classement": 12,
+               "classement": 3,
                "title": "Muay Thaï 3",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -347,7 +606,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
-         "classement": 1,
+         "classement": 5,
          "colorHexa": "#E63946",
          "verified": true,
          "metrics": {
@@ -357,7 +616,7 @@
          "replays": [
             {
                "id": "rep_004_1",
-               "classement": 8,
+               "classement": 1,
                "title": "100% Fight 62",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
@@ -392,7 +651,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 6,
          "colorHexa": "#7209B7",
          "verified": true,
          "metrics": {
@@ -401,8 +660,8 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
-               "classement": 5,
+               "id": "rep_005_1",
+               "classement": 1,
                "title": "Sparing Bakary Samake",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
@@ -437,7 +696,7 @@
             "teaser_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 7,
          "colorHexa": "#00BBF9",
          "verified": true,
          "metrics": {
@@ -446,8 +705,8 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
-               "classement": 6,
+               "id": "rep_006_1",
+               "classement": 1,
                "title": "Retour du ballon d'or dans son ancien club !",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
@@ -482,7 +741,7 @@
             "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 8,
          "colorHexa": "#E63946",
          "verified": true,
          "metrics": {
@@ -491,8 +750,8 @@
          },
          "replays": [
             {
-               "id": "rep_005_1",
-               "classement": 3,
+               "id": "rep_007_1",
+               "classement": 1,
                "title": "Entrainement et Game Show pour les 135 ans du club !",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
@@ -512,7 +771,7 @@
          "events": [
             {
                "id": "evt_007_1",
-               "classement": 3,
+               "classement": 1,
                "title": "Servette FC : En direct du stade",
                "description": "Suivez le match en direct !",
                "location": "Genève",
@@ -548,7 +807,7 @@
             "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
-         "classement": 2,
+         "classement": 9,
          "colorHexa": "#00BBF9",
          "verified": true,
          "metrics": {
@@ -558,7 +817,7 @@
          "replays": [
             {
                "id": "rep_008_1",
-               "classement": 10,
+               "classement": 1,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
@@ -570,13 +829,13 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/60fps/playlist_5k.m3u8"
                   }
                ]
             },
             {
                "id": "rep_008_2",
-               "classement": 21,
+               "classement": 2,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
@@ -596,7 +855,7 @@
          "events": [
             {
                "id": "evt_008_1",
-               "classement": 6,
+               "classement": 1,
                "title": "Orléans vs La Rochelle",
                "description": "Le match en direct, caméra derrière le panier.",
                "location": "Orléans",
@@ -632,7 +891,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 10,
          "colorHexa": "#00BBF9",
          "verified": true,
          "metrics": {
@@ -641,8 +900,8 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
-               "classement": 4,
+               "id": "rep_009_1",
+               "classement": 1,
                "title": "Extrait de l'édition de Thonon les bains 2025",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
@@ -677,7 +936,7 @@
             "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 11,
          "colorHexa": "#183262",
          "verified": true,
          "metrics": {
@@ -688,7 +947,7 @@
          "events": [
             {
                "id": "pln_103",
-               "classement": 2,
+               "classement": 1,
                "title": "Finales du Top 12 Badminton Français",
                "description": "Retrouvez les 4 meilleures équipes d'interclubs de badminton.",
                "location": "France",
@@ -708,7 +967,7 @@
             },
             {
                "id": "pln_106",
-               "classement": 10,
+               "classement": 2,
                "title": "Yonex Internationaux France Badminton",
                "description": "Les meilleurs joueurs du monde se retrouveront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
                "location": "France",
@@ -744,7 +1003,7 @@
             "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
          },
          "model3D": "",
-         "classement": 1,
+         "classement": 12,
          "colorHexa": "#03224C",
          "verified": true,
          "metrics": {
@@ -755,7 +1014,7 @@
          "events": [
             {
                "id": "pln_105",
-               "classement": 15,
+               "classement": 1,
                "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
                "description": "Mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s’affronteront à l’Accor Arena à Paris dans le cadre de la 28ème journée de Liqui Moly StarLigue. Un match au sommet, qui pourrait être décisif dans la course au titre.",
                "location": "ACCOR ARENA, France",
