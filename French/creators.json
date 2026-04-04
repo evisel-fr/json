@@ -87,7 +87,7 @@
                "title": "Grand Prix de Miami 2026 - Live VR",
                "description": "Vivez le Grand Prix de Miami en immersion totale depuis le paddock et les tribunes.",
                "location": "Miami International Autodrome",
-               "thumbnail_16_9": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245019/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Miami.jpg",
+               "thumbnail_16_9": "https://www.autohebdo.fr/app/uploads/2024/11/DPPI_00124009_1977.jpg",
                "teaser": "",
                "onLive": false,
                "start_time": "2026-05-03T21:30:00+02:00",
@@ -122,7 +122,16 @@
                ]
             }
          ],
-         "pubs": []
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://media.ouest-france.fr/v1/pictures/MjAyNTA0MzFkNWQ5MjNlM2I5ZDUwMGZlMGU2Y2I4NTI3NjM2NWM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=01d09ccec52ac4536a1fc03b3a7d049d4f4b78952e92015ec63be8037dae26ed"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://leparisien.fr/resizer/VZTc4SkrV9_CnLuyOuxaf0xtWcs=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/IQFQ775EK5B4DGMWHO32QWZTSA.jpg"
+            }
+         ]
       },
       {
          "id": "cr_001",
