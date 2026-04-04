@@ -24,24 +24,6 @@
          },
          "replays": [
             {
-               "id": "rep_012_2",
-               "classement": 2,
-               "title": "Ligue des Champions : PSG vs Bayern - Inside Parc des Princes",
-               "date": "2026-03-10T21:00:00+01:00",
-               "thumbnail_16_9": "https://assets.goal.com/images/v3/getty-2263560714/GettyImages-2263560714.jpg?auto=webp&format=jpg&quality=80",
-               "teaser": "",
-               "stereo": true,
-               "description": "Le choc des huitièmes de finale retour. Plongez dans l'ambiance électrique des virages et du bord terrain.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Bord Terrain",
-                     "description": "Au plus près de l'action",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
-                  }
-               ]
-            },
-            {
                "id": "rep_002_1",
                "classement": 1,
                "title": "YOKA vs MERHY",
@@ -58,6 +40,24 @@
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
                ]  
+            },
+            {
+               "id": "rep_012_2",
+               "classement": 2,
+               "title": "Ligue des Champions : PSG vs Bayern - Inside Parc des Princes",
+               "date": "2026-03-10T21:00:00+01:00",
+               "thumbnail_16_9": "https://assets.goal.com/images/v3/getty-2263560714/GettyImages-2263560714.jpg?auto=webp&format=jpg&quality=80",
+               "teaser": "",
+               "stereo": true,
+               "description": "Le choc des huitièmes de finale retour. Plongez dans l'ambiance électrique des virages et du bord terrain.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Bord Terrain",
+                     "description": "Au plus près de l'action",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
             },
             {
                "id": "rep_012_3",
