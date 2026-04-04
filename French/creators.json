@@ -24,7 +24,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_012_2",
                "classement": 1,
                "title": "YOKA vs MERHY",
                "description": "Extrait du gala",
@@ -42,8 +42,8 @@
                ]  
             },
             {
-               "id": "rep_012_2",
-               "classement": 2,
+               "id": "rep_002_1",
+               "classement": 3,
                "title": "Ligue des Champions : PSG vs Bayern - Inside Parc des Princes",
                "date": "2026-03-10T21:00:00+01:00",
                "thumbnail_16_9": "https://assets.goal.com/images/v3/getty-2263560714/GettyImages-2263560714.jpg?auto=webp&format=jpg&quality=80",
