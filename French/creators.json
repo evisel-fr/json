@@ -8,10 +8,10 @@
          "teaserVideo": "https://cdn.jumpr.fr/CanalPlus/teaser/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://www.leparisien.fr/resizer/5ghx0SEPRtKtyPmmG0plPv7krig=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/JIWZTTBCOML7G5QEPZDU2LY3W4.jpg",
-            "logo_16_9": "https://www.leparisien.fr/resizer/5ghx0SEPRtKtyPmmG0plPv7krig=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/JIWZTTBCOML7G5QEPZDU2LY3W4.jpg",
-            "logo_2_1": "https://www.leparisien.fr/resizer/5ghx0SEPRtKtyPmmG0plPv7krig=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/JIWZTTBCOML7G5QEPZDU2LY3W4.jpg",
-            "couverture": "https://www.leparisien.fr/resizer/5ghx0SEPRtKtyPmmG0plPv7krig=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/JIWZTTBCOML7G5QEPZDU2LY3W4.jpg",
+            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1280px-Logo_Canal%2B_1995.svg.png",
+            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1280px-Logo_Canal%2B_1995.svg.png",
+            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1280px-Logo_Canal%2B_1995.svg.png",
+            "couverture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1280px-Logo_Canal%2B_1995.svg.png",
             "teaser_16_9": "https://media.ouest-france.fr/v1/pictures/MjAyMjA5N2U4MWUwZGZiNGRmN2Q1ZmM5OGFjNmU2MzFjNzkwYzk?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=f4fe18e4f2e349c42c30d83b39dc7bf20719ecc1efca8436f8ba5c49340a8b3b"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_CANAL__0404095002_texture.glb",
