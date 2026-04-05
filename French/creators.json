@@ -42,45 +42,9 @@
                ]
             },
             {
-               "id": "rep_001_101",
-               "classement": 20,
-               "title": "AJ VS LISEK (AJ_vs_Liseck_60fps)",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Adam Modzelewski gagne par KO (coups de poing) à 1 min 18 s du 1er round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Combat",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Liseck_60fps/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_102",
-               "classement": 20,
-               "title": "AJ VS LISEK (AJvsLisek)",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Adam Modzelewski gagne par KO (coups de poing) à 1 min 18 s du 1er round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Combat",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJvsLisek/playlist.m3u8"
-                  }
-               ]
-            },
-            {
                "id": "rep_001_104",
                "classement": 20,
-               "title": "AJ VS LISEK (test1)",
+               "title": "AJ VS LISEK (test2)",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser": "",
@@ -91,7 +55,7 @@
                      "id": "stream_01",
                      "title": "Combat",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/test2/playlist.m3u8"
                   }
                ]
             },
