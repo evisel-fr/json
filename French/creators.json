@@ -62,7 +62,7 @@
             {
                "id": "rep_001_106",
                "classement": 20,
-               "title": "AJ VS LISEK (test14)",
+               "title": "AJ VS LISEK (AJ_vs_Lisek_fini)",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser": "",
@@ -73,7 +73,7 @@
                      "id": "stream_01",
                      "title": "Combat",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/test14/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
                   }
                ]
             },
