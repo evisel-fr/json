@@ -78,42 +78,6 @@
                ]
             },
             {
-               "id": "rep_001_1",
-               "classement": 19,
-               "title": "KAOUCHEN VS GEBUREK",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172714.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Souheil Kaouchen gagne par TKO (coups de poing) à 2 min 53 s du 1er round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Kaouchen_vs_Geburek/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_6",
-               "classement": 16,
-               "title": "SAKAI VS WOJCIK",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172810.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Marcin Wójcik gagne par décision unanime (3 × 30–27).",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Sakai_vs_Wojcik/playlist.m3u8"
-                  }
-               ]
-            },
-            {
                "id": "rep_001_11",
                "classement": 1,
                "title": "BARTTOSINSKI VS TULSHAEV",
