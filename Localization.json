@@ -50,7 +50,8 @@
     "ConnexionDone": "Connexion done",
     "Leave" : "Leave",
     "Relaunch" : "Restart",
-    "QuestionRelaunch" : "Relaunch the video or return to menu ?"
+    "QuestionRelaunch" : "Relaunch the video or return to menu ?",
+    "UnFavorite": "Unfavorite"
   },
   "French": {
     "Home": "Accueil",
@@ -103,7 +104,8 @@
     "ConnexionDone": "Connexion réussie",
     "Leave" : "Quitter",
     "Relaunch" : "Relancer",
-    "QuestionRelaunch" : "Relancer la vidéo ou revenir au menu ?"
+    "QuestionRelaunch" : "Relancer la vidéo ou revenir au menu ?",
+    "UnFavorite": "Retirer"
   },
   "Chinese": {
     "Home": "主页",
@@ -156,7 +158,8 @@
     "ConnexionDone": "连接成功",
     "Leave" : "离开",
     "Relaunch" : "重新启动",
-    "QuestionRelaunch" : "重新启动视频还是返回菜单？"
+    "QuestionRelaunch" : "重新启动视频还是返回菜单？",
+    "UnFavorite": "取消收藏"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -209,6 +212,7 @@
     "ConnexionDone": "Połączenie zakończone",
     "Leave" : "Opuść",
     "Relaunch" : "Uruchom ponownie",
-    "QuestionRelaunch" : "Uruchomić ponownie wideo czy wrócić do menu?"
+    "QuestionRelaunch" : "Uruchomić ponownie wideo czy wrócić do menu?",
+    "UnFavorite": "Usuń z ulubionych"
   }
 }
