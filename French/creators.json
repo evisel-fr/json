@@ -176,10 +176,10 @@
          "replays": [
             {
                "id": "rep_008_2",
-               "classement": 21,
+               "classement": 6,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
                "description": "Caméra derrière le panier",
@@ -422,7 +422,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 6,
+               "classement": 21,
                "title": "Retour du vainqueur du Ballon d'Or dans son ancien club !",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
@@ -466,6 +466,26 @@
          },
          "replays": [],
          "events": [
+            {
+               "id": "pln_103",
+               "classement": 2,
+               "title": "Finales du Top 12 de Badminton Français",
+               "description": "Regardez les 4 meilleures équipes interclubs de badminton.",
+               "location": "France",
+               "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-08T19:30:00+02:00",
+               "stereo": false,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Court principal",
+                     "description": "Diffusion en direct",
+                     "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
+                  }
+               ]
+            },
             {
                "id": "pln_106",
                "classement": 10,
@@ -512,7 +532,28 @@
             "subscribers": 22100
          },
          "replays": [],
-         "events": [],
+         "events": [
+            {
+               "id": "pln_105",
+               "classement": 15,
+               "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
+               "description": "Le mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s'affronteront à l'Accor Arena de Paris dans le cadre de la 28ème journée de la Liqui Moly StarLigue. Un choc au sommet qui pourrait être décisif dans la course au titre.",
+               "location": "ACCOR ARENA, France",
+               "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-27T19:30:00+02:00",
+               "stereo": false,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "En direct de l'ACCOR ARENA",
+                     "description": "Diffusion du match",
+                     "url": "https://cdn.jumpr.fr/sample_handball.mp4"
+                  }
+               ]
+            }
+         ],
          "pubs": []
       }
    ]
