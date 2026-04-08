@@ -467,26 +467,6 @@
          "replays": [],
          "events": [
             {
-               "id": "pln_103",
-               "classement": 2,
-               "title": "Finales du Top 12 de Badminton Français",
-               "description": "Regardez les 4 meilleures équipes interclubs de badminton.",
-               "location": "France",
-               "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-08T19:30:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Court principal",
-                     "description": "Diffusion en direct",
-                     "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
-                  }
-               ]
-            },
-            {
                "id": "pln_106",
                "classement": 10,
                "title": "Yonex Internationaux de France de Badminton",
@@ -532,28 +512,7 @@
             "subscribers": 22100
          },
          "replays": [],
-         "events": [
-            {
-               "id": "pln_105",
-               "classement": 15,
-               "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
-               "description": "Le mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s'affronteront à l'Accor Arena de Paris dans le cadre de la 28ème journée de la Liqui Moly StarLigue. Un choc au sommet qui pourrait être décisif dans la course au titre.",
-               "location": "ACCOR ARENA, France",
-               "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-27T19:30:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "En direct de l'ACCOR ARENA",
-                     "description": "Diffusion du match",
-                     "url": "https://cdn.jumpr.fr/sample_handball.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       }
    ]
