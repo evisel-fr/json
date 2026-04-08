@@ -51,7 +51,9 @@
     "Leave" : "Leave",
     "Relaunch" : "Restart",
     "QuestionRelaunch" : "Relaunch the video or return to menu ?",
-    "UnFavorite": "Unfavorite"
+    "UnFavorite": "Unfavorite",
+    "NoUserConnected": "Connect to your headset account (PICO / META) to access the content.",
+    "FirstMessage": "Welcome to JUMPR VR, the virtual reality streaming platform! \n\nDiscover a unique immersive experience with a variety of live and on-demand content. Explore our video catalog, follow your favorite creators, and dive into a world of virtual entertainment. Connect now to experience the future of virtual reality streaming!"
   },
   "French": {
     "Home": "Accueil",
@@ -105,7 +107,9 @@
     "Leave" : "Quitter",
     "Relaunch" : "Relancer",
     "QuestionRelaunch" : "Relancer la vidéo ou revenir au menu ?",
-    "UnFavorite": "Retirer"
+    "UnFavorite": "Retirer",
+    "NoUserConnected": "Connectez-vous à votre compte casque (PICO / META) pour accéder au contenu.",
+    "FirstMessage": "Bienvenue sur JUMPR VR, la plateforme de streaming en réalité virtuelle !\n\nDécouvrez une expérience immersive unique avec une variété de contenus en direct et à la demande. Explorez notre catalogue de vidéos, suivez vos créateurs préférés et plongez dans un monde de divertissement virtuel. Connectez-vous dès maintenant pour vivre l'avenir du streaming en réalité virtuelle !"  
   },
   "Chinese": {
     "Home": "主页",
@@ -159,7 +163,9 @@
     "Leave" : "离开",
     "Relaunch" : "重新启动",
     "QuestionRelaunch" : "重新启动视频还是返回菜单？",
-    "UnFavorite": "取消收藏"
+    "UnFavorite": "取消收藏",
+    "NoUserConnected": "连接到您的头戴设备账户（PICO / META）以访问内容。",
+    "FirstMessage": "欢迎来到JUMPR VR，虚拟现实流媒体平台！\n\n通过各种直播和点播内容，体验独特的沉浸式体验。探索我们的视频目录，关注您喜欢的创作者，并沉浸在虚拟娱乐的世界中。立即连接，体验虚拟现实流媒体的未来！"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -213,6 +219,8 @@
     "Leave" : "Opuść",
     "Relaunch" : "Uruchom ponownie",
     "QuestionRelaunch" : "Uruchomić ponownie wideo czy wrócić do menu?",
-    "UnFavorite": "Usuń z ulubionych"
+    "UnFavorite": "Usuń z ulubionych",
+    "NoUserConnected": "Połącz się ze swoim kontem na hełmie (PICO / META), aby uzyskać dostęp do treści.",
+    "FirstMessage": "Witamy w JUMPR VR, platformie streamingowej wirtualnej rzeczywistości! \n\nOdkryj unikalne, immersyjne doświadczenie z różnorodnymi treściami na żywo i na żądanie. Przeglądaj nasz katalog wideo, śledź swoich ulubionych twórców i zanurz się w świecie wirtualnej rozrywki. Połącz się teraz, aby doświadczyć przyszłości streamingu wirtualnej rzeczywistości!"  
   }
 }
