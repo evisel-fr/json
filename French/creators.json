@@ -105,6 +105,30 @@
                      "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
                   }
                ]
+            },
+            {
+               "id": "rep_003_4",
+               "classement": 1,
+               "title": "Muay Thaï test",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "Caméra test",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [
