@@ -15,14 +15,33 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 4,
+         "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 33400,
             "subscribers": 15600
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "rep_002_1_dup",
+               "classement": 1,
+               "title": "Legacy Fight Night",
+               "description": "Extrait du gala",
+               "date": "2025-11-10T21:00:00+02:00",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue 1",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+                  }
+               ]  
+            }
+         ],
          "events": [
             {
                "id": "evt_live_fight_nation",
@@ -62,7 +81,7 @@
             "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
-         "classement": 5,
+         "classement": 2,
          "colorHexa": "#00AEEF",
          "verified": true,
          "metrics": {
@@ -72,7 +91,7 @@
          "replays": [
             {
                "id": "rep_003_2",
-               "classement": 11,
+               "classement": 2,
                "title": "Muay Thaï 2",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -176,10 +195,10 @@
          "replays": [
             {
                "id": "rep_008_2",
-               "classement": 5,
+               "classement": 3,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://img.centrefrance.com/tPkB_ejgUFM2r39XgvH76CO7P2sMr2MJiVXXG7X0A6E/rs:fit:657:438:1:0/bG9jYWw6Ly8vMDAvMDAvMDcvNTYvNDEvMjAwMDAwNzU2NDE4MA.webp",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
                "description": "Caméra derrière le panier",
@@ -218,51 +237,6 @@
          "pubs": []
       },
       {
-         "id": "cr_007",
-         "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l'actualité vibrante du club emblématique de Genève.",
-         "event_type": "sport",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
-         },
-         "model3D": "",
-         "classement": 1,
-         "colorHexa": "#E63946",
-         "verified": true,
-         "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
-         },
-         "replays": [
-            {
-               "id": "rep_005_1",
-               "classement": 3,
-               "title": "Entraînement et Match d'exhibition pour le 135ème anniversaire du club !",
-               "date": "2025-09-28T16:00:00+02:00",
-               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Entraînement et Match d'exhibition",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
-         "pubs": []
-      },
-      {
          "id": "cr_009",
          "name": "Jeudi Electro",
          "description": "La chaîne du festival Jeudi Electro",
@@ -277,7 +251,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 7,
+         "classement": 5,
          "colorHexa": "#00BBF9",
          "verified": true,
          "metrics": {
@@ -286,7 +260,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_009_1",
                "classement": 4,
                "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
                "date": "2025-12-19T17:00:00+02:00",
@@ -300,6 +274,51 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": []
+      },
+      {
+         "id": "cr_007",
+         "name": "Servette FC",
+         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l'actualité vibrante du club emblématique de Genève.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
+         },
+         "model3D": "",
+         "classement": 4,
+         "colorHexa": "#E63946",
+         "verified": true,
+         "metrics": {
+            "followers": 12800,
+            "subscribers": 5200
+         },
+         "replays": [
+            {
+               "id": "rep_005_1",
+               "classement": 5,
+               "title": "Entraînement et Match d'exhibition pour le 135ème anniversaire du club !",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Entraînement et Match d'exhibition",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
                ]
             }
@@ -367,7 +386,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 7,
          "colorHexa": "#7209B7",
          "verified": true,
          "metrics": {
@@ -377,7 +396,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 6,
+               "classement": 5,
                "title": "Sparring Bakary Samake",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
@@ -422,7 +441,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 21,
+               "classement": 6,
                "title": "Retour du vainqueur du Ballon d'Or dans son ancien club !",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
