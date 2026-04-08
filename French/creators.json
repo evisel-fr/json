@@ -22,26 +22,7 @@
             "followers": 33400,
             "subscribers": 15600
          },
-         "replays": [
-            {
-               "id": "rep_002_1_dup",
-               "classement": 1,
-               "title": "Legacy Fight Night",
-               "description": "Extrait du gala",
-               "date": "2025-11-10T21:00:00+02:00",
-               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
-               "teaser": "",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue 1",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
-                  }
-               ]  
-            }
-         ],
+         "replays": [],
          "events": [
             {
                "id": "evt_live_fight_nation",
@@ -91,7 +72,7 @@
          "replays": [
             {
                "id": "rep_003_2",
-               "classement": 2,
+               "classement": 11,
                "title": "Muay Thaï 2",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -195,7 +176,7 @@
          "replays": [
             {
                "id": "rep_008_2",
-               "classement": 3,
+               "classement": 21,
                "title": "Le premier quart-temps du match Orléans – La Rochelle.",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
@@ -237,51 +218,6 @@
          "pubs": []
       },
       {
-         "id": "cr_009",
-         "name": "Jeudi Electro",
-         "description": "La chaîne du festival Jeudi Electro",
-         "event_type": "music",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
-         },
-         "model3D": "",
-         "classement": 5,
-         "colorHexa": "#00BBF9",
-         "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
-         "replays": [
-            {
-               "id": "rep_009_1",
-               "classement": 4,
-               "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra DJ",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
-         "pubs": []
-      },
-      {
          "id": "cr_007",
          "name": "Servette FC",
          "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l'actualité vibrante du club emblématique de Genève.",
@@ -306,7 +242,7 @@
          "replays": [
             {
                "id": "rep_005_1",
-               "classement": 5,
+               "classement": 3,
                "title": "Entraînement et Match d'exhibition pour le 135ème anniversaire du club !",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
@@ -319,6 +255,51 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": []
+      },
+      {
+         "id": "cr_009",
+         "name": "Jeudi Electro",
+         "description": "La chaîne du festival Jeudi Electro",
+         "event_type": "music",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
+         },
+         "model3D": "",
+         "classement": 5,
+         "colorHexa": "#00BBF9",
+         "verified": true,
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 4,
+               "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Caméra DJ",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
                   }
                ]
             }
