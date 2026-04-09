@@ -186,13 +186,7 @@
                      "id": "stream_01",
                      "title": "Vue 1",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Vue 1",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
                ]  
             }
