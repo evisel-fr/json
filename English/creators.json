@@ -2,234 +2,138 @@
    "creators": [
       {
          "id": "cr_001",
-         "name": "ONE Championship",
-         "description": "The home of martial arts. ONE Championship features the world's greatest martial artists across Muay Thai, Kickboxing, Mixed Martial Arts, and Submission Grappling.",
+         "name": "KSW",
+         "description": "KSW (Konfrontacja Sztuk Walki) is the premier MMA organization in Europe. Discover epic clashes of the continent's best fighters in an electric atmosphere, driven by spectacular stage productions and unforgettable fights.",
          "event_type": "sport",
-         "teaserVideo": "",
+         "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ONE_Championship.png",
-            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ONE_Championship.png",
-            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ONE_Championship.png",
-            "couverture": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ONE_Championship.png",
-            "teaser_16_9": "https://upload.wikimedia.org/wikipedia/commons/1/1f/ONE_Championship.png"
+            "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
-         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_ONE_Logo_0409142614_texture.glb",
-         "classement": 1,
-         "colorHexa": "#000000",
+         "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
+         "classement": 0,
+         "colorHexa": "#FFCD00",
          "verified": true,
          "metrics": {
-            "followers": 15000000,
-            "subscribers": 5200000
+            "followers": 48200,
+            "subscribers": 18300
          },
          "replays": [
             {
-               "id": "rep_one_1",
+               "id": "rep_001_3",
+               "classement": 20,
+               "title": "AJ VS LISEK",
+               "date": "2025-12-20T20:30:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Adam Modzelewski wins by KO (punches) at 1 min 18 s of the 1st round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Fight",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_5",
+               "classement": 17,
+               "title": "MORELLI VS SURDYN",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Marcelo Morelli wins by TKO (punches) at 4 min 56 s of the 1st round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_7",
+               "classement": 15,
+               "title": "ROZALSKI VS BEKAVAC",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Stipe Bekavac wins by KO (punch) at 2 min 59 s of the 1st round.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Rozalski_vs_Bekavak/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_001_11",
                "classement": 1,
-               "title": "Superlek vs. Takeru",
-               "date": "2024-01-28T20:00:00+08:00",
-               "thumbnail_16_9": "https://boxemag.ouest-france.fr/wp-content/uploads/2024/01/superlek-takeru-ONE.jpg",
+               "title": "BARTTOSINSKI VS TULSHAEV",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
                "teaser": "",
                "stereo": true,
-               "description": "ONE 165 Main Event - Flyweight Kickboxing World Championship",
+               "description": "Adrian Bartosiński wins by TKO (punches) at 4 min 56 s of the 3rd round.",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Ring view",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_2/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_one_2",
-               "classement": 2,
-               "title": "Rodtang vs. Superlek",
-               "date": "2023-09-22T20:00:00+08:00",
-               "thumbnail_16_9": "https://boxemag.ouest-france.fr/wp-content/uploads/2023/08/rodtank-superlek-1-1000x600.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "ONE Friday Fights 34 - Muay Thai Super Fight",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Ring view",
-                     "url": "https://cdn.jumpr.fr/ONE/Rodtang_Superlek/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_one_3",
-               "classement": 3,
-               "title": "Tawanchai vs. Superbon",
-               "date": "2023-12-22T20:00:00+08:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/qy7hfA0WQFA/maxresdefault.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "ONE Friday Fights 46 - Featherweight Muay Thai World Championship",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Ring view",
-                     "url": "https://cdn.jumpr.fr/ONE/Tawanchai_Superbon/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_one_4",
-               "classement": 4,
-               "title": "Stamp Fairtex vs. Ham Seo Hee",
-               "date": "2023-09-30T20:00:00+08:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/QVpx-rK-E-k/maxresdefault.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "ONE Fight Night 14 - Atomweight MMA World Championship",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Cage view",
-                     "url": "https://cdn.jumpr.fr/ONE/Stamp_Ham/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_one_5",
-               "classement": 5,
-               "title": "Christian Lee vs. Ok Rae Yoon 2",
-               "date": "2022-08-26T20:00:00+08:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/RwbW-OoXkQo/maxresdefault.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "ONE 160 - Lightweight MMA World Championship",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Cage view",
-                     "url": "https://cdn.jumpr.fr/ONE/Lee_Ok/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_one_6",
-               "classement": 6,
-               "title": "Demetrious Johnson vs. Adriano Moraes 3",
-               "date": "2023-05-05T20:00:00+08:00",
-               "thumbnail_16_9": "https://cdn.onefc.com/wp-content/uploads/2022/12/DemetriousJohnson-AdrianoMoraes-III-PreSale-May5-1200X800.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "ONE Fight Night 10 - Flyweight MMA World Championship",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Main Camera",
-                     "description": "Cage view",
-                     "url": "https://cdn.jumpr.fr/ONE/Johnson_Moraes_3/playlist.m3u8"
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Bartosinski_vs_Tulshaev/playlist.m3u8"
                   }
                ]
             }
          ],
          "events": [
             {
-               "id": "evt_one_1",
+               "id": "evt_live_ksw",
                "classement": 1,
-               "title": "ONE Friday Fights 150",
-               "description": "Le rendez-vous hebdomadaire incontournable du Muay Thaï en direct de Bangkok.",
-               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
-               "thumbnail_16_9": "https://boxemag.ouest-france.fr/wp-content/uploads/2024/01/superlek-takeru-ONE.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-04-10T14:30:00+02:00",
+               "title": "KSW 117 coming soon",
+               "description": "The Main Event is approaching. Get ready to enter the cage!",
+               "location": "Poland",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+               "onLive": true,
+               "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Flux Principal",
-                     "description": "Caméra du ring",
-                     "url": "https://cdn.jumpr.fr/ONE/Friday_Fights_150/playlist.m3u8"
+                     "title": "Live Camera 1",
+                     "description": "Trailer",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             },
             {
-               "id": "evt_one_2",
-               "classement": 2,
-               "title": "ONE Fight Night 42 : Mann vs. Dzhabrailov",
-               "description": "Événement mensuel majeur diffusé en prime time américain, avec des combats pour les titres mondiaux.",
-               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
-               "thumbnail_16_9": "https://boxemag.ouest-france.fr/wp-content/uploads/2023/08/rodtank-superlek-1-1000x600.jpg",
-               "teaser": "",
+               "id": "pln_102",
+               "classement": 7,
+               "title": "KSW 117",
+               "description": "KSW 117 coming soon",
+               "location": "Poland",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": false,
-               "start_time": "2026-04-11T02:00:00+02:00",
+               "start_time": "2026-04-18T20:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Flux Principal",
-                     "description": "Caméra du ring",
-                     "url": "https://cdn.jumpr.fr/ONE/Fight_Night_42/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_one_3",
-               "classement": 3,
-               "title": "ONE 175 (ONE Samurai 1)",
-               "description": "Le grand retour numéroté du ONE Championship au Japon avec des combats de très haut niveau.",
-               "location": "Ariake Arena, Tokyo, Japon",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/qy7hfA0WQFA/maxresdefault.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-04-29T11:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Flux Principal",
-                     "description": "Vue de l'arène",
-                     "url": "https://cdn.jumpr.fr/ONE/ONE_175/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_one_4",
-               "classement": 4,
-               "title": "ONE Fight Night 43",
-               "description": "Nouvelle édition mensuelle avec des stars mondiales du MMA, du Kickboxing et du Muay Thaï.",
-               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/QVpx-rK-E-k/maxresdefault.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-16T02:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Flux Principal",
-                     "description": "Caméra du ring",
-                     "url": "https://cdn.jumpr.fr/ONE/Fight_Night_43/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "evt_one_5",
-               "classement": 5,
-               "title": "ONE : Denver",
-               "description": "Événement spécial sur le sol américain rassemblant les plus grands athlètes de l'organisation.",
-               "location": "Ball Arena, Denver, Colorado, États-Unis",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/RwbW-OoXkQo/maxresdefault.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-06-27T02:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Flux Principal",
-                     "description": "Caméra de l'arène",
-                     "url": "https://cdn.jumpr.fr/ONE/Denver/playlist.m3u8"
+                     "title": "KSW 117",
+                     "description": "Trailer",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
                ]
             }
@@ -237,18 +141,18 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail_16_9": "https://one.shop/cdn/shop/files/250521-Graphic-WebBanner-Desktop-2740x1300px-2_2000x.jpg?v=1751270135"
+               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://th.one.shop/cdn/shop/files/250521-ElitePro-WebBanner-Desktop-2740x1300px_2000x.jpg?v=1748839875"
+               "thumbnail_16_9": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
             }
          ]
       },
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "The Fight Nation channel is the reference platform for combat sports in France. Get exclusive access to prestigious galas, follow the evolution of rising stars, and support impactful charity events bringing together the elite of the discipline.",
+         "description": "The Fight Nation channel is the go-to platform for combat sports in France. Get exclusive access to prestigious galas, follow the evolution of rising stars, and support strong charitable events bringing together the elite of the discipline.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -260,25 +164,22 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 2,
+         "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 33400,
             "subscribers": 15600
          },
-         "replays": [],
-         "events": [
+         "replays": [
             {
-               "id": "evt_live_fight_nation",
-               "classement": 1,
+               "id": "rep_002_1",
+               "classement": 10,
                "title": "Legacy Fight Night",
-               "description": "Gala extract - Live",
-               "location": "France",
+               "description": "Gala excerpt",
+               "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
-               "onLive": true,
-               "start_time": "2026-04-08T13:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
@@ -290,12 +191,13 @@
                ]  
             }
          ],
+         "events": [],
          "pubs": []
       },
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight revolutionizes the world of combat sports by cleverly combining an MMA cage and a ring for Muay Thai and kickboxing. Dive into the heart of a hybrid and innovative show where disciplines intensely intersect.",
+         "description": "Tek Fight is revolutionizing the combat sports world by cleverly combining an MMA cage and a ring for Muay Thai and kickboxing. Dive into the heart of an innovative, hybrid spectacle where disciplines intersect with intensity.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -307,7 +209,7 @@
             "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 2,
          "colorHexa": "#00AEEF",
          "verified": true,
          "metrics": {
@@ -316,9 +218,27 @@
          },
          "replays": [
             {
+               "id": "rep_003_1",
+               "classement": 9,
+               "title": "Muay Thaï 1",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "Red corner camera",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                  }
+               ]
+            },
+            {
                "id": "rep_003_2",
                "classement": 11,
-               "title": "Muay Thai 2",
+               "title": "Muay Thaï 2",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -336,7 +256,7 @@
             {
                "id": "rep_003_3",
                "classement": 12,
-               "title": "Muay Thai 3",
+               "title": "Muay Thaï 3",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -350,58 +270,14 @@
                      "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
                   }
                ]
-            },
-            {
-               "id": "rep_003_4",
-               "classement": 1,
-               "title": "Muay Thai test",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
-               "teaser": "",
-               "stereo": true,
-               "description": "Test camera",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/FightNation/test2/playlist.m3u8"
-                  }
-               ]
             }
          ],
          "events": [
             {
-               "id": "evt_live_tek_fight",
-               "classement": 2,
-               "title": "Muay Thai 1",
-               "description": "Red corner camera - Live",
-               "location": "France",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-04-08T13:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
-                  }
-               ]
-            },
-            {
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5",
-               "description": "On May 23 at the Jesse Owens Gymnasium, the cage will return with MMA, a booming discipline that continues the legacy of Muay Thai and kickboxing, historic pillars of the local club.",
+               "description": "On May 23 at the Jesse Owens Gymnasium, the cage will return with MMA, a booming discipline that continues the legacy of Muay Thai and kickboxing, the historical pillars of the local club.",
                "location": "France",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -412,168 +288,12 @@
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "Live from the Jesse Owens Gymnasium",
+                     "description": "Live from Jesse Owens Gymnasium",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
             }
          ],
-         "pubs": []
-      },
-      {
-         "id": "cr_008",
-         "name": "Orléans Loiret Basket",
-         "description": "Dive into the heart of the court with the Orléans Loiret Basket channel. Follow live matches with immersive quality, rediscover the best replays, and access exclusive highlights of your favorite team.",
-         "event_type": "sport",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "logo_2_1": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "couverture": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
-            "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
-         },
-         "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
-         "classement": 4,
-         "colorHexa": "#00BBF9",
-         "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
-         "replays": [
-            {
-               "id": "rep_008_2",
-               "classement": 6,
-               "title": "The first quarter of the Orléans – La Rochelle match.",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
-               "teaser": "",
-               "stereo": true,
-               "description": "Camera behind the basket",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [
-            {
-               "id": "evt_live_orleans",
-               "classement": 3,
-               "title": "The first quarter of the Orléans – La Rochelle match.",
-               "description": "Sideline camera - Live",
-               "location": "Orléans",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-04-08T13:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
-                  }
-               ]
-            }
-         ],
-         "pubs": []
-      },
-      {
-         "id": "cr_007",
-         "name": "Servette FC",
-         "description": "The Servette FC channel offers live matches, legendary replays, and exclusive content tracing the rich history and vibrant news of Geneva's iconic club.",
-         "event_type": "sport",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
-            "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
-         },
-         "model3D": "",
-         "classement": 5,
-         "colorHexa": "#E63946",
-         "verified": true,
-         "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
-         },
-         "replays": [
-            {
-               "id": "rep_005_1",
-               "classement": 3,
-               "title": "Training and Exhibition Match for the club's 135th anniversary!",
-               "date": "2025-09-28T16:00:00+02:00",
-               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Training and Exhibition Match",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
-         "pubs": []
-      },
-      {
-         "id": "cr_009",
-         "name": "Jeudi Electro",
-         "description": "The Jeudi Electro festival channel.",
-         "event_type": "music",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
-            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
-         },
-         "model3D": "",
-         "classement": 6,
-         "colorHexa": "#00BBF9",
-         "verified": true,
-         "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
-         },
-         "replays": [
-            {
-               "id": "rep_002_1",
-               "classement": 4,
-               "title": "Extract from the 2025 edition of Thonon-les-Bains",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "DJ camera",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
          "pubs": []
       },
       {
@@ -591,7 +311,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
-         "classement": 7,
+         "classement": 1,
          "colorHexa": "#E63946",
          "verified": true,
          "metrics": {
@@ -624,7 +344,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "The channel dedicated to the French boxing sensation, Bakary Samake.",
+         "description": "The channel dedicated to the French boxing sensation, Bakary Samake",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -636,7 +356,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
          },
          "model3D": "",
-         "classement": 8,
+         "classement": 3,
          "colorHexa": "#7209B7",
          "verified": true,
          "metrics": {
@@ -647,7 +367,7 @@
             {
                "id": "rep_002_1",
                "classement": 5,
-               "title": "Bakary Samake Sparring",
+               "title": "Sparing Bakary Samake",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
@@ -669,7 +389,7 @@
       {
          "id": "cr_006",
          "name": "EFC 27",
-         "description": "The channel of EFC 27, Ousmane Dembélé's former club.",
+         "description": "The channel of EFC 27, Ousmane Dembele's former club",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -681,7 +401,7 @@
             "teaser_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png"
          },
          "model3D": "",
-         "classement": 9,
+         "classement": 2,
          "colorHexa": "#00BBF9",
          "verified": true,
          "metrics": {
@@ -691,7 +411,7 @@
          "replays": [
             {
                "id": "rep_002_1",
-               "classement": 21,
+               "classement": 6,
                "title": "Return of the Ballon d'Or winner to his former club!",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
@@ -712,9 +432,204 @@
          "pubs": []
       },
       {
+         "id": "cr_007",
+         "name": "Servette FC",
+         "description": "The Servette FC channel brings you live matches, legendary replays, and exclusive content tracing the rich history and vibrant current events of the iconic Geneva club.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
+         },
+         "model3D": "",
+         "classement": 2,
+         "colorHexa": "#E63946",
+         "verified": true,
+         "metrics": {
+            "followers": 12800,
+            "subscribers": 5200
+         },
+         "replays": [
+            {
+               "id": "rep_005_1",
+               "classement": 3,
+               "title": "Training and Game Show for the club's 135th anniversary!",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Training and Game Show",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_007_1",
+               "classement": 3,
+               "title": "Servette FC: Live from the stadium",
+               "description": "Follow the match live!",
+               "location": "Geneva",
+               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-03-17T13:00:00+01:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Live Stream",
+                     "description": "Field camera",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": []
+      },
+      {
+         "id": "cr_008",
+         "name": "Orléans Loiret Basket",
+         "description": "Dive into the heart of the court with the Orléans Loiret Basket channel. Follow live matches in immersive quality, rediscover the best replays, and access exclusive highlights of your favorite team.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "logo_2_1": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "couverture": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
+         },
+         "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
+         "classement": 2,
+         "colorHexa": "#00BBF9",
+         "verified": true,
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "replays": [
+            {
+               "id": "rep_008_1",
+               "classement": 2,
+               "title": "The first quarter of the Orléans – La Rochelle game.",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "teaser": "",
+               "stereo": true,
+               "description": "Sideline camera",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_008_2",
+               "classement": 21,
+               "title": "The first quarter of the Orléans – La Rochelle game.",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "teaser": "",
+               "stereo": true,
+               "description": "Camera behind the basket",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_008_1",
+               "classement": 6,
+               "title": "Orléans vs La Rochelle",
+               "description": "Live game, camera behind the basket.",
+               "location": "Orleans",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-03-17T13:00:00+01:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Orléans vs La Rochelle",
+                     "description": "Camera behind the basket",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": []
+      },
+      {
+         "id": "cr_009",
+         "name": "Jeudi Electro",
+         "description": "The Jeudi Electro festival channel",
+         "event_type": "music",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
+         },
+         "model3D": "",
+         "classement": 2,
+         "colorHexa": "#00BBF9",
+         "verified": true,
+         "metrics": {
+            "followers": 25700,
+            "subscribers": 12100
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 4,
+               "title": "Excerpt from the Thonon-les-Bains 2025 edition",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "DJ camera",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": []
+      },
+      {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "The official channel of the French Badminton Federation. Follow the biggest competitions of the season, cheer on your interclub teams, and thrill to the rhythm of the smashes from the international badminton elite in France.",
+         "description": "The official channel of the French Badminton Federation. Follow the biggest competitions of the season, cheer on your interclub teams, and thrill to the smashes of the international badminton elite in France.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -726,7 +641,7 @@
             "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
          },
          "model3D": "",
-         "classement": 10,
+         "classement": 3,
          "colorHexa": "#183262",
          "verified": true,
          "metrics": {
@@ -749,8 +664,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Main court",
-                     "description": "Live broadcast",
+                     "title": "Main Court",
+                     "description": "Live stream",
                      "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
                   }
                ]
@@ -759,7 +674,7 @@
                "id": "pln_106",
                "classement": 10,
                "title": "Yonex French Open Badminton",
-               "description": "The best players in the world will gather for a new edition of the Yonex French Open Badminton.",
+               "description": "The best players in the world will meet for a new edition of the Yonex French Open Badminton.",
                "location": "France",
                "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
                "teaser": "",
@@ -781,7 +696,7 @@
       {
          "id": "cr_011",
          "name": "Ligue Nationale de Handball",
-         "description": "Thrill to the rhythm of the LNH! Watch the clashes of the Liqui Moly StarLigue, and dive into the intensity of the French handball championship with decisive matches between the biggest clubs.",
+         "description": "Thrill to the rhythm of the LNH! Watch the top clashes of the Liqui Moly StarLigue, and dive into the heart of the intensity of the French handball championship with decisive matches between the biggest clubs.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -793,7 +708,7 @@
             "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
          },
          "model3D": "",
-         "classement": 11,
+         "classement": 1,
          "colorHexa": "#03224C",
          "verified": true,
          "metrics": {
@@ -806,7 +721,7 @@
                "id": "pln_105",
                "classement": 15,
                "title": "National Handball League: PSG HAND vs HBC NANTES",
-               "description": "On Wednesday, May 27, 2026, Paris Saint-Germain Handball and HBC Nantes will face off at the Accor Arena in Paris for the 28th matchday of the Liqui Moly StarLigue. A top-tier clash that could be decisive in the title race.",
+               "description": "On Wednesday, May 27, 2026, Paris Saint-Germain Handball and HBC Nantes will face off at the Accor Arena in Paris as part of the 28th round of the Liqui Moly StarLigue. A clash at the top that could be decisive in the title race.",
                "location": "ACCOR ARENA, France",
                "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
                "teaser": "",
@@ -816,8 +731,8 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Live from the ACCOR ARENA",
-                     "description": "Match broadcast",
+                     "title": "Live ACCOR ARENA",
+                     "description": "Match stream",
                      "url": "https://cdn.jumpr.fr/sample_handball.mp4"
                   }
                ]
