@@ -132,7 +132,108 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_one_1",
+               "classement": 1,
+               "title": "ONE Friday Fights 150",
+               "description": "Le rendez-vous hebdomadaire incontournable du Muay Thaï en direct de Bangkok.",
+               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
+               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ONE_Championship_logo.svg/1200px-ONE_Championship_logo.svg.png",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-04-10T14:30:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Caméra du ring",
+                     "url": "https://cdn.jumpr.fr/ONE/Friday_Fights_150/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_one_2",
+               "classement": 2,
+               "title": "ONE Fight Night 42 : Mann vs. Dzhabrailov",
+               "description": "Événement mensuel majeur diffusé en prime time américain, avec des combats pour les titres mondiaux.",
+               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
+               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ONE_Championship_logo.svg/1200px-ONE_Championship_logo.svg.png",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-04-11T02:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Caméra du ring",
+                     "url": "https://cdn.jumpr.fr/ONE/Fight_Night_42/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_one_3",
+               "classement": 3,
+               "title": "ONE 175 (ONE Samurai 1)",
+               "description": "Le grand retour numéroté du ONE Championship au Japon avec des combats de très haut niveau.",
+               "location": "Ariake Arena, Tokyo, Japon",
+               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ONE_Championship_logo.svg/1200px-ONE_Championship_logo.svg.png",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-04-29T11:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Vue de l'arène",
+                     "url": "https://cdn.jumpr.fr/ONE/ONE_175/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_one_4",
+               "classement": 4,
+               "title": "ONE Fight Night 43",
+               "description": "Nouvelle édition mensuelle avec des stars mondiales du MMA, du Kickboxing et du Muay Thaï.",
+               "location": "Lumpinee Boxing Stadium, Bangkok, Thaïlande",
+               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ONE_Championship_logo.svg/1200px-ONE_Championship_logo.svg.png",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-16T02:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Caméra du ring",
+                     "url": "https://cdn.jumpr.fr/ONE/Fight_Night_43/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "evt_one_5",
+               "classement": 5,
+               "title": "ONE : Denver",
+               "description": "Événement spécial sur le sol américain rassemblant les plus grands athlètes de l'organisation.",
+               "location": "Ball Arena, Denver, Colorado, États-Unis",
+               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/ONE_Championship_logo.svg/1200px-ONE_Championship_logo.svg.png",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-06-27T02:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Caméra de l'arène",
+                     "url": "https://cdn.jumpr.fr/ONE/Denver/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
