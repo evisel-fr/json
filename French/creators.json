@@ -528,31 +528,19 @@
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra de touche",
+               "description": "",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
-                     "description": "",
+                     "description": "Caméra de touche",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_008_2",
-               "classement": 21,
-               "title": "Le premier quart-temps du match Orléans – La Rochelle.",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra derrière le panier",
-               "streams": [
+                  },
                   {
                      "id": "stream_01",
                      "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_2/playlist.m3u8"
+                     "description": "Caméra panier droit",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket_2/playlist_5k.m3u8"
                   }
                ]
             }
