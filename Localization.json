@@ -54,7 +54,11 @@
     "UnFavorite": "Unfavorite",
     "NoUserConnected": "Connect to your headset account (PICO / META) to access the content.",
     "FirstMessage": "Welcome to JUMPR VR, the virtual reality streaming platform! \n\nDiscover a unique immersive experience with a variety of live and on-demand content. Explore our video catalog, follow your favorite creators, and dive into a world of virtual entertainment. Connect now to experience the future of virtual reality streaming!",
-    "ExplicationTrigger": "Use the trigger to select"
+    "ExplicationTrigger": "Use the trigger to select",
+    "NoFavSaved": "No favorite saved",
+    "NoSubSaved": "No subscription",
+    "NoBuyReplaySaved": "No replay bought",
+    "NoBuyLiveSaved": "No live bought"
   },
   "French": {
     "Home": "Accueil",
@@ -111,7 +115,11 @@
     "UnFavorite": "Retirer",
     "NoUserConnected": "Connectez-vous à votre compte casque (PICO / META) pour accéder au contenu.",
     "FirstMessage": "Bienvenue sur JUMPR VR, la plateforme de streaming en réalité virtuelle !\n\nDécouvrez une expérience immersive unique avec une variété de contenus en direct et à la demande. Explorez notre catalogue de vidéos, suivez vos créateurs préférés et plongez dans un monde de divertissement virtuel. Connectez-vous dès maintenant pour vivre l'avenir du streaming en réalité virtuelle !" ,
-    "ExplicationTrigger": "Utilisez la gâchette pour sélectionner" 
+    "ExplicationTrigger": "Utilisez la gâchette pour sélectionner" ,
+    "NoFavSaved": "Aucun favori enregistré",
+    "NoSubSaved": "Aucun abonnement",
+    "NoBuyReplaySaved": "Aucun replay acheté",
+    "NoBuyLiveSaved": "Aucun live acheté"
   },
   "Chinese": {
     "Home": "主页",
@@ -168,7 +176,11 @@
     "UnFavorite": "取消收藏",
     "NoUserConnected": "连接到您的头戴设备账户（PICO / META）以访问内容。",
     "FirstMessage": "欢迎来到JUMPR VR，虚拟现实流媒体平台！\n\n通过各种直播和点播内容，体验独特的沉浸式体验。探索我们的视频目录，关注您喜欢的创作者，并沉浸在虚拟娱乐的世界中。立即连接，体验虚拟现实流媒体的未来！",
-    "ExplicationTrigger": "使用扳机选择"
+    "ExplicationTrigger": "使用扳机选择",
+    "NoFavSaved": "没有保存的收藏",
+    "NoSubSaved": "没有订阅",
+    "NoBuyReplaySaved": "没有购买的回放",
+    "NoBuyLiveSaved": "没有购买的直播"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -225,6 +237,10 @@
     "UnFavorite": "Usuń z ulubionych",
     "NoUserConnected": "Połącz się ze swoim kontem na hełmie (PICO / META), aby uzyskać dostęp do treści.",
     "FirstMessage": "Witamy w JUMPR VR, platformie streamingowej wirtualnej rzeczywistości! \n\nOdkryj unikalne, immersyjne doświadczenie z różnorodnymi treściami na żywo i na żądanie. Przeglądaj nasz katalog wideo, śledź swoich ulubionych twórców i zanurz się w świecie wirtualnej rozrywki. Połącz się teraz, aby doświadczyć przyszłości streamingu wirtualnej rzeczywistości!",
-    "ExplicationTrigger": "Użyj spustu, aby wybrać"
+    "ExplicationTrigger": "Użyj spustu, aby wybrać",
+    "NoFavSaved": "Brak zapisanych ulubionych",
+    "NoSubSaved": "Brak subskrypcji",
+    "NoBuyReplaySaved": "Brak zakupionych powtórek",
+    "NoBuyLiveSaved": "Brak zakupionych transmisji na żywo"
   }
 }
