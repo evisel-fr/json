@@ -571,6 +571,12 @@
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test2/playlist.m3u8"
                   },
                   {
+                     "id": "stream_04",
+                     "title": "Orléans vs La Rochelle test3",
+                     "description": "Caméra derrière le panier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test3/playlist.m3u8"
+                  },
+                  {
                      "id": "stream_02",
                      "title": "Orléans vs La Rochelle",
                      "description": "Caméra derrière le panier",
