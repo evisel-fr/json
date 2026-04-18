@@ -107,7 +107,7 @@
                "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
                "onLive": true,
                "start_time": "2026-04-18T20:00:00+02:00",
-               "stereo": false,
+               "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
