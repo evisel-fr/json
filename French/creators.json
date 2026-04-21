@@ -613,6 +613,12 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/playlist.m3u8"
                   }
                ]
             }
