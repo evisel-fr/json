@@ -625,6 +625,12 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test2/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_04",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test3/playlist.m3u8"
                   }
                ]
             }
