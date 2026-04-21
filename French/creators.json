@@ -672,7 +672,32 @@
             "followers": 18500,
             "subscribers": 7200
          },
-         "replays": [],
+         "replays": "replays": [
+            {
+               "id": "rep_008_1",
+               "classement": 2,
+               "title": "Le premier quart-temps du match Orléans – La Rochelle.",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "teaser": "",
+               "stereo": false,
+               "description": "",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "Caméra de touche",
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test5/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "Caméra panier droit",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [
             {
                "id": "pln_103",
