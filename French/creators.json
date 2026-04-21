@@ -672,28 +672,22 @@
             "followers": 18500,
             "subscribers": 7200
          },
-         "replays": "replays": [
+         "replays": [
             {
-               "id": "rep_008_1",
-               "classement": 2,
-               "title": "Le premier quart-temps du match Orléans – La Rochelle.",
+               "id": "rep_002_1",
+               "classement": 4,
+               "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "",
+               "description": "Caméra DJ",
                "streams": [
                   {
-                     "id": "stream_01",
+                     "id": "stream_06",
                      "title": "",
-                     "description": "Caméra de touche",
+                     "description": "",
                      "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test5/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "Caméra panier droit",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
             }
