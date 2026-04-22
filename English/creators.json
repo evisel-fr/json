@@ -3,7 +3,7 @@
       {
          "id": "cr_000",
          "name": "JUMPR VR",
-         "description": "Welcome to the official JUMPR VR channel, your immersive broadcasting platform. In addition to hosting your favorite channels, we publish our own original content here: technological demonstrations, exclusive experiences, and live events to help you discover the full potential of virtual reality.",
+         "description": "Welcome to the official JUMPR VR channel, your immersive broadcasting platform. In addition to hosting your favorite channels, we publish our own original content here: technology demonstrations, exclusive experiences, and live events to help you discover the full potential of virtual reality.",
          "event_type": "",
          "teaserVideo": "",
          "stereo": true,
@@ -16,7 +16,7 @@
          },
          "model3D": "",
          "classement": 1,
-         "colorHexa": "#FF00FF",
+         "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -102,7 +102,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "The Fight Nation channel is the reference platform for combat sports in France. Get exclusive access to prestigious galas, follow the progress of rising stars, and support charity events brought together by the elite of the discipline.",
+         "description": "The Fight Nation channel is the go-to platform for combat sports in France. Get exclusive access to prestigious galas, follow the rise of emerging stars, and support charity events bringing together the elite of the discipline.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -156,7 +156,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight is revolutionizing the world of combat sports by cleverly combining an MMA cage and a ring for Muay Thai and kickboxing. Dive into the heart of a hybrid and innovative show where disciplines cross paths with intensity.",
+         "description": "Tek Fight is revolutionizing the combat sports world by cleverly combining an MMA cage with a ring for Muay Thai and kickboxing. Dive into the heart of a hybrid and innovative show where disciplines cross with intensity.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -169,7 +169,7 @@
          },
          "model3D": "",
          "classement": 4,
-         "colorHexa": "#00FFDD",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -200,7 +200,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "On May 23 at the Jesse Owens Gymnasium, the cage will make its return with MMA, a booming discipline that perpetuates the legacy of Muay Thai.",
+               "description": "Tek Fight will make its grand return to the Jesse Owens Gymnasium with an evening mixing MMA and Muay Thai fights.",
                "location": "France",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
@@ -231,7 +231,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "Dive into the arena of 100% Fight, the pioneering MMA organization in France. Discover combats of rare intensity, follow the journey of the most determined fighters, and thrill to the rhythm of spectacular events.",
+         "description": "Dive into the arena of 100% Fight, the pioneering MMA organization in France. Discover fights of rare intensity, follow the journey of the most determined fighters, and vibe to the rhythm of spectacular events.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -254,12 +254,12 @@
             {
                "id": "rep_004_1",
                "classement": 8,
-               "title": "100% Fight 62 (3D)",
+               "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "RODRIGUEZ VS CABREL KEMEZEU",
+               "description": "Full fight, cage camera",
                "streams": [
                   {
                      "id": "stream_01",
@@ -393,7 +393,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Dive into the heart of the court with Orléans Loiret Basket. Follow live games, rediscover the best replays, and access exclusive club highlights.",
+         "description": "Dive into the heart of the court with Orléans Loiret Basket. Follow live games, rediscover the best replays, and access the club's exclusive highlights.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -432,7 +432,7 @@
                   {
                      "id": "stream_02",
                      "title": "",
-                     "description": "Camera behind the hoop",
+                     "description": "Camera behind the backboard",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
@@ -507,7 +507,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "The official channel of the French Badminton Federation. Follow the biggest competitions of the season, cheer on your teams, and thrill to the rhythm of the smashes from the international elite.",
+         "description": "The official channel of the French Badminton Federation. Follow the biggest competitions of the season, cheer for your teams, and vibe to the rhythm of the international elite's smashes.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -542,7 +542,7 @@
       {
          "id": "cr_011",
          "name": "LNH",
-         "description": "Thrill to the rhythm of the LNH! Watch the Liqui Moly StarLigue clashes, and dive into the heart of the intensity of the French handball championship with decisive matches.",
+         "description": "Vibe to the rhythm of the LNH! Watch the clashes of the Liqui Moly StarLigue, and dive into the heart of the intensity of the French handball championship with decisive matches.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
