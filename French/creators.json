@@ -28,21 +28,21 @@
       },
       {
          "id": "cr_001",
-         "name": "CANAL+",
-         "description": "Vivez l'excellence du sport avec CANAL+. Accédez à une programmation premium incluant les plus grandes compétitions internationales, des reportages exclusifs et une analyse experte pour une immersion totale dans l'univers de la performance sportive.",
+         "name": "KSW",
+         "description": "Le KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une atmosphère électrique, animée par des mises en scène spectaculaires et des combats inoubliables.",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
-            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
-            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
-            "couverture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
+            "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
-         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_CANAL__0404095002_texture.glb",
-         "classement": 2,
-         "colorHexa": "#EE1D23",
+         "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
+         "classement": 0,
+         "colorHexa": "#FFCD00",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -50,20 +50,20 @@
          },
          "replays": [
             {
-               "id": "rep_001_3",
+               "id": "rep_001_5",
                "classement": 1,
-               "title": "AJ VS LISEK (3D + PIP)",
-               "date": "2025-12-20T20:30:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
+               "title": "MORELLI VS SURDYN",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Adam Modzelewski gagne par KO (coups de poing) à 1 min 18 s du 1er round.",
+               "description": "Marcelo Morelli wins by TKO (punches) at 4 min 56 s of the 1st round.",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Combat entier",
+                     "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
                ]
             }
@@ -72,11 +72,11 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail_16_9": "https://thumb.canalplus.pro/bran/unsafe/1400x/filters:quality(%7BimageQualityPercentage%7D)/image/69e5d86c9c1f7/uploads/media/MOBILE_1920x1080.png"
+               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://thumb.canalplus.pro/bran/unsafe/1400x/filters:quality(%7BimageQualityPercentage%7D)/image/69e088763a45a/uploads/media/DESKTOP_1920x1080.png"
+               "thumbnail_16_9": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
             }
          ]
       },
