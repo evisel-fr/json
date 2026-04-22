@@ -2,19 +2,27 @@
    "pubs": [
       {
          "id": "pub_01",
-         "thumbnail_16_9": "https://i.ytimg.com/vi/G3dHmtcD6hc/maxresdefault.jpg"
+         "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200"
       },
       {
          "id": "pub_02",
-         "thumbnail_16_9": "https://i.ytimg.com/vi/TinvWNe41So/maxresdefault.jpg"
+         "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Esteban_levac.jpg"
       },
       {
          "id": "pub_03",
-         "thumbnail_16_9": "https://cdn.next.ink/inpactv7/data-next/images/bd/wide-linked-media/9579.jpg"
+         "thumbnail_16_9": "https://sneakersculture.fr/wp-content/uploads/2026/04/sneakers-levac-sacha-1.jpg?w=1000"
       },
       {
-         "id": "pub_04",
-         "thumbnail_16_9": "https://i.ytimg.com/vi/TinvWNe41So/maxresdefault.jpg"
+         "id": "pub_01",
+         "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200"
+      },
+      {
+         "id": "pub_02",
+         "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Esteban_levac.jpg"
+      },
+      {
+         "id": "pub_03",
+         "thumbnail_16_9": "https://sneakersculture.fr/wp-content/uploads/2026/04/sneakers-levac-sacha-1.jpg?w=1000"
       }
    ]
 }
