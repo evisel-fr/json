@@ -2,30 +2,30 @@
    "creators": [
       {
          "id": "cr_001",
-         "name": "KSW",
-         "description": "Le KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une atmosphère électrique, animée par des mises en scène spectaculaires et des combats inoubliables.",
+         "name": "CANAL+",
+         "description": "Vivez l'excellence du sport avec CANAL+. Accédez à une programmation premium incluant les plus grandes compétitions internationales, des reportages exclusifs et une analyse experte pour une immersion totale dans l'univers de la performance sportive.",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
+            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
+            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
+            "couverture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
-         "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
+         "model3D": "",
          "classement": 0,
-         "colorHexa": "#FFCD00",
+         "colorHexa": "#EE1D23",
          "verified": true,
          "metrics": {
-            "followers": 48200,
-            "subscribers": 18300
+            "followers": 1500000,
+            "subscribers": 850000
          },
          "replays": [
             {
                "id": "rep_001_3",
-               "classement": 20,
+               "classement": 1,
                "title": "AJ VS LISEK",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
@@ -40,119 +40,15 @@
                      "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
                   }
                ]
-            },
-            {
-               "id": "rep_001_5",
-               "classement": 17,
-               "title": "MORELLI VS SURDYN",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Marcelo Morelli gagne par TKO (coups de poing) à 4 min 56 s du 1er round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_7",
-               "classement": 15,
-               "title": "ROZALSKI VS BEKAVAC",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172828.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Stipe Bekavac gagne par KO (coup de poing) à 2 min 59 s du 1er round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/demain_solidaire"
-                  }
-               ]
-            },
-            {
-               "id": "rep_001_11",
-               "classement": 1,
-               "title": "BARTTOSINSKI VS TULSHAEV",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172951.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Adrian Bartosiński gagne par TKO (coups de poing) à 4 min 56 s du 3ème round.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Bartosinski_vs_Tulshaev/playlist.m3u8"
-                  }
-               ]
             }
          ],
-         "events": [
-            {
-               "id": "evt_live_ksw",
-               "classement": 1,
-               "title": "KSW 117 arrive bientôt",
-               "description": "L'événement principal approche. Préparez-vous à entrer dans la cage !",
-               "location": "Pologne",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
-               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
-               "onLive": true,
-               "start_time": "2026-04-18T20:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra en direct 1",
-                     "description": "Bande-annonce",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/demain_solidaire"
-                  }
-               ]
-            },
-            {
-               "id": "pln_102",
-               "classement": 7,
-               "title": "KSW 117",
-               "description": "KSW 117 arrive bientôt",
-               "location": "Pologne",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
-               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
-               "onLive": false,
-               "start_time": "2026-04-18T20:00:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "KSW 117",
-                     "description": "Bande-annonce",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "pubs": [
-            {
-               "id": "pub_01",
-               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
-            },
-            {
-               "id": "pub_02",
-               "thumbnail_16_9": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
-            }
-         ]
+         "events": [],
+         "pubs": []
       },
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "La chaîne Fight Nation est la plateforme de référence pour les sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs forts réunissant l'élite de la discipline.",
+         "description": "La chaîne Fight Nation est la plateforme de référence pour les sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs réunis par l'élite de la discipline.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -188,7 +84,7 @@
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
-               ]  
+               ]
             }
          ],
          "events": [],
@@ -210,7 +106,7 @@
          },
          "model3D": "",
          "classement": 2,
-         "colorHexa": "#00AEEF",
+         "colorHexa": "#00FFDD",
          "verified": true,
          "metrics": {
             "followers": 25700,
@@ -234,42 +130,6 @@
                      "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
                   }
                ]
-            },
-            {
-               "id": "rep_003_2",
-               "classement": 11,
-               "title": "Muay Thaï 2",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra coin rouge",
-               "streams": [
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_2/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_003_3",
-               "classement": 12,
-               "title": "Muay Thaï 3",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra coin rouge",
-               "streams": [
-                  {
-                     "id": "stream_03",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
-                  }
-               ]
             }
          ],
          "events": [
@@ -277,7 +137,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5",
-               "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui perpétue l'héritage du Muay Thaï et du kickboxing, piliers historiques du club local.",
+               "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui perpétue l'héritage du Muay Thaï.",
                "location": "France",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -299,7 +159,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "La chaîne 100% Fight vous offre le meilleur des sports de combat à travers des combats, des replays et du contenu exclusif.",
+         "description": "Plongez dans l'arène du 100% Fight, l'organisation pionnière du MMA en France. Découvrez des combats d'une intensité rare, suivez le parcours des combattants les plus déterminés et vibrez au rythme des événements spectaculaires.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -312,7 +172,7 @@
          },
          "model3D": "",
          "classement": 1,
-         "colorHexa": "#E63946",
+         "colorHexa": "#FFAA00",
          "verified": true,
          "metrics": {
             "followers": 12800,
@@ -344,7 +204,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake",
+         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation, ses sparrings intensifs et ses combats officiels pour atteindre le sommet de la hiérarchie mondiale.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -357,7 +217,7 @@
          },
          "model3D": "",
          "classement": 3,
-         "colorHexa": "#7209B7",
+         "colorHexa": "#A100FF",
          "verified": true,
          "metrics": {
             "followers": 25700,
@@ -389,7 +249,7 @@
       {
          "id": "cr_006",
          "name": "EFC 27",
-         "description": "La chaîne de l'EFC 27, l'ancien club d'Ousmane Dembélé",
+         "description": "Le club historique de l'Évreux FC 27 vous ouvre ses portes. Suivez le quotidien d'une académie de football réputée pour sa formation d'élite, revivez les matchs décisifs et découvrez les coulisses d'une institution formatrice de talents internationaux.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -402,7 +262,7 @@
          },
          "model3D": "",
          "classement": 2,
-         "colorHexa": "#00BBF9",
+         "colorHexa": "#00CCFF",
          "verified": true,
          "metrics": {
             "followers": 25700,
@@ -412,7 +272,7 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or dans son ancien club !",
+               "title": "Retour du vainqueur du Ballon d'Or",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
@@ -434,7 +294,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire et l'actualité vibrante du club emblématique de Genève.",
+         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire du club emblématique de Genève.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -447,7 +307,7 @@
          },
          "model3D": "",
          "classement": 2,
-         "colorHexa": "#E63946",
+         "colorHexa": "#FF3344",
          "verified": true,
          "metrics": {
             "followers": 12800,
@@ -457,7 +317,7 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "Entraînement et Match d'exhibition pour le 135ème anniversaire du club !",
+               "title": "Match d'exhibition 135ème anniversaire",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
@@ -500,7 +360,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Plongez au cœur du terrain avec la chaîne Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs de votre équipe préférée.",
+         "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs de votre équipe préférée.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -511,9 +371,9 @@
             "couverture": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
             "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
-         "model3D": "https://cloud.inod.solutions/test/jumpr/Clippers.glb",
+         "model3D": "",
          "classement": 2,
-         "colorHexa": "#00BBF9",
+         "colorHexa": "#00FFCC",
          "verified": true,
          "metrics": {
             "followers": 25700,
@@ -523,7 +383,7 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "Le premier quart-temps du match Orléans – La Rochelle.",
+               "title": "Orléans – La Rochelle (Q1)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
                "teaser": "",
@@ -535,12 +395,6 @@
                      "title": "",
                      "description": "Caméra de touche",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/testb/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "Caméra panier droit",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
             }
@@ -563,12 +417,6 @@
                      "title": "Orléans vs La Rochelle",
                      "description": "Caméra derrière le panier",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Orléans vs La Rochelle",
-                     "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
             }
@@ -578,7 +426,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "La chaîne du festival Jeudi Electro",
+         "description": "Vibrez au son des meilleurs DJs avec Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
          "event_type": "music",
          "teaserVideo": "",
          "stereo": true,
@@ -591,7 +439,7 @@
          },
          "model3D": "",
          "classement": 2,
-         "colorHexa": "#00BBF9",
+         "colorHexa": "#00FF44",
          "verified": true,
          "metrics": {
             "followers": 25700,
@@ -601,7 +449,7 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
+               "title": "Edition 2025 Thonon",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -613,36 +461,6 @@
                      "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_03",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test2/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_04",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test3/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_05",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test4/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_06",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test5/playlist.m3u8"
                   }
                ]
             }
@@ -653,7 +471,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes interclubs et vibrez au rythme des smashes de l'élite internationale du badminton en France.",
+         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes et vibrez au rythme des smashes de l'élite internationale.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -666,58 +484,19 @@
          },
          "model3D": "",
          "classement": 3,
-         "colorHexa": "#183262",
+         "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
             "followers": 18500,
             "subscribers": 7200
          },
-         "replays": [
-            {
-               "id": "rep_002_1",
-               "classement": 4,
-               "title": "Extrait de l'édition 2025 de Thonon-les-Bains",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
-               "teaser": "",
-               "stereo": false,
-               "description": "Caméra DJ",
-               "streams": [
-                  {
-                     "id": "stream_06",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test5/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "replays": [],
          "events": [
-            {
-               "id": "pln_103",
-               "classement": 2,
-               "title": "Finales du Top 12 de Badminton Français",
-               "description": "Regardez les 4 meilleures équipes interclubs de badminton.",
-               "location": "France",
-               "thumbnail_16_9": "https://www.yonex.fr/wp-content/uploads/2025/03/20250314_1839_AllEngland2025_BPYN7614-scaled.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-08T19:30:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Court principal",
-                     "description": "Diffusion en direct",
-                     "url": "https://cdn.jumpr.fr/sample_ffbad.mp4"
-                  }
-               ]
-            },
             {
                "id": "pln_106",
                "classement": 10,
-               "title": "Yonex Internationaux de France de Badminton",
-               "description": "Les meilleurs joueurs du monde se réuniront pour une nouvelle édition des Yonex Internationaux de France de Badminton.",
+               "title": "Internationaux de France",
+               "description": "Les meilleurs joueurs du monde se réuniront pour une nouvelle édition.",
                "location": "France",
                "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
                "teaser": "",
@@ -738,8 +517,8 @@
       },
       {
          "id": "cr_011",
-         "name": "Ligue Nationale de Handball",
-         "description": "Vibrez au rythme de la LNH ! Regardez les chocs de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs entre les plus grands clubs.",
+         "name": "LNH",
+         "description": "Vibrez au rythme de la LNH ! Regardez les chocs de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -752,7 +531,7 @@
          },
          "model3D": "",
          "classement": 1,
-         "colorHexa": "#03224C",
+         "colorHexa": "#22EEFF",
          "verified": true,
          "metrics": {
             "followers": 54200,
@@ -763,8 +542,8 @@
             {
                "id": "pln_105",
                "classement": 15,
-               "title": "Ligue Nationale de Handball : PSG HAND vs HBC NANTES",
-               "description": "Le mercredi 27 mai 2026, le Paris Saint-Germain Handball et le HBC Nantes s'affronteront à l'Accor Arena de Paris dans le cadre de la 28ème journée de la Liqui Moly StarLigue. Un choc au sommet qui pourrait être décisif dans la course au titre.",
+               "title": "PSG HAND vs HBC NANTES",
+               "description": "Choc au sommet décisif pour la course au titre de champion de France.",
                "location": "ACCOR ARENA, France",
                "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
                "teaser": "",
