@@ -26,12 +26,12 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance. (2D)",
+               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "Caméra de la scène",
+               "description": "Extrait caméra de la scène",
                "streams": [
                   {
                      "id": "stream_01",
@@ -76,7 +76,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra sur la cage",
+               "description": "Combat entier caméra sur la cage",
                "streams": [
                   {
                      "id": "stream_01",
@@ -254,12 +254,12 @@
             {
                "id": "rep_004_1",
                "classement": 8,
-               "title": "100% Fight 62 (3D)",
+               "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "RODRIGUEZ VS CABREL KEMEZEU",
+               "description": "Combat entier caméra sur la cage",
                "streams": [
                   {
                      "id": "stream_01",
@@ -313,7 +313,7 @@
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra du ring",
+               "description": "Extrait caméra ring",
                "streams": [
                   {
                      "id": "stream_01",
@@ -367,7 +367,7 @@
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "stereo": true,
-               "description": "Entraînement et Match d'exhibition",
+               "description": "Entraînement et Game Show",
                "streams": [
                   {
                      "id": "stream_01",
@@ -481,7 +481,7 @@
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra DJ",
+               "description": "Extrait caméra DJ",
                "streams": [
                   {
                      "id": "stream_01",
