@@ -1,6 +1,65 @@
 {
    "creators": [
       {
+         "id": "cr_000",
+         "name": "JUMPR VR",
+         "description": "Découvrez tout le potentiel de JUMPR VR. Plongez au cœur de l'action grâce à notre technologie de réalité virtuelle, explorez des angles de vue inédits en temps réel et vivez vos événements préférés comme si vous y étiez.",
+         "event_type": "tech",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://cdn.jumpr.fr/assets/jumpr_thumbnail.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/assets/jumpr_logo.jpg",
+            "logo_2_1": "https://cdn.jumpr.fr/assets/jumpr_logo_2_1.jpg",
+            "couverture": "https://cdn.jumpr.fr/assets/jumpr_cover.jpg",
+            "teaser_16_9": "https://cdn.jumpr.fr/assets/jumpr_teaser.jpg"
+         },
+         "model3D": "",
+         "classement": 1,
+         "colorHexa": "#FF00FF",
+         "verified": true,
+         "metrics": {
+            "followers": 500000,
+            "subscribers": 150000
+         },
+         "replays": [],
+         "events": [
+            {
+               "id": "evt_live_jumpr_demo",
+               "classement": 1,
+               "title": "Démonstration JUMPR VR : L'avenir du divertissement",
+               "description": "ÉVÉNEMENT EN COURS - Découvrez la puissance de l'application JUMPR VR en direct. Naviguez instantanément entre différents points de vue (Immersion, Aérien, Public) et vivez une expérience totalement interactive.",
+               "location": "Métavers JUMPR",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/assets/demo_thumbnail.jpg",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-22T16:30:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue Immersion totale",
+                     "description": "Au plus près de l'action",
+                     "url": "https://cdn.jumpr.fr/Demo/Immersion/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Vue Aérienne",
+                     "description": "Pour une vision stratégique",
+                     "url": "https://cdn.jumpr.fr/Demo/Aerien/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_03",
+                     "title": "Vue Public",
+                     "description": "Vivez l'ambiance de la foule",
+                     "url": "https://cdn.jumpr.fr/Demo/Public/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": []
+      },
+      {
          "id": "cr_001",
          "name": "CANAL+",
          "description": "Vivez l'excellence du sport avec CANAL+. Accédez à une programmation premium incluant les plus grandes compétitions internationales, des reportages exclusifs et une analyse experte pour une immersion totale dans l'univers de la performance sportive.",
@@ -15,7 +74,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_CANAL__0404095002_texture.glb",
-         "classement": 0,
+         "classement": 2,
          "colorHexa": "#EE1D23",
          "verified": true,
          "metrics": {
@@ -60,7 +119,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 1,
+         "classement": 3,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -105,7 +164,7 @@
             "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 4,
          "colorHexa": "#00FFDD",
          "verified": true,
          "metrics": {
@@ -171,7 +230,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
-         "classement": 1,
+         "classement": 5,
          "colorHexa": "#FFAA00",
          "verified": true,
          "metrics": {
@@ -216,7 +275,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 6,
          "colorHexa": "#A100FF",
          "verified": true,
          "metrics": {
@@ -261,7 +320,7 @@
             "teaser_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 7,
          "colorHexa": "#00CCFF",
          "verified": true,
          "metrics": {
@@ -306,7 +365,7 @@
             "teaser_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 8,
          "colorHexa": "#FF3344",
          "verified": true,
          "metrics": {
@@ -333,7 +392,28 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_007_1",
+               "classement": 3,
+               "title": "Servette FC : En direct du stade",
+               "description": "Suivez le match en direct !",
+               "location": "Genève",
+               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-03-17T13:00:00+01:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Diffusion en direct",
+                     "description": "Caméra terrain",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": []
       },
       {
@@ -351,7 +431,7 @@
             "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 9,
          "colorHexa": "#00FFCC",
          "verified": true,
          "metrics": {
@@ -378,7 +458,34 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_008_1",
+               "classement": 6,
+               "title": "Orléans vs La Rochelle",
+               "description": "Match en direct, caméra derrière le panier.",
+               "location": "Orléans",
+               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-03-17T13:00:00+01:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Orléans vs La Rochelle",
+                     "description": "Caméra derrière le panier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Orléans vs La Rochelle",
+                     "description": "Caméra derrière le panier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": []
       },
       {
@@ -396,7 +503,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 2,
+         "classement": 10,
          "colorHexa": "#00FF44",
          "verified": true,
          "metrics": {
@@ -441,7 +548,7 @@
             "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 11,
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
@@ -488,7 +595,7 @@
             "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
          },
          "model3D": "",
-         "classement": 1,
+         "classement": 12,
          "colorHexa": "#22EEFF",
          "verified": true,
          "metrics": {
