@@ -527,28 +527,7 @@
             "subscribers": 0
          },
          "replays": [],
-         "events": [
-            {
-               "id": "pln_106",
-               "classement": 10,
-               "title": "法国公开赛 (2D)",
-               "description": "世界上最优秀的球员将齐聚一堂，迎接新的一届比赛。",
-               "location": "法国",
-               "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-10-21T20:00:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "1号场地",
-                     "description": "主摄像机",
-                     "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
@@ -583,28 +562,7 @@
             "subscribers": 0
          },
          "replays": [],
-         "events": [
-            {
-               "id": "pln_105",
-               "classement": 15,
-               "title": "PSG HAND vs HBC NANTES (2D)",
-               "description": "决定法国冠军头衔争夺的巅峰对决。",
-               "location": "雅高竞技场（ACCOR ARENA）, 法国",
-               "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-27T19:30:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "雅高竞技场（ACCOR ARENA）现场直播",
-                     "description": "比赛转播",
-                     "url": "https://cdn.jumpr.fr/sample_handball.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
