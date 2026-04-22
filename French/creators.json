@@ -562,28 +562,7 @@
             "subscribers": 0
          },
          "replays": [],
-         "events": [
-            {
-               "id": "pln_106",
-               "classement": 10,
-               "title": "Internationaux de France (2D)",
-               "description": "Les meilleurs joueurs du monde se réuniront pour une nouvelle édition.",
-               "location": "France",
-               "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-10-21T20:00:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Court 1",
-                     "description": "Caméra principale",
-                     "url": "https://cdn.jumpr.fr/sample_ffbad2.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
@@ -618,28 +597,7 @@
             "subscribers": 0
          },
          "replays": [],
-         "events": [
-            {
-               "id": "pln_105",
-               "classement": 15,
-               "title": "PSG HAND vs HBC NANTES (2D)",
-               "description": "Choc au sommet décisif pour la course au titre de champion de France.",
-               "location": "ACCOR ARENA, France",
-               "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-27T19:30:00+02:00",
-               "stereo": false,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "En direct de l'ACCOR ARENA",
-                     "description": "Diffusion du match",
-                     "url": "https://cdn.jumpr.fr/sample_handball.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
