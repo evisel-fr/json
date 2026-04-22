@@ -4,23 +4,23 @@
          "id": "cr_000",
          "name": "JUMPR VR",
          "description": "Bienvenue sur la chaîne officielle de JUMPR VR, votre plateforme de diffusion immersive. En plus d'héberger vos créateurs favoris, nous publions ici nos propres contenus originaux : démonstrations technologiques, expériences exclusives et événements en direct pour vous faire découvrir tout le potentiel de la réalité virtuelle et des multi-points de vue.",
-         "event_type": "tech",
+         "event_type": "",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://cdn.jumpr.fr/assets/jumpr_thumbnail.jpg",
-            "logo_16_9": "https://cdn.jumpr.fr/assets/jumpr_logo.jpg",
-            "logo_2_1": "https://cdn.jumpr.fr/assets/jumpr_logo_2_1.jpg",
-            "couverture": "https://cdn.jumpr.fr/assets/jumpr_cover.jpg",
-            "teaser_16_9": "https://cdn.jumpr.fr/assets/jumpr_teaser.jpg"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
+            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
+            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
+            "couverture": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
+            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png"
          },
          "model3D": "",
          "classement": 1,
          "colorHexa": "#FF00FF",
          "verified": true,
          "metrics": {
-            "followers": 500000,
-            "subscribers": 150000
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [],
          "events": [
@@ -28,9 +28,9 @@
                "id": "evt_live_jumpr_demo",
                "classement": 1,
                "title": "Démonstration JUMPR VR : L'avenir du divertissement",
-               "description": "ÉVÉNEMENT EN COURS - Découvrez la puissance de l'application JUMPR VR en direct. Naviguez instantanément entre différents points de vue (Immersion, Aérien, Public) et vivez une expérience totalement interactive.",
-               "location": "Métavers JUMPR",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/assets/demo_thumbnail.jpg",
+               "description": "Trailer JUMPR VR",
+               "location": "",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
                "teaser": "",
                "onLive": true,
                "start_time": "2026-04-22T16:30:00+02:00",
@@ -38,21 +38,9 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue Immersion totale",
-                     "description": "Au plus près de l'action",
-                     "url": "https://cdn.jumpr.fr/Demo/Immersion/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Vue Aérienne",
-                     "description": "Pour une vision stratégique",
-                     "url": "https://cdn.jumpr.fr/Demo/Aerien/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_03",
-                     "title": "Vue Public",
-                     "description": "Vivez l'ambiance de la foule",
-                     "url": "https://cdn.jumpr.fr/Demo/Public/playlist.m3u8"
+                     "title": "Trailer",
+                     "description": "Decouvrez JUMPR VR !",
+                     "url": "https://cdn.jumpr.fr/JUMPR_VR/trailer/playlist.m3u8"
                   }
                ]
             }
@@ -67,10 +55,10 @@
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
-            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
-            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
-            "couverture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Canal%2B_logo.svg/1280px-Canal%2B_logo.svg.png",
+            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
+            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
+            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
+            "couverture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/3840px-Logo_Canal%2B_1995.svg.png",
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_CANAL__0404095002_texture.glb",
@@ -392,28 +380,7 @@
                ]
             }
          ],
-         "events": [
-            {
-               "id": "evt_007_1",
-               "classement": 3,
-               "title": "Servette FC : En direct du stade",
-               "description": "Suivez le match en direct !",
-               "location": "Genève",
-               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Diffusion en direct",
-                     "description": "Caméra terrain",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
@@ -458,34 +425,7 @@
                ]
             }
          ],
-         "events": [
-            {
-               "id": "evt_008_1",
-               "classement": 6,
-               "title": "Orléans vs La Rochelle",
-               "description": "Match en direct, caméra derrière le panier.",
-               "location": "Orléans",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Orléans vs La Rochelle",
-                     "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Orléans vs La Rochelle",
-                     "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
