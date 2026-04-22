@@ -333,28 +333,7 @@
                ]
             }
          ],
-         "events": [
-            {
-               "id": "evt_007_1",
-               "classement": 3,
-               "title": "Servette FC : En direct du stade",
-               "description": "Suivez le match en direct !",
-               "location": "Genève",
-               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Diffusion en direct",
-                     "description": "Caméra terrain",
-                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
@@ -399,28 +378,7 @@
                ]
             }
          ],
-         "events": [
-            {
-               "id": "evt_008_1",
-               "classement": 6,
-               "title": "Orléans vs La Rochelle",
-               "description": "Match en direct, caméra derrière le panier.",
-               "location": "Orléans",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-03-17T13:00:00+01:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Orléans vs La Rochelle",
-                     "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Basket_1_60_fps/playlist_5k.m3u8"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
