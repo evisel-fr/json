@@ -3,7 +3,7 @@
       {
          "id": "cr_000",
          "name": "JUMPR VR",
-         "description": "Witamy na oficjalnym kanale JUMPR VR, Twojej immersyjnej platformie transmisyjnej. Oprócz hostowania Twoich ulubionych kanałów, publikujemy tutaj nasze własne, oryginalne treści: demonstracje technologiczne, ekskluzywne doświadczenia i wydarzenia na żywo, aby pomóc Ci odkryć pełny potencjał wirtualnej rzeczywistości.",
+         "description": "Witamy na oficjalnym kanale JUMPR VR, Twojej immersyjnej platformie transmisyjnej. Oprócz hostowania Twoich ulubionych kanałów, publikujemy tu własne, oryginalne treści: pokazy technologiczne, ekskluzywne doświadczenia i wydarzenia na żywo, aby pomóc Ci odkryć pełen potencjał wirtualnej rzeczywistości.",
          "event_type": "",
          "teaserVideo": "",
          "stereo": true,
@@ -16,7 +16,7 @@
          },
          "model3D": "",
          "classement": 1,
-         "colorHexa": "#FF00FF",
+         "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -31,7 +31,7 @@
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "Fragment z kamery na scenie",
+               "description": "Fragment z kamery scenicznej",
                "streams": [
                   {
                      "id": "stream_01",
@@ -48,7 +48,7 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "KSW (Konfrontacja Sztuk Walki) to wiodąca organizacja MMA w Europie. Odkryj epickie starcia najlepszych zawodników na kontynencie w elektryzującej atmosferze, uświetnione spektakularną oprawą i niezapomnianymi walkami.",
+         "description": "KSW (Konfrontacja Sztuk Walki) to czołowa organizacja MMA w Europie. Odkryj epickie starcia najlepszych zawodników kontynentu w elektryzującej atmosferze, napędzane spektakularną oprawą i niezapomnianymi walkami.",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
@@ -76,7 +76,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Pełna walka, kamera na klatkę",
+               "description": "Cała walka, kamera na klatkę",
                "streams": [
                   {
                      "id": "stream_01",
@@ -102,7 +102,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "Kanał Fight Nation to wiodąca platforma sportów walki we Francji. Uzyskaj wyłączny dostęp do prestiżowych gal, śledź rozwój wschodzących gwiazd i wspieraj wydarzenia charytatywne zrzeszające elitę tej dyscypliny.",
+         "description": "Kanał Fight Nation to główna platforma sportów walki we Francji. Zyskaj ekskluzywny dostęp do prestiżowych gal, śledź rozwój wschodzących gwiazd i wspieraj wydarzenia charytatywne gromadzące elitę tej dyscypliny.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -156,7 +156,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight rewolucjonizuje świat sportów walki, sprytnie łącząc klatkę MMA i ring do boksu tajskiego i kickboxingu. Zanurz się w sercu hybrydowego i innowacyjnego widowiska, w którym dyscypliny intensywnie się przenikają.",
+         "description": "Tek Fight rewolucjonizuje świat sportów walki, sprytnie łącząc klatkę MMA z ringiem do Muay Thai i kickboxingu. Zanurz się w sercu hybrydowego i innowacyjnego widowiska, w którym dyscypliny intensywnie się przenikają.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -169,7 +169,7 @@
          },
          "model3D": "",
          "classement": 4,
-         "colorHexa": "#00FFDD",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -184,7 +184,7 @@
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "stereo": true,
-               "description": "Pełna walka, kamera w czerwonym narożniku",
+               "description": "Cała walka, kamera z czerwonego narożnika",
                "streams": [
                   {
                      "id": "stream_01",
@@ -200,7 +200,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "23 maja w Hali Sportowej im. Jesse'ego Owensa klatka powróci wraz z MMA, dynamicznie rozwijającą się dyscypliną, która kontynuuje dziedzictwo boksu tajskiego.",
+               "description": "Tek Fight wielko powraca do hali Gymnasium Jesse Owens z wieczorem łączącym walki MMA i Muay Thai.",
                "location": "Francja",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
@@ -211,7 +211,7 @@
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "Na żywo z Hali Sportowej Jesse Owens",
+                     "description": "Na żywo z hali Gymnasium Jesse Owens",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
@@ -231,7 +231,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "Zanurz się w arenę 100% Fight, pionierskiej organizacji MMA we Francji. Odkryj walki o rzadkiej intensywności, śledź losy najbardziej zdeterminowanych zawodników i daj się ponieść rytmowi spektakularnych wydarzeń.",
+         "description": "Zanurz się w arenę 100% Fight, pionierskiej organizacji MMA we Francji. Odkryj walki o rzadkiej intensywności, śledź losy najbardziej zdeterminowanych zawodników i poczuj rytm spektakularnych wydarzeń.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -254,12 +254,12 @@
             {
                "id": "rep_004_1",
                "classement": 8,
-               "title": "100% Fight 62 (3D)",
+               "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "RODRIGUEZ VS CABREL KEMEZEU",
+               "description": "Cała walka, kamera na klatkę",
                "streams": [
                   {
                      "id": "stream_01",
@@ -285,7 +285,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "Kanał poświęcony sensacji francuskiego boksu, Bakary'emu Samake. Śledź jego przygotowania i intensywne sparingi, aby dotrzeć na sam szczyt światowej hierarchii.",
+         "description": "Kanał poświęcony francuskiej sensacji bokserskiej, Bakary'emu Samake. Śledź jego przygotowania i intensywne sparingi, by dotrzeć na szczyt światowej hierarchii.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -313,7 +313,7 @@
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
                "stereo": true,
-               "description": "Kamera ringu",
+               "description": "Fragment z kamery na ringu",
                "streams": [
                   {
                      "id": "stream_01",
@@ -339,7 +339,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "Kanał Servette FC otwiera przed Tobą kulisy klubu dzięki ekskluzywnym treściom!",
+         "description": "Kanał Servette FC otwiera przed Tobą kulisy klubu dzięki ekskluzywnym materiałom!",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -362,7 +362,7 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "Game Show na 135-lecie (3D)",
+               "title": "Game Show z okazji 135. rocznicy (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
@@ -393,7 +393,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Zanurz się w sercu boiska z Orléans Loiret Basket. Śledź mecze na żywo, odkrywaj na nowo najlepsze powtórki i uzyskaj dostęp do ekskluzywnych skrótów klubu.",
+         "description": "Zanurz się w serce boiska z Orléans Loiret Basket. Śledź mecze na żywo, odkrywaj na nowo najlepsze powtórki i zyskaj dostęp do ekskluzywnych, najważniejszych momentów klubu.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -432,7 +432,7 @@
                   {
                      "id": "stream_02",
                      "title": "",
-                     "description": "Kamera za koszem",
+                     "description": "Kamera zza tablicy",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
@@ -453,7 +453,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "Poczuj rytm najlepszych DJ-ów z Jeudi Electro. Odkryj ekskluzywne sety, występy na żywo zarejestrowane podczas najbardziej pamiętnych edycji i zanurz się w wyjątkowej energii obecnej sceny elektronicznej.",
+         "description": "Poczuj rytm najlepszych DJ-ów dzięki Jeudi Electro. Odkryj ekskluzywne sety, występy na żywo zarejestrowane podczas najbardziej pamiętnych edycji i zanurz się w wyjątkowej energii obecnej sceny elektronicznej.",
          "event_type": "music",
          "teaserVideo": "",
          "stereo": true,
@@ -476,7 +476,7 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "Edycja Thonon 2025 (3D)",
+               "title": "Edycja 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -507,7 +507,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "Oficjalny kanał Francuskiej Federacji Badmintona. Śledź największe zawody sezonu, kibicuj swoim drużynom i przeżywaj emocje w rytmie smeczów międzynarodowej elity.",
+         "description": "Oficjalny kanał Francuskiej Federacji Badmintona. Śledź największe zawody sezonu, kibicuj swoim drużynom i poczuj rytm smeczów międzynarodowej elity.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -542,7 +542,7 @@
       {
          "id": "cr_011",
          "name": "LNH",
-         "description": "Poczuj rytm LNH! Oglądaj starcia Liqui Moly StarLigue i zanurz się w samym sercu intensywności mistrzostw Francji w piłce ręcznej dzięki decydującym meczom.",
+         "description": "Poczuj rytm LNH! Oglądaj starcia Liqui Moly StarLigue i zanurz się w sercu intensywności mistrzostw Francji w piłce ręcznej z decydującymi meczami.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
