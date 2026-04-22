@@ -14,7 +14,7 @@
             "couverture": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
             "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png"
          },
-         "model3D": "",
+         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_JUMPR_VR_0422153850_texture.glb",
          "classement": 1,
          "colorHexa": "#FF00FF",
          "verified": true,
