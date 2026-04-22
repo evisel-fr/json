@@ -208,12 +208,12 @@
             {
                "id": "rep_004_1",
                "classement": 8,
-               "title": "100% Fight 62",
+               "title": "100% Fight 62 (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
+               "description": "RODRIGUEZ VS CABREL KEMEZEU",
                "streams": [
                   {
                      "id": "stream_01",
@@ -393,7 +393,7 @@
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "",
+               "description": "Extrait du premier quart-temps.",
                "streams": [
                   {
                      "id": "stream_01",
@@ -401,6 +401,12 @@
                      "description": "Caméra de touche",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/testb/playlist.m3u8"
                   }
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "Caméra derrière le palier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+                  },
                ]
             }
          ],
