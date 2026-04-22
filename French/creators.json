@@ -76,7 +76,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier caméra sur la cage",
+               "description": "Combat entier, caméra sur la cage",
                "streams": [
                   {
                      "id": "stream_01",
@@ -184,7 +184,7 @@
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier caméra coin rouge",
+               "description": "Combat entier, caméra coin rouge",
                "streams": [
                   {
                      "id": "stream_01",
@@ -200,7 +200,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "Le 23 mai au Gymnase Jesse Owens, le Tek Fight fera son grand retour avec une soirée mêlant combats de MMA et de Muay Thaï.",
+               "description": "Le Tek Fight fera son grand retour au Gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thaï.",
                "location": "France",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
@@ -259,7 +259,7 @@
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier caméra sur la cage",
+               "description": "Combat entier, caméra sur la cage",
                "streams": [
                   {
                      "id": "stream_01",
@@ -416,7 +416,7 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "Q1 Orléans – La Rochelle (3D)",
+               "title": "Q1 Orléans – La Rochelle (3D + multi point de vue)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
                "teaser": "",
