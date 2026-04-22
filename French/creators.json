@@ -8,13 +8,13 @@
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Logo_JUMPR_VR.png",
-            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Logo_JUMPR_VR.png",
-            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/Logo_JUMPR_VR.png",
-            "couverture": "https://cdn.jumpr.fr/Images/Logo_chaines/Logo_JUMPR_VR.png",
-            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Logo_JUMPR_VR.png"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "couverture": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png"
          },
-         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_JUMPR_VR_0422153850_texture.glb",
+         "model3D": "",
          "classement": 1,
          "colorHexa": "#FF00FF",
          "verified": true,
