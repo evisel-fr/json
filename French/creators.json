@@ -285,7 +285,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation, ses sparrings intensifs pour atteindre le sommet de la hiérarchie mondiale.",
+         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation et ses sparrings intensifs pour atteindre le sommet de la hiérarchie mondiale.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -393,7 +393,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct avec une qualité immersive, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs de votre équipe préférée.",
+         "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs du club.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -416,7 +416,7 @@
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "Q1 Orléans – La Rochelle (3D + multi point de vue)",
+               "title": "Orléans – La Rochelle (3D + multi POV)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
                "teaser": "",
@@ -453,7 +453,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "Vibrez au son des meilleurs DJs avec Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
+         "description": "Vibrez au son des meilleurs DJs avec les Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
          "event_type": "music",
          "teaserVideo": "",
          "stereo": true,
