@@ -23,28 +23,7 @@
             "subscribers": 0
          },
          "replays": [],
-         "events": [
-            {
-               "id": "evt_live_jumpr_demo",
-               "classement": 1,
-               "title": "Démonstration JUMPR VR : L'avenir du divertissement",
-               "description": "Trailer JUMPR VR",
-               "location": "",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_JUMPR_VR.png",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-04-22T16:30:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Trailer",
-                     "description": "Decouvrez JUMPR VR !",
-                     "url": "https://cdn.jumpr.fr/JUMPR_VR/trailer/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": []
       },
       {
