@@ -3,7 +3,7 @@
       {
          "id": "cr_000",
          "name": "JUMPR VR",
-         "description": "Bienvenue sur la chaîne officielle de JUMPR VR, votre plateforme de diffusion immersive. En plus d'héberger vos créateurs favoris, nous publions ici nos propres contenus originaux : démonstrations technologiques, expériences exclusives et événements en direct pour vous faire découvrir tout le potentiel de la réalité virtuelle.",
+         "description": "Bienvenue sur la chaîne officielle de JUMPR VR, votre plateforme de diffusion immersive. En plus d'héberger vos chaines favorites, nous publions ici nos propres contenus originaux : démonstrations technologiques, expériences exclusives et événements en direct pour vous faire découvrir tout le potentiel de la réalité virtuelle.",
          "event_type": "",
          "teaserVideo": "",
          "stereo": true,
@@ -22,7 +22,26 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 6,
+               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance. (2D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "teaser": "",
+               "stereo": false,
+               "description": "Caméra de la scène",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [],
          "pubs": []
       },
@@ -181,7 +200,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui perpétue l'héritage du Muay Thaï.",
+               "description": "Le 23 mai au Gymnase Jesse Owens, le Tek Fight fera son grand retour avec une soirée mêlant combats de MMA et de Muay Thaï.",
                "location": "France",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
@@ -266,7 +285,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation, ses sparrings intensifs et ses combats officiels pour atteindre le sommet de la hiérarchie mondiale.",
+         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation, ses sparrings intensifs pour atteindre le sommet de la hiérarchie mondiale.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -318,63 +337,9 @@
          ]
       },
       {
-         "id": "cr_006",
-         "name": "EFC 27",
-         "description": "Le club historique de l'Évreux FC 27 vous ouvre ses portes. Suivez le quotidien d'une académie de football réputée pour sa formation d'élite, revivez les matchs décisifs et découvrez les coulisses d'une institution formatrice de talents internationaux.",
-         "event_type": "sport",
-         "teaserVideo": "",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
-            "logo_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
-            "logo_2_1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
-            "couverture": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png",
-            "teaser_16_9": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_%C3%89vreux_FC_27_-_2018.svg/1280px-Logo_%C3%89vreux_FC_27_-_2018.svg.png"
-         },
-         "model3D": "",
-         "classement": 7,
-         "colorHexa": "#FF0055",
-         "verified": true,
-         "metrics": {
-            "followers": 0,
-            "subscribers": 0
-         },
-         "replays": [
-            {
-               "id": "rep_002_1",
-               "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or (2D)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
-               "teaser": "",
-               "stereo": false,
-               "description": "Caméra de la scène",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
-         "pubs": [
-            {
-               "id": "pub_01",
-               "thumbnail_16_9": "https://www.sportstrategies.com/wp-content/uploads/2019/05/AXA-x-Serena-Williams.jpg"
-            },
-            {
-               "id": "pub_02",
-               "thumbnail_16_9": "https://dirigeants-entreprise.com/content/uploads/leclerc.png"
-            }
-         ]
-      },
-      {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous propose des matchs en direct, des replays de légende et des contenus exclusifs retraçant la riche histoire du club emblématique de Genève.",
+         "description": "La chaîne du Servette FC vous ouvre les portes des coulisses du club avec des contenus exclusifs !",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
