@@ -45,14 +45,14 @@
          "colorHexa": "#EE1D23",
          "verified": true,
          "metrics": {
-            "followers": 1500000,
-            "subscribers": 850000
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_001_3",
                "classement": 1,
-               "title": "AJ VS LISEK",
+               "title": "AJ VS LISEK (3D + PIP)",
                "date": "2025-12-20T20:30:00+02:00",
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172852.png",
                "teaser": "",
@@ -90,14 +90,14 @@
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
-            "followers": 33400,
-            "subscribers": 15600
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_002_1",
                "classement": 10,
-               "title": "Legacy Fight Night",
+               "title": "Legacy Fight Night (3D)",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
@@ -135,14 +135,14 @@
          "colorHexa": "#00FFDD",
          "verified": true,
          "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_003_1",
                "classement": 9,
-               "title": "Muay Thaï 1",
+               "title": "LATRECHE VS CAVARRA (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
@@ -162,10 +162,10 @@
             {
                "id": "pln_104",
                "classement": 1,
-               "title": "Tek Fight 5",
+               "title": "Tek Fight 5 (2D)",
                "description": "Le 23 mai au Gymnase Jesse Owens, la cage fera son retour avec le MMA, une discipline en plein essor qui perpétue l'héritage du Muay Thaï.",
                "location": "France",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
                "onLive": false,
                "start_time": "2026-05-23T19:30:00+02:00",
@@ -201,8 +201,8 @@
          "colorHexa": "#FFAA00",
          "verified": true,
          "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
@@ -213,7 +213,7 @@
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "RODRIGUEZ VS CABREL KEMEZEU",
+               "description": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "streams": [
                   {
                      "id": "stream_01",
@@ -246,14 +246,14 @@
          "colorHexa": "#A100FF",
          "verified": true,
          "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_002_1",
                "classement": 5,
-               "title": "Sparring Bakary Samake",
+               "title": "Sparring Bakary Samake (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
@@ -291,14 +291,14 @@
          "colorHexa": "#00CCFF",
          "verified": true,
          "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or",
+               "title": "Retour du vainqueur du Ballon d'Or (2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
@@ -336,14 +336,14 @@
          "colorHexa": "#FF3344",
          "verified": true,
          "metrics": {
-            "followers": 12800,
-            "subscribers": 5200
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "Match d'exhibition 135ème anniversaire",
+               "title": "Game Show 135ème anniversaire (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
@@ -378,19 +378,19 @@
          },
          "model3D": "",
          "classement": 9,
-         "colorHexa": "#00FFCC",
+         "colorHexa": "#FFFF00",
          "verified": true,
          "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_008_1",
                "classement": 2,
-               "title": "Orléans – La Rochelle (Q1)",
+               "title": "Q1 Orléans – La Rochelle (3D)",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://www.francebleu.fr/pikapi/images/7561ab1f-9573-4c11-87f1-920ee5abf640/1200x680?webp=false",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
                "teaser": "",
                "stereo": true,
                "description": "",
@@ -426,14 +426,14 @@
          "colorHexa": "#00FF44",
          "verified": true,
          "metrics": {
-            "followers": 25700,
-            "subscribers": 12100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "Edition 2025 Thonon",
+               "title": "Edition 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -471,15 +471,15 @@
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
-            "followers": 18500,
-            "subscribers": 7200
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [],
          "events": [
             {
                "id": "pln_106",
                "classement": 10,
-               "title": "Internationaux de France",
+               "title": "Internationaux de France (2D)",
                "description": "Les meilleurs joueurs du monde se réuniront pour une nouvelle édition.",
                "location": "France",
                "thumbnail_16_9": "https://badmania.fr/images/photos_membres/4924_ifb2024_an-se-young_j7.jpg",
@@ -518,15 +518,15 @@
          "colorHexa": "#22EEFF",
          "verified": true,
          "metrics": {
-            "followers": 54200,
-            "subscribers": 22100
+            "followers": 0,
+            "subscribers": 0
          },
          "replays": [],
          "events": [
             {
                "id": "pln_105",
                "classement": 15,
-               "title": "PSG HAND vs HBC NANTES",
+               "title": "PSG HAND vs HBC NANTES (2D)",
                "description": "Choc au sommet décisif pour la course au titre de champion de France.",
                "location": "ACCOR ARENA, France",
                "thumbnail_16_9": "https://www.lnh.fr/medias/news/2026-01-07-match-psg-nantes-accor-arena-27-mai-173126.jpg",
