@@ -31,7 +31,7 @@
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "Extrait caméra de la scène",
+               "description": "Extrait caméra scène",
                "streams": [
                   {
                      "id": "stream_01",
@@ -555,7 +555,7 @@
          },
          "model3D": "",
          "classement": 12,
-         "colorHexa": "#22EEFF",
+         "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
             "followers": 0,
