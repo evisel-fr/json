@@ -225,7 +225,7 @@
          },
          "model3D": "",
          "classement": 5,
-         "colorHexa": "#FFAA00",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -255,11 +255,11 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail_16_9": "https://parisfight.fr/wp-content/uploads/2026/01/collection-Legacy-Metal-Boxe-1.webp"
+               "thumbnail_16_9": "https://metal-boxe.com/cdn/shop/articles/Comment_choisir_son_casque_de_boxe_selon_sa_pratique_et_son_niveau_ed5de64e-06b7-4a3a-94bd-3469a8063445.jpg?v=1775546119&width=1200"
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://www.mcdo-strasbourg.fr/wp-content/uploads/2025/09/Capture-decran-2025-09-26-145937-700x314.png"
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Partenaire_100%_fight.png"
             }
          ]
       },
@@ -275,11 +275,11 @@
             "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "logo_2_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
             "couverture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
-            "teaser_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q"
+            "teaser_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s"
          },
          "model3D": "",
          "classement": 6,
-         "colorHexa": "#A100FF",
+         "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -309,7 +309,7 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail_16_9": "https://static.wixstatic.com/media/befc33_fc882f6722894a62be68da6492b5b551~mv2.png/v1/fill/w_431,h_607,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/samake%20promotion.png"
+               "thumbnail_16_9": "https://media3.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Ff96%2F141%2Fbce18965dc8b6f01c7d3afa152%2Fsuper-welters-samake-jouera-une-demi-finale-mondiale%7Cbakary_samake-03-12-2025-1024x536.jpg?facedetect=1&quality=85"
             },
             {
                "id": "pub_02",
@@ -333,7 +333,7 @@
          },
          "model3D": "",
          "classement": 7,
-         "colorHexa": "#00CCFF",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -367,7 +367,7 @@
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://s3.static-footeo.com/uploads/evreux-fc27/sponsors/e-leclerc-normanville__stgwdk.png"
+               "thumbnail_16_9": "https://dirigeants-entreprise.com/content/uploads/leclerc.png"
             }
          ]
       },
@@ -501,7 +501,7 @@
          },
          "model3D": "",
          "classement": 10,
-         "colorHexa": "#00FF44",
+         "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -535,7 +535,7 @@
             },
             {
                "id": "pub_02",
-               "thumbnail_16_9": "https://ats-sonlumiere.com/wp-content/uploads/2024/12/cropped-IMG_5826.jpg"
+               "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/02/Logo-Funky-Factory.jpg"
             }
          ]
       },
