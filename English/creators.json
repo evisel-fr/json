@@ -412,32 +412,7 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [
-            {
-               "id": "rep_008_1",
-               "classement": 2,
-               "title": "Orléans – La Rochelle (3D + multi POV)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "First quarter excerpt.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "Sideline camera",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/testb/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "Camera behind the backboard",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "replays": [],
          "events": [],
          "pubs": [
             {
