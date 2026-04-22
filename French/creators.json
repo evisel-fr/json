@@ -42,7 +42,7 @@
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
          "classement": 0,
-         "colorHexa": "#FFCD00",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -150,7 +150,7 @@
          },
          "model3D": "",
          "classement": 4,
-         "colorHexa": "#00FFDD",
+         "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
             "followers": 0,
