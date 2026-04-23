@@ -3,7 +3,7 @@
       {
          "id": "cr_000",
          "name": "JUMPR VR",
-         "description": "Bienvenue sur la chaîne officielle de JUMPR VR, votre plateforme de diffusion immersive. En plus d'héberger vos chaines favorites, nous publions ici nos propres contenus originaux : démonstrations technologiques, expériences exclusives et événements en direct pour vous faire découvrir tout le potentiel de la réalité virtuelle.",
+         "description": "JUMPR VRの公式チャンネルへようこそ。ここは没入型配信プラットフォームです。お気に入りのチャンネルをホストするだけでなく、テクノロジーのデモ、限定体験、ライブイベントなどのオリジナルコンテンツを公開し、バーチャルリアリティの可能性をすべてご紹介します。",
          "event_type": "",
          "teaserVideo": "",
          "stereo": true,
@@ -26,12 +26,12 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
+               "title": "バロンドール受賞者の幼少期のクラブへの帰還 (2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
                "stereo": false,
-               "description": "Extrait caméra scène",
+               "description": "ステージカメラの映像",
                "streams": [
                   {
                      "id": "stream_01",
@@ -48,7 +48,7 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "Le KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une atmosphère électrique, animée par des mises en scène spectaculaires et des combats inoubliables.",
+         "description": "KSW（Konfrontacja Sztuk Walki）は、ヨーロッパを代表するMMA団体です。壮大な演出と忘れられない戦いで盛り上がる熱狂的な雰囲気の中で、大陸最高峰のファイターたちによる壮絶な対決をお楽しみください。",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
@@ -76,7 +76,7 @@
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier, caméra sur la cage",
+               "description": "試合全体、ケージ上のカメラ",
                "streams": [
                   {
                      "id": "stream_01",
@@ -102,7 +102,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "La chaîne Fight Nation est la plateforme de référence pour les sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs réunis par l'élite de la discipline.",
+         "description": "Fight Nationチャンネルは、フランスにおける格闘技の代表的なプラットフォームです。権威あるイベントへの独占アクセス、期待の星の成長の追跡、そしてこの分野のエリートが集うチャリティーイベントをサポートします。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -126,7 +126,7 @@
                "id": "rep_002_1",
                "classement": 10,
                "title": "Legacy Fight Night (3D)",
-               "description": "Extrait du gala",
+               "description": "イベントからの抜粋",
                "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
@@ -134,7 +134,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue 1",
+                     "title": "ビュー 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
@@ -156,7 +156,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight révolutionne le monde des sports de combat en combinant astucieusement une cage de MMA et un ring pour le Muay Thaï et le kickboxing. Plongez au cœur d'un spectacle hybride et innovant où les disciplines se croisent avec intensité.",
+         "description": "Tek Fightは、MMAのケージとムエタイやキックボクシングのリングを巧みに組み合わせることで、格闘技の世界に革命をもたらします。異なる競技が激しく交差する、革新的でハイブリッドなスペクタクルの中心に飛び込みましょう。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -184,7 +184,7 @@
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier, caméra coin rouge",
+               "description": "試合全体、赤コーナーのカメラ",
                "streams": [
                   {
                      "id": "stream_01",
@@ -200,8 +200,8 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "Le Tek Fight fera son grand retour au Gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thaï.",
-               "location": "France",
+               "description": "Tek Fightがジェシー・オーエンズ体育館に大々的に戻ってきます。MMAとムエタイの試合が融合した一夜をお届けします。",
+               "location": "フランス",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
                "onLive": false,
@@ -211,7 +211,7 @@
                   {
                      "id": "stream_01",
                      "title": "Tek Fight 5",
-                     "description": "En direct du Gymnase Jesse Owens",
+                     "description": "ジェシー・オーエンズ体育館から生中継",
                      "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
@@ -231,7 +231,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "Plongez dans l'arène du 100% Fight, l'organisation pionnière du MMA en France. Découvrez des combats d'une intensité rare, suivez le parcours des combattants les plus déterminés et vibrez au rythme des événements spectaculaires.",
+         "description": "フランスのMMAのパイオニアである100% Fightのアリーナに飛び込みましょう。類まれな激しい戦いを発見し、最も決意に満ちたファイターたちの軌跡を追い、壮大なイベントのリズムに合わせて盛り上がってください。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -259,7 +259,7 @@
                "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
                "teaser": "",
                "stereo": true,
-               "description": "Combat entier, caméra sur la cage",
+               "description": "試合全体、ケージ上のカメラ",
                "streams": [
                   {
                      "id": "stream_01",
@@ -285,7 +285,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation et ses sparrings intensifs pour atteindre le sommet de la hiérarchie mondiale.",
+         "description": "フランスボクシング界のセンセーション、バカリ・サマケの専門チャンネル。世界ランキングの頂点を目指すための彼の準備と集中的なスパーリングをフォローしてください。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -308,12 +308,12 @@
             {
                "id": "rep_002_1",
                "classement": 9,
-               "title": "Sparring Bakary Samake (3D)",
+               "title": "スパーリング バカリ・サマケ (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
                "stereo": true,
-               "description": "Extrait caméra ring",
+               "description": "リングカメラの映像",
                "streams": [
                   {
                      "id": "stream_01",
@@ -339,7 +339,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "La chaîne du Servette FC vous ouvre les portes des coulisses du club avec des contenus exclusifs !",
+         "description": "セルヴェットFCのチャンネルでは、独占コンテンツでクラブの舞台裏への扉を開きます！",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -362,12 +362,12 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "Game Show 135ème anniversaire (3D)",
+               "title": "135周年記念ゲームショー (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "stereo": true,
-               "description": "Entraînement et Game Show",
+               "description": "トレーニングとゲームショー",
                "streams": [
                   {
                      "id": "stream_01",
@@ -393,7 +393,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs du club.",
+         "description": "オルレアン・ロワレ・バスケットとともにコートの中心に飛び込みましょう。試合をライブで視聴し、最高のリプレイを再発見し、クラブの独占的なハイライトにアクセスしてください。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -428,7 +428,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "Vibrez au son des meilleurs DJs avec les Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
+         "description": "Jeudi Electroで最高のDJたちのサウンドに合わせて盛り上がりましょう。独占的なセットや、最も記憶に残るイベントで録音されたライブパフォーマンスを発見し、現在のエレクトロニックシーンのユニークなエネルギーに浸ってください。",
          "event_type": "music",
          "teaserVideo": "",
          "stereo": true,
@@ -451,12 +451,12 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "Edition 2025 Thonon (3D)",
+               "title": "2025年 トノン エディション (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Extrait caméra DJ",
+               "description": "DJカメラの映像",
                "streams": [
                   {
                      "id": "stream_01",
@@ -482,7 +482,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes et vibrez au rythme des smashes de l'élite internationale.",
+         "description": "フランスバドミントン連盟の公式チャンネル。シーズンの主要な大会をフォローし、チームを応援し、国際的なエリートたちのスマッシュのリズムに合わせて盛り上がりましょう。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -517,7 +517,7 @@
       {
          "id": "cr_011",
          "name": "LNH",
-         "description": "Vibrez au rythme de la LNH ! Regardez les chocs de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs.",
+         "description": "LNHのリズムに合わせて盛り上がりましょう！リキモリ・スターリーグの激突を視聴し、決定的な試合でフランスハンドボール選手権の激しさの中心に飛び込んでください。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
