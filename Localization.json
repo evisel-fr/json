@@ -61,7 +61,8 @@
     "NoFavSaved": "No favorite saved",
     "NoSubSaved": "No subscription",
     "NoBuyReplaySaved": "No replay bought",
-    "NoBuyLiveSaved": "No live bought"
+    "NoBuyLiveSaved": "No live bought",
+    "HeureLocale" : "Local Time"
   },
   "French": {
     "Home": "Accueil",
@@ -125,7 +126,8 @@
     "NoFavSaved": "Aucun favori enregistré",
     "NoSubSaved": "Aucun abonnement",
     "NoBuyReplaySaved": "Aucun replay acheté",
-    "NoBuyLiveSaved": "Aucun live acheté"
+    "NoBuyLiveSaved": "Aucun live acheté",
+    "HeureLocale" : "Heure Locale"
   },
   "Chinese": {
     "Home": "主页",
@@ -189,7 +191,8 @@
     "NoFavSaved": "没有保存的收藏",
     "NoSubSaved": "没有订阅",
     "NoBuyReplaySaved": "没有购买的回放",
-    "NoBuyLiveSaved": "没有购买的直播"
+    "NoBuyLiveSaved": "没有购买的直播",
+    "HeureLocale" : "当地时间"
   },
   "Polish": {
     "Home": "Strona główna",
@@ -253,6 +256,7 @@
     "NoFavSaved": "Brak zapisanych ulubionych",
     "NoSubSaved": "Brak subskrypcji",
     "NoBuyReplaySaved": "Brak zakupionych powtórek",
-    "NoBuyLiveSaved": "Brak zakupionych transmisji na żywo"
+    "NoBuyLiveSaved": "Brak zakupionych transmisji na żywo",
+    "HeureLocale" : "Czas lokalny"
   }
 }
