@@ -3,7 +3,7 @@
       {
          "id": "cr_000",
          "name": "JUMPR VR",
-         "description": "欢迎来到 JUMPR VR 官方频道，您的沉浸式广播平台。除了托管您喜爱的频道外，我们还在这里发布原创内容：技术演示、独家体验和现场活动，带您探索虚拟现实的无限潜力。",
+         "description": "欢迎来到 JUMPR VR 官方频道，您的沉浸式转播平台。除了托管您喜爱的频道外，我们还在这里发布我们自己的原创内容：技术演示、独家体验和现场直播活动，带您发现虚拟现实的无限潜力。",
          "event_type": "",
          "teaserVideo": "",
          "stereo": true,
@@ -26,7 +26,7 @@
             {
                "id": "rep_002_1",
                "classement": 6,
-               "title": "金球奖得主重返童年俱乐部 (2D)",
+               "title": "金球奖得主回归童年俱乐部 (2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
@@ -48,7 +48,7 @@
       {
          "id": "cr_001",
          "name": "KSW",
-         "description": "KSW (Konfrontacja Sztuk Walki) 是欧洲首屈一指的综合格斗赛事组织。在令人惊叹的舞台布置和难忘的对决中，体验欧洲顶尖拳手之间在热烈气氛下的史诗级碰撞。",
+         "description": "KSW (Konfrontacja Sztuk Walki) 是欧洲首屈一指的综合格斗 (MMA) 组织。在壮观的舞台布置和令人难忘的战斗所营造的狂热氛围中，探索欧洲大陆顶尖格斗家之间的史诗级对决。",
          "event_type": "sport",
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
@@ -87,7 +87,28 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_live_ksw",
+               "classement": 1,
+               "title": "KSW 预告片",
+               "description": "",
+               "location": "波兰",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+               "onLive": true,
+               "start_time": "2026-04-18T20:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "预告片",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
@@ -102,7 +123,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "Fight Nation 频道是法国格斗运动的首选平台。独家观看久负盛名的赛事，关注新星的成长，并支持汇聚该领域精英的慈善活动。",
+         "description": "Fight Nation 频道是法国格斗运动的权威平台。获取独家权限观看顶级赛事，见证冉冉升起的新星的成长，并支持汇聚该领域精英的慈善活动。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -125,7 +146,7 @@
             {
                "id": "rep_002_1",
                "classement": 10,
-               "title": "Legacy Fight Night (3D)",
+               "title": "Legacy 搏击之夜 (3D)",
                "description": "赛事片段",
                "date": "2025-11-10T21:00:00+02:00",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
@@ -141,7 +162,28 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_live_fightnation",
+               "classement": 1,
+               "title": "Legacy 搏击之夜",
+               "description": "Legacy 搏击之夜赛事片段",
+               "location": "法国",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-24T12:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "擂台视角",
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
@@ -156,7 +198,7 @@
       {
          "id": "cr_003",
          "name": "Tek Fight",
-         "description": "Tek Fight 巧妙地将综合格斗八角笼与泰拳及踢拳的擂台结合，彻底改变了格斗运动世界。沉浸在一场跨界、创新的视觉盛宴中，各项目在这里激烈交锋。",
+         "description": "Tek Fight 将综合格斗八角笼与泰拳和自由搏击的擂台巧妙结合，正在彻底改变格斗运动世界。潜入这场混合了各种格斗技巧、充满激烈碰撞的创新赛事的中心。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -200,7 +242,7 @@
                "id": "pln_104",
                "classement": 1,
                "title": "Tek Fight 5 (2D)",
-               "description": "Tek Fight 将在杰西·欧文斯体育馆隆重回归，为您呈现一个融合综合格斗和泰拳比赛的夜晚。",
+               "description": "Tek Fight 将强势回归杰西·欧文斯体育馆，为您带来一场融合了综合格斗和泰拳的精彩对决。",
                "location": "法国",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
@@ -231,7 +273,7 @@
       {
          "id": "cr_004",
          "name": "100% Fight",
-         "description": "走进法国 MMA 先驱组织 100% Fight 的竞技场。发现罕见强度的战斗，追随最坚定的拳手的足迹，在壮观的赛事中感受震撼。",
+         "description": "潜入法国先锋综合格斗组织 100% Fight 的竞技场。发现罕见的高强度战斗，跟随最坚定格斗家的旅程，并随着壮观赛事的节奏而震动。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -285,7 +327,7 @@
       {
          "id": "cr_005",
          "name": "Bakary Samake",
-         "description": "致力于法国拳击界红人 Bakary Samake 的频道。关注他的备战和高强度实战训练，看他如何登顶世界排名巅峰。",
+         "description": "专为法国拳击界红人 Bakary Samake 打造的频道。关注他的备战情况和高强度实战训练，看他如何登顶世界排名榜首。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -308,7 +350,7 @@
             {
                "id": "rep_002_1",
                "classement": 9,
-               "title": "Sparring Bakary Samake (3D)",
+               "title": "Bakary Samake 实战训练 (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
                "teaser": "",
@@ -339,7 +381,7 @@
       {
          "id": "cr_007",
          "name": "Servette FC",
-         "description": "Servette FC 频道为您打开俱乐部幕后的大门，提供独家内容！",
+         "description": "Servette FC 频道通过独家内容为您打开俱乐部幕后的大门！",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -362,12 +404,12 @@
             {
                "id": "rep_005_1",
                "classement": 3,
-               "title": "135周年比赛秀 (3D)",
+               "title": "135 周年纪念游戏节目 (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
                "teaser": "",
                "stereo": true,
-               "description": "训练与比赛秀",
+               "description": "训练与游戏节目",
                "streams": [
                   {
                      "id": "stream_01",
@@ -393,7 +435,7 @@
       {
          "id": "cr_008",
          "name": "Orléans Loiret Basket",
-         "description": "与 Orléans Loiret Basket 一起深入球场中心。观看现场直播比赛，重温最佳回放，并获取俱乐部的独家高光时刻。",
+         "description": "与 Orléans Loiret Basket 一起潜入球场中心。观看现场直播比赛，重温最佳回放，并访问俱乐部的独家精彩片段。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -428,7 +470,7 @@
       {
          "id": "cr_009",
          "name": "Jeudi Electro",
-         "description": "在 Jeudi Electro 感受顶尖 DJ 的音乐律动。探索独家演出，重温最难忘的现场录音，沉浸在当今电子音乐界独有的能量中。",
+         "description": "跟随 Jeudi Electro 与最棒的 DJ 的音乐一起舞动。探索独家演出，最难忘的现场表演录像，并沉浸在当前电子音乐舞台的独特活力中。",
          "event_type": "music",
          "teaserVideo": "",
          "stereo": true,
@@ -451,7 +493,7 @@
             {
                "id": "rep_002_1",
                "classement": 4,
-               "title": "2025 托农版 (3D)",
+               "title": "2025 年托农站 (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -467,7 +509,28 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_live_jeudielectro",
+               "classement": 1,
+               "title": "2025 年托农站",
+               "description": "顶级电子音乐席卷托农。在前排感受 DJ 的精彩演出。",
+               "location": "法国，托农",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-24T12:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "DJ 控制台视角",
+                     "description": "现场混音",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
@@ -482,7 +545,7 @@
       {
          "id": "cr_010",
          "name": "FFBAD",
-         "description": "法国羽毛球联合会官方频道。关注本赛季最盛大的比赛，为您的球队欢呼，并感受国际精英扣杀的震撼节奏。",
+         "description": "法国羽毛球联合会官方频道。关注本赛季最盛大的比赛，为您支持的队伍欢呼，并随着国际精英扣杀的节奏而激动。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -517,7 +580,7 @@
       {
          "id": "cr_011",
          "name": "LNH",
-         "description": "感受 LNH 的节奏！观看 Liqui Moly StarLigue 的激烈对决，深入法国手球锦标赛的关键比赛，体验其中的紧张刺激。",
+         "description": "感受 LNH（法国国家手球联赛）的节奏！观看 Liqui Moly StarLigue 的激烈交锋，并在决定性比赛中深入体验法国手球锦标赛的狂热。",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
