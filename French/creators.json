@@ -239,22 +239,22 @@
          ],
          "events": [
             {
-               "id": "evt_live_tekfight",
+               "id": "pln_104",
                "classement": 1,
-               "title": "LATRECHE VS CAVARRA",
-               "description": "Le combat événement entre Latreche et Cavarra en direct.",
+               "title": "Tek Fight 5 (2D)",
+               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
                "location": "France",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
-               "onLive": true,
-               "start_time": "2026-04-24T12:00:00+02:00",
+               "onLive": false,
+               "start_time": "2026-05-23T19:30:00+02:00",
                "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue Octogone",
-                     "description": "Caméra coin rouge",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                     "title": "Tek Fight 5",
+                     "description": "En direct du gymnase Jesse Owens",
+                     "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
             }
