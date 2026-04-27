@@ -1,0 +1,615 @@
+{
+   "creators": [
+      {
+         "id": "cr_000",
+         "name": "JUMPR VR",
+         "description": "Bienvenue sur la chaîne officielle de JUMPR VR, votre plateforme de diffusion immersive. En plus d'héberger vos chaines favorites, nous publions ici nos propres contenus originaux : démonstrations technologiques, expériences exclusives et événements en direct pour vous faire découvrir tout le potentiel de la réalité virtuelle.",
+         "event_type": "",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "couverture": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png",
+            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png"
+         },
+         "model3D": "",
+         "classement": 1,
+         "colorHexa": "#ffffff",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 6,
+               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "teaser": "",
+               "stereo": false,
+               "description": "Extrait caméra scène",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": []
+      },
+      {
+         "id": "cr_001",
+         "name": "KSW",
+         "description": "Le KSW (Konfrontacja Sztuk Walki) est la première organisation de MMA en Europe. Découvrez les affrontements épiques des meilleurs combattants du continent dans une atmosphère électrique, animée par des mises en scène spectaculaires et des combats inoubliables.",
+         "event_type": "sport",
+         "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
+            "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
+         },
+         "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
+         "classement": 0,
+         "colorHexa": "#FF0055",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_001_5",
+               "classement": 1,
+               "title": "MORELLI VS SURDYN (3D)",
+               "date": "2025-12-20T18:00:00+02:00",
+               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Combat entier, caméra sur la cage",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_live_ksw",
+               "classement": 1,
+               "title": "KSW trailer",
+               "description": "",
+               "location": "Pologne",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
+               "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
+               "onLive": true,
+               "start_time": "2026-04-18T20:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "Bande-annonce",
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://forexclub.pl/wp-content/uploads/2024/09/zlatan-ibrahimovic-xtb.jpg?v=1727081078"
+            }
+         ]
+      },
+      {
+         "id": "cr_002",
+         "name": "FIGHT NATION",
+         "description": "La chaîne Fight Nation est la plateforme de référence pour les sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs réunis par l'élite de la discipline.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+            "logo_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+            "logo_2_1": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+            "couverture": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+            "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
+         },
+         "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
+         "classement": 3,
+         "colorHexa": "#FF0055",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 10,
+               "title": "Legacy Fight Night (3D)",
+               "description": "Extrait du gala",
+               "date": "2025-11-10T21:00:00+02:00",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue ring",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_live_fightnation",
+               "classement": 1,
+               "title": "Legacy Fight Night",
+               "description": "Extrait du gala Legacy Fight Night",
+               "location": "France",
+               "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-24T12:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Flux Principal",
+                     "description": "Vue ring",
+                     "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://www.sportbusiness.club/app/uploads/2025/04/Federation-francaise-de-boxe-FFB-1-Logo.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://ffkmda-boutique.fr/wp-content/uploads/2023/09/1920x960-NEW.jpg"
+            }
+         ]
+      },
+      {
+         "id": "cr_003",
+         "name": "Tek Fight",
+         "description": "Tek Fight révolutionne le monde des sports de combat en combinant astucieusement une cage de MMA et un ring pour le Muay Thaï et le kickboxing. Plongez au cœur d'un spectacle hybride et innovant où les disciplines se croisent avec intensité.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
+            "logo_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
+            "logo_2_1": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
+            "couverture": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
+            "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
+         },
+         "model3D": "",
+         "classement": 4,
+         "colorHexa": "#FF0055",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_003_1",
+               "classement": 5,
+               "title": "LATRECHE VS CAVARRA (3D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "teaser": "",
+               "stereo": true,
+               "description": "Combat entier, caméra coin rouge",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "pln_104",
+               "classement": 1,
+               "title": "Tek Fight 5 (2D)",
+               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
+               "location": "France",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-23T19:30:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Tek Fight 5",
+                     "description": "En direct du gymnase Jesse Owens",
+                     "url": "https://cdn.jumpr.fr/sample5.mp4"
+                  }
+               ]
+            }
+         ],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://www.sportstrategies.com/wp-content/uploads/2019/05/AXA-x-Serena-Williams.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://www.zone-outillage.fr/sites/default/files/styles/image_900/public/visuels/actus/main/2613/gamme-xgt-makita-40v-sans-fil-03.jpg?itok=dIZwlKRu"
+            }
+         ]
+      },
+      {
+         "id": "cr_004",
+         "name": "100% Fight",
+         "description": "Plongez dans l'arène du 100% Fight, l'organisation pionnière du MMA en France. Découvrez des combats d'une intensité rare, suivez le parcours des combattants les plus déterminés et vibrez au rythme des événements spectaculaires.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+            "logo_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+            "logo_2_1": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+            "couverture": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+            "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
+         },
+         "model3D": "",
+         "classement": 5,
+         "colorHexa": "#FF0055",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_004_1",
+               "classement": 8,
+               "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail_16_9": "https://images.tapology.com/poster_images/135348/profile/%F0%9F%94%A5_LE_FER_EST_DE_RETOUR_!_%F0%9F%94%A5L%E2%80%99%C3%A9dition__62_du_French_%C3%89lite_Ranking_arrive_le_08_novembre_2025_%C3%A0_A.jpg?1761658650",
+               "teaser": "",
+               "stereo": true,
+               "description": "Combat entier, caméra sur la cage",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/100%Fight_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://metal-boxe.com/cdn/shop/articles/Comment_choisir_son_casque_de_boxe_selon_sa_pratique_et_son_niveau_ed5de64e-06b7-4a3a-94bd-3469a8063445.jpg?v=1775546119&width=1200"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Partenaire_100%_fight.png"
+            }
+         ]
+      },
+      {
+         "id": "cr_005",
+         "name": "Bakary Samake",
+         "description": "La chaîne dédiée à la sensation de la boxe française, Bakary Samake. Suivez sa préparation et ses sparrings intensifs pour atteindre le sommet de la hiérarchie mondiale.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
+            "logo_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
+            "logo_2_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
+            "couverture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
+            "teaser_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s"
+         },
+         "model3D": "",
+         "classement": 6,
+         "colorHexa": "#ffffff",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 9,
+               "title": "Sparring Bakary Samake (3D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
+               "teaser": "",
+               "stereo": true,
+               "description": "Extrait caméra ring",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Bakary_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://media3.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Ff96%2F141%2Fbce18965dc8b6f01c7d3afa152%2Fsuper-welters-samake-jouera-une-demi-finale-mondiale%7Cbakary_samake-03-12-2025-1024x536.jpg?facedetect=1&quality=85"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://www.pa-sport.fr/wp-content/uploads/Carte-Samake-Promotion-1.jpg"
+            }
+         ]
+      },
+      {
+         "id": "cr_007",
+         "name": "Servette FC",
+         "description": "La chaîne du Servette FC vous ouvre les portes des coulisses du club avec des contenus exclusifs !",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "logo_2_1": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "couverture": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg",
+            "teaser_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg"
+         },
+         "model3D": "",
+         "classement": 8,
+         "colorHexa": "#FF3344",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_005_1",
+               "classement": 3,
+               "title": "Game Show 135ème anniversaire (3D)",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
+               "teaser": "",
+               "stereo": true,
+               "description": "Entraînement et Game Show",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://www.buzzwebzine.fr/wp-content/uploads/2024/01/MSC-croisieres.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://www.realsport-club.ch/wp-content/uploads/2022/11/realsport-club-image-google_retina.jpg"
+            }
+         ]
+      },
+      {
+         "id": "cr_008",
+         "name": "Orléans Loiret Basket",
+         "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs du club.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "logo_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "logo_2_1": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "couverture": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+            "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
+         },
+         "model3D": "",
+         "classement": 9,
+         "colorHexa": "#FFFF00",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/SF4SWpMS4sQ/maxresdefault.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://storage.googleapis.com/cdn-sop-site-21/production/2025/11/Suez-economie-sociale-et-solidaire-1.jpg"
+            }
+         ]
+      },
+      {
+         "id": "cr_009",
+         "name": "Jeudi Electro",
+         "description": "Vibrez au son des meilleurs DJs avec les Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
+         "event_type": "music",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "logo_2_1": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "couverture": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg",
+            "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
+         },
+         "model3D": "",
+         "classement": 10,
+         "colorHexa": "#ffffff",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_002_1",
+               "classement": 4,
+               "title": "Edition 2025 Thonon (3D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Extrait caméra DJ",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [
+            {
+               "id": "evt_live_jeudielectro",
+               "classement": 1,
+               "title": "Edition 2025 Thonon",
+               "description": "Extrait caméra DJ",
+               "location": "Thonon, France",
+               "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-04-24T12:00:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Vue Régie DJ",
+                     "description": "Mix en direct",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://studio911.fr/wp-content/uploads/2020/12/CREATION-GRAPHISTE-BIOCOOP-AFFICHE-OUVERTURE-120x176cm1-2020-OK-2-scaled.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/02/Logo-Funky-Factory.jpg"
+            }
+         ]
+      },
+      {
+         "id": "cr_010",
+         "name": "FFBAD",
+         "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes et vibrez au rythme des smashes de l'élite internationale.",
+         "event_type": "sport",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
+            "logo_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
+            "logo_2_1": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
+            "couverture": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
+            "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
+         },
+         "model3D": "",
+         "classement": 11,
+         "colorHexa": "#0077FF",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://badmania.fr/images/offres/yonex_2024/1000x400_yonex_2024.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Partenaire_FFBAD.png"
+            }
+         ]
+      },
+      {
+         "id": "cr_011",
+         "name": "LNH",
+         "description": "Vibrez au rythme de la LNH ! Regardez les chocs de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs.",
+         "event_type": "sport",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
+            "logo_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
+            "logo_2_1": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
+            "couverture": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
+            "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
+         },
+         "model3D": "",
+         "classement": 12,
+         "colorHexa": "#0077FF",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://beach-handball.fr/wp-content/uploads/2022/03/select-equipement-handball-beach-handball-nakara.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://www.guedo-outillage.fr/blog/wp-content/uploads/2014/08/Bosch-lhistoire-dun-homme-qui-voulait-satisfaire-ses-clients.jpg"
+            }
+         ]
+      }
+   ]
+}

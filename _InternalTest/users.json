@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "userId": "user_001",
+      "email": "alice.martin@test.com",
+      "displayName": "Alice",
+      "avatarUrl": "https://picsum.photos/512/512?38",
+      "country": "FR",
+      "language": "fr",
+      "createdAt": "2025-11-12T10:15:00Z",
+      "isActive": true,
+      "platformId": "meta_001",          
+
+      "favoriteCreatorIds": ["cr_001", "cr_003"],
+      "watchlistReplayIds": ["rep_001_5", "rep_001_7"],
+      "watchHistoryIds": ["rep_001_4", "rep_001_1"],
+
+      "subscribedCreatorIds": ["cr_004"],
+      "purchasedReplayIds": ["rep_002_1"],
+      "purchasedLiveIds": ["evt_012_1"],
+
+      "lastLogin": "2026-02-25T18:42:00Z",
+      "playbackProgress": [
+        {
+          "contentId": "evt_012_1",
+          "progress": 0.65,
+          "lastWatchDate": "2026-02-24T21:10:00Z"
+        },
+        {
+          "contentId": "evt_007_1",
+          "progress": 0.12,
+          "lastWatchDate": "2026-02-25T19:05:00Z"
+        }
+      ]
+    },
+    {
+      "userId": "user_002",
+      "email": "julien.dupont@test.com",
+      "displayName": "Julien",
+      "avatarUrl": "https://picsum.photos/512/512?38",
+      "country": "FR",
+      "language": "fr",
+      "createdAt": "2025-06-02T09:00:00Z",
+      "isActive": true,
+      "platformId": "meta_002",
+
+      "favoriteCreatorIds": ["cr_001", "cr_003"],
+      "watchlistReplayIds": ["rep_001_5", "rep_001_7"],
+      "watchHistoryIds": ["rep_001_4", "rep_001_1"],
+
+      "subscribedCreatorIds": ["cr_004"],
+      "purchasedReplayIds": ["rep_002_1"],
+      "purchasedLiveIds": ["evt_012_1"],
+
+      "lastLogin": "2026-02-25T18:42:00Z",
+      "playbackProgress": [
+        {
+          "contentId": "evt_012_1",
+          "progress": 0.65,
+          "lastWatchDate": "2026-02-24T21:10:00Z"
+        }
+      ]
+    },
+    {
+      "userId": "user_003",
+      "email": "sophia.lee@test.com",
+      "displayName": "Sophia",
+      "avatarUrl": "https://picsum.photos/512/512?38",
+      "country": "US",
+      "language": "en",
+      "createdAt": "2024-12-20T14:30:00Z",
+      "isActive": true,
+      "platformId": "meta_003",
+
+      "favoriteCreatorIds": ["cr_001"],
+      "watchlistReplayIds": [],
+      "watchHistoryIds": [],
+
+      "subscribedCreatorIds": ["cr_002"],
+      "purchasedReplayIds": [],
+      "purchasedLiveIds": [],
+
+      "lastLogin": "2026-02-25T18:42:00Z",
+      "playbackProgress": [
+      ]
+    }
+  ]
+}
