@@ -478,7 +478,31 @@
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
                   }
                ]
-            }            
+            },
+            {
+               "id": "rep_cr_008_2",
+               "classement": 3,
+               "title": "Basketball Test video autre",
+               "date": "2025-09-28T16:00:00+02:00",
+               "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Test avec des vidéo aléatoire",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
+                  }
+               ]
+            }   
          ],
          "events": [],
          "pubs": [
