@@ -80,25 +80,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue 1",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Vue 2",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_03",
-                     "title": "Vue 3",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_04",
-                     "title": "Vue 4",
+                     "title": "",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
@@ -472,7 +454,20 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "stream_01",
+               "title": "",
+               "description": "",
+               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket/playlist.m3u8"
+            },
+            {
+               "id": "stream_02",
+               "title": "",
+               "description": "",
+               "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+            }
+         ],
          "events": [],
          "pubs": [
             {
