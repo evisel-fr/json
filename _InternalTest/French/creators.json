@@ -80,25 +80,25 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
+                     "title": "Vue 1",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "",
+                     "title": "Vue 2",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   },
                   {
                      "id": "stream_03",
-                     "title": "",
+                     "title": "Vue 3",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   },
                   {
                      "id": "stream_04",
-                     "title": "",
+                     "title": "Vue 4",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
