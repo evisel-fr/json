@@ -642,13 +642,13 @@
                "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra embarquée - Session 1",
+               "description": "Caméra embarquée - Session 7",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "Vue Casque",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test7/playlist.m3u8"
                   }
                ]
             },
