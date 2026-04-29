@@ -637,108 +637,18 @@
             {
                "id": "rep_012_1",
                "classement": 1,
-               "title": "Test 7 Esteban Ocon (3D)",
+               "title": "Test 9 Esteban Ocon (3D)",
                "date": "2025-10-10T14:00:00+02:00",
                "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra embarquée - Session 7",
+               "description": "Caméra embarquée - Session 9",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "Vue Casque",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test7/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_012_2",
-               "classement": 2,
-               "title": "Test 8 Esteban Ocon (3D)",
-               "date": "2025-10-10T14:30:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra embarquée - Session 8",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test8/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_012_3",
-               "classement": 3,
-               "title": "Test 3 Esteban Ocon (3D)",
-               "date": "2025-10-10T15:00:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra embarquée - Session 3",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test3/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_012_4",
-               "classement": 4,
-               "title": "Test 4 Esteban Ocon (3D)",
-               "date": "2025-10-10T15:30:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra embarquée - Session 4",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test4/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_012_6",
-               "classement": 4,
-               "title": "Test 4 Esteban Ocon (3D)",
-               "date": "2025-10-10T15:30:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra embarquée - Session 6",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test6/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_012_5",
-               "classement": 5,
-               "title": "Test 5 Esteban Ocon (3D)",
-               "date": "2025-10-10T16:00:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Caméra embarquée - Session 5",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test9/playlist.m3u8"
                   }
                ]
             }
