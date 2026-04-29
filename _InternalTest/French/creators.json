@@ -637,7 +637,7 @@
             {
                "id": "rep_012_1",
                "classement": 1,
-               "title": "Test 1 Esteban Ocon (3D)",
+               "title": "Test 7 Esteban Ocon (3D)",
                "date": "2025-10-10T14:00:00+02:00",
                "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
                "teaser": "",
@@ -655,18 +655,18 @@
             {
                "id": "rep_012_2",
                "classement": 2,
-               "title": "Test 2 Esteban Ocon (3D)",
+               "title": "Test 8 Esteban Ocon (3D)",
                "date": "2025-10-10T14:30:00+02:00",
                "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Caméra embarquée - Session 2",
+               "description": "Caméra embarquée - Session 8",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "Vue Casque",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test2/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test8/playlist.m3u8"
                   }
                ]
             },
