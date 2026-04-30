@@ -24,7 +24,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_cr000_1",
                "classement": 6,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -69,7 +69,7 @@
          },
          "replays": [
             {
-               "id": "rep_001_5",
+               "id": "rep_cr001_5",
                "classement": 1,
                "title": "MORELLI VS SURDYN (3D)",
                "date": "2025-12-20T18:00:00+02:00",
@@ -89,7 +89,7 @@
          ],
          "events": [
             {
-               "id": "evt_live_ksw",
+               "id": "evt_cr001_1",
                "classement": 1,
                "title": "KSW 117 arrive bientôt",
                "description": "L'événement principal approche. Préparez-vous à entrer dans la cage !",
@@ -144,7 +144,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_cr002_1",
                "classement": 10,
                "title": "Legacy Fight Night (3D)",
                "description": "Extrait du gala",
@@ -164,7 +164,7 @@
          ],
          "events": [
             {
-               "id": "evt_live_fightnation",
+               "id": "evt_cr002_1",
                "classement": 1,
                "title": "Legacy Fight Night - LIVE",
                "description": "En direct : revivez les meilleurs moments du gala Legacy Fight Night en immersion totale.",
@@ -219,7 +219,7 @@
          },
          "replays": [
             {
-               "id": "rep_003_1",
+               "id": "rep_cr003_1",
                "classement": 5,
                "title": "LATRECHE VS CAVARRA (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -239,7 +239,7 @@
          ],
          "events": [
             {
-               "id": "evt_live_tekfight",
+               "id": "evt_cr003_1",
                "classement": 1,
                "title": "LATRECHE VS CAVARRA - LIVE",
                "description": "Le combat événement entre Latreche et Cavarra en direct.",
@@ -294,7 +294,7 @@
          },
          "replays": [
             {
-               "id": "rep_004_1",
+               "id": "rep_cr004_1",
                "classement": 8,
                "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -348,7 +348,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_cr002_1",
                "classement": 9,
                "title": "Sparring Bakary Samake (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -402,7 +402,7 @@
          },
          "replays": [
             {
-               "id": "rep_005_1",
+               "id": "rep_cr007_1",
                "classement": 3,
                "title": "Game Show 135ème anniversaire (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -491,7 +491,7 @@
          },
          "replays": [
             {
-               "id": "rep_002_1",
+               "id": "rep_cr009_1",
                "classement": 4,
                "title": "Edition 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -511,7 +511,7 @@
          ],
          "events": [
             {
-               "id": "evt_live_jeudielectro",
+               "id": "evt_cr009_1",
                "classement": 1,
                "title": "Edition 2025 Thonon - LIVE",
                "description": "En direct : La crème de l'électro s'empare de Thonon. Suivez le set du DJ en première ligne.",
@@ -635,7 +635,7 @@
          },
          "replays": [
             {
-               "id": "rep_012_1",
+               "id": "rep_cr012_1",
                "classement": 1,
                "title": "Test 10 Esteban Ocon (3D)",
                "date": "2025-10-10T14:00:00+02:00",
