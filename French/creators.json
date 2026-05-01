@@ -42,24 +42,6 @@
                ]
             },
             {
-               "id": "rep_002_1",
-               "classement": 100,
-               "title": "Publicité Esteban Ocon X lEVAC",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200",
-               "teaser": "",
-               "stereo": true,
-               "description": "Normal",
-               "streams": [
-                  {
-                     "id": "stream_03",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test11/playlist.m3u8"
-                  }
-               ]
-            },
-            {
                "id": "rep_000_pub_ocon1",
                "classement":100,
                "title": "Publicité Esteban Ocon X lEVAC",
@@ -67,13 +49,13 @@
                "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200",
                "teaser": "",
                "stereo": true,
-               "description": "Ralenti",
+               "description": "",
                "streams": [
                   {
                      "id": "stream_02",
                      "title": "Publicité Esteban Ocon X lEVAC",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test10/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test11/playlist.m3u8"
                   }
                ]
             }
