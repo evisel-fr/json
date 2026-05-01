@@ -578,6 +578,41 @@
          ]
       },
       {
+         "id": "cr_025",
+         "name": "JIGGY 360 MUSIC",
+         "description": "Step into the future of hip-hop with JIGGY 360 MUSIC! We are your front-row ticket to discovering the rawest, most explosive young rap talents across the US. Immerse yourself in the underground scene and vibe with tomorrow's superstars through mind-blowing 360° experiences. Don't just listen to the music—live it.",
+         "event_type": "Music",
+         "teaserVideo": "",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Jiggy360.jpeg",
+            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Jiggy360.jpeg",
+            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/Jiggy360.jpeg",
+            "couverture": "https://cdn.jumpr.fr/Images/Logo_chaines/Jiggy360.jpeg",
+            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Jiggy360.jpeg"
+         },
+         "model3D": "",
+         "classement": 11,
+         "colorHexa": "#0077FF",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [],
+         "events": [],
+         "pubs": [
+            {
+               "id": "pub_01",
+               "thumbnail_16_9": "https://badmania.fr/images/offres/yonex_2024/1000x400_yonex_2024.jpg"
+            },
+            {
+               "id": "pub_02",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Partenaires/Partenaire_FFBAD.png"
+            }
+         ]
+      },
+      {
          "id": "cr_011",
          "name": "LNH",
          "description": "Vibe to the rhythm of the LNH! Watch the clashes of the Liqui Moly StarLigue, and dive into the heart of the intensity of the French handball championship with decisive matches.",
