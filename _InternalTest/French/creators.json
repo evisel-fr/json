@@ -25,6 +25,7 @@
          "replays": [
             {
                "id": "rep_cr000_1",
+               "idLiveRef": "",
                "classement": 6,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -70,6 +71,7 @@
          "replays": [
             {
                "id": "rep_cr001_5",
+               "idLiveRef": "",
                "classement": 1,
                "title": "MORELLI VS SURDYN (3D)",
                "date": "2025-12-20T18:00:00+02:00",
@@ -145,6 +147,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
+               "idLiveRef": "",
                "classement": 10,
                "title": "Legacy Fight Night (3D)",
                "description": "Extrait du gala",
@@ -220,6 +223,7 @@
          "replays": [
             {
                "id": "rep_cr003_1",
+               "idLiveRef": "",
                "classement": 5,
                "title": "LATRECHE VS CAVARRA (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -295,6 +299,7 @@
          "replays": [
             {
                "id": "rep_cr004_1",
+               "idLiveRef": "",
                "classement": 8,
                "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -349,6 +354,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
+               "idLiveRef": "",
                "classement": 9,
                "title": "Sparring Bakary Samake (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -403,6 +409,7 @@
          "replays": [
             {
                "id": "rep_cr007_1",
+               "idLiveRef": "",
                "classement": 3,
                "title": "Game Show 135ème anniversaire (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -457,6 +464,7 @@
          "replays": [
             {
                "id": "rep_008_1",
+               "idLiveRef": "",
                "classement": 2,
                "title": "Orléans – La Rochelle (3D + multi POV)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -517,6 +525,7 @@
          "replays": [
             {
                "id": "rep_cr009_1",
+               "idLiveRef": "",
                "classement": 4,
                "title": "Edition 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -661,6 +670,7 @@
          "replays": [
             {
                "id": "rep_cr012_1",
+               "idLiveRef": "",
                "classement": 1,
                "title": "Test 10 Esteban Ocon (3D)",
                "date": "2025-10-10T14:00:00+02:00",
