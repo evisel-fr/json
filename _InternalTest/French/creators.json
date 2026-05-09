@@ -598,7 +598,56 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+          "replays": [
+            {
+               "id": "rep_099_1",
+               "classement": 1,
+               "title": "Top 12 Finals (8K + 3D + Multi point of view)",
+               "date": "2026-05-08T17:00:00+02:00",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/derierre1/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote1/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_093_4",
+               "classement": 1,
+               "title": "Top 12 Finals (8K + 2D + Multi point of view)",
+               "date": "2026-05-08T17:00:00+02:00",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/derierre2/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote2/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [],
          "pubs": [
             {
