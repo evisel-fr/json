@@ -642,6 +642,30 @@
                   }
                ]
             },
+             {
+               "id": "rep_099_6",
+               "classement": 1,
+               "title": "Top 12 Finals (8K + mystika vr + 3D + Multi point of view)",
+               "date": "2026-05-08T17:00:00+02:00",
+               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
+               "streams": [
+                  {
+                     "id": "stream_04",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/derierre_mistika/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_05",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote_3d/playlist.m3u8"
+                  }
+               ]
+            },
             {
                "id": "rep_093_4",
                "classement": 1,
