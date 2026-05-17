@@ -38,7 +38,26 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/james"
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/test1_60fps/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr000_2",
+               "idLiveRef": "",
+               "classement": 6,
+               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "teaser": "",
+               "stereo": false,
+               "description": "Extrait caméra scène",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/test2_60fps/playlist.m3u8"
                   }
                ]
             }
