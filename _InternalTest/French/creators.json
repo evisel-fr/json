@@ -639,6 +639,7 @@
           "replays": [
             {
                "id": "rep_cr010_1",
+               "idLiveRef": "",
                "classement": 1,
                "title": "Top 12 Finals (8K + 3D + Multi point of view)",
                "date": "2026-05-08T17:00:00+02:00",
@@ -663,6 +664,7 @@
             },
             {
                "id": "rep_cr010_6",
+               "idLiveRef": "",
                "classement": 1,
                "title": "Top 12 Finals (8K + mystika vr + 3D + Multi point of view)",
                "date": "2026-05-08T17:00:00+02:00",
@@ -687,6 +689,7 @@
             },
             {
                "id": "rep_cr010_4",
+               "idLiveRef": "",
                "classement": 1,
                "title": "Top 12 Finals (8K + 2D + Multi point of view)",
                "date": "2026-05-08T17:00:00+02:00",
