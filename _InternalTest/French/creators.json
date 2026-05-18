@@ -694,7 +694,7 @@
                "date": "2026-05-08T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
                "teaser": "",
-               "stereo": false,
+               "stereo": true,
                "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
                "streams": [
                   {
