@@ -691,7 +691,7 @@
                "id": "rep_cr010_4",
                "idLiveRef": "",
                "classement": 1,
-               "title": "Top 12 Finals (8K + 2D + Multi point of view)",
+               "title": "Top 12 Finals (8K + pip2 + 3D + Multi point of view)",
                "date": "2026-05-08T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
                "teaser": "",
@@ -702,7 +702,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/derierre2/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/test2_pip/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
