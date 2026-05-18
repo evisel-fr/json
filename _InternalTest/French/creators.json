@@ -129,7 +129,7 @@
          ],
          "events": [
             {
-               "id": "evt_cr001_1",
+               "id": "evt_live_ksw",
                "classement": 1,
                "title": "KSW 117 arrive bientôt",
                "description": "L'événement principal approche. Préparez-vous à entrer dans la cage !",
@@ -289,7 +289,6 @@
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
                "teaser": "",
                "onLive": true,
-               "start_time": "2026-04-24T12:00:00+02:00",
                "stereo": true,
                "streams": [
                   {
@@ -462,7 +461,7 @@
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
-               ]
+                ]
             }
          ],
          "events": [],
@@ -636,7 +635,7 @@
             "followers": 0,
             "subscribers": 0
          },
-          "replays": [
+         "replays": [
             {
                "id": "rep_cr010_1",
                "idLiveRef": "",
@@ -798,6 +797,128 @@
                      "title": "Vue Casque",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test10/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
+         "events": [],
+         "pubs": []
+      },
+      {
+         "id": "cr_013",
+         "name": "Circuit Carole",
+         "description": "Vivez l'adrénaline de la moto de vitesse sur la chaîne officielle du Circuit Carole. Découvrez des angles immersifs exclusifs captés au cœur des compétitions nationales.",
+         "event_type": "sport",
+         "teaserVideo": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8",
+         "stereo": true,
+         "pictures": {
+            "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
+            "logo_16_9": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
+            "logo_2_1": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
+            "couverture": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
+            "teaser_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/promo26.jpg"
+         },
+         "model3D": "",
+         "classement": 14,
+         "colorHexa": "#E2001A",
+         "verified": true,
+         "metrics": {
+            "followers": 0,
+            "subscribers": 0
+         },
+         "replays": [
+            {
+               "id": "rep_cr013_1",
+               "idLiveRef": "",
+               "classement": 1,
+               "title": "Coupe de France - Vue Circuit Nord (3D)",
+               "date": "2026-05-18T12:00:00+02:00",
+               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Captation immersive de la portion Nord du tracé pendant la Coupe de France.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra Nord",
+                     "description": "Vue d'ensemble",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/nord/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr013_2",
+               "idLiveRef": "",
+               "classement": 2,
+               "title": "Coupe de France - Vue Circuit Sud (3D)",
+               "date": "2026-05-18T12:15:00+02:00",
+               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Perspective imprenable sur les virages de la zone Sud en pleine course.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra Sud",
+                     "description": "Vue d'ensemble",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/sud/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr013_3",
+               "idLiveRef": "",
+               "classement": 3,
+               "title": "Coupe de France - Zone de vie & Garages (3D)",
+               "date": "2026-05-18T12:30:00+02:00",
+               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Immersion au cœur des paddocks et de l'effervescence de la zone des garages.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra Paddocks",
+                     "description": "Zone de vie centrale",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/foule/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr013_4",
+               "idLiveRef": "",
+               "classement": 4,
+               "title": "Coupe de France - Réglages Pilote (3D)",
+               "date": "2026-05-18T12:45:00+02:00",
+               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Au plus près d'un pilote ajustant sa machine avant de s'élancer sur la piste.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra Atelier",
+                     "description": "Ajustements techniques",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/tente/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr013_5",
+               "idLiveRef": "",
+               "classement": 5,
+               "title": "Coupe de France - Vérification Technique (3D)",
+               "date": "2026-05-18T13:00:00+02:00",
+               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Contrôle de conformité réglementaire de l'ensemble des motos par les autorités du circuit Carole.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra Officiels",
+                     "description": "Vérifications de conformité",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/accueil/playlist.m3u8"
                   }
                ]
             }
