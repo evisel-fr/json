@@ -690,7 +690,7 @@
                "id": "rep_cr010_4",
                "idLiveRef": "",
                "classement": 1,
-               "title": "Top 12 Finals (test7 + 8K + pip2 + 3D + Multi point of view)",
+               "title": "Top 12 Finals (test8 + 8K + pip2 + 3D + Multi point of view)",
                "date": "2026-05-08T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
                "teaser": "",
@@ -701,7 +701,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/test7/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/ffbad/Top12/test8/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
