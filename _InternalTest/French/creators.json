@@ -28,7 +28,7 @@
                "classement": 9,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (8K + 2D)",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/JUMPR_VR/Images/Ousmane.jpg",
                "teaser": "",
                "stereo": false,
                "description": "Extrait caméra scène",
@@ -46,7 +46,7 @@
                "classement": 10,
                "title": "Publicité Esteban Ocon X lEVAC (8K + 3D)",
                "date": "2026-04-30T12:00:00+02:00",
-               "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/JUMPR_VR/Images/LEVAC.jpg",
                "teaser": "",
                "stereo": true,
                "description": "",
@@ -71,11 +71,11 @@
          "teaserVideo": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "logo_16_9": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "logo_2_1": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "couverture": "https://sponsoringsport.pl/wp-content/uploads/2016/09/KSW-logo.png",
-            "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Logo.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Logo.jpg",
+            "logo_2_1": "https://cdn.jumpr.fr/KSW_8k/Images/Logo.jpg",
+            "couverture": "https://cdn.jumpr.fr/KSW_8k/Images/Logo.jpg",
+            "teaser_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Affiche.jpg"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
          "classement": 1,
@@ -91,7 +91,7 @@
                "classement": 5,
                "title": "MORELLI VS SURDYN (8K + 3D)",
                "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Morelli_vs_Surdyn.jpg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra sur la cage",
@@ -531,9 +531,9 @@
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
-            "logo_16_9": "",
-            "logo_2_1": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
-            "couverture": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
+            "logo_2_1": "",
+            "couverture": "",
             "teaser_16_9": ""
          },
          "model3D": "https://cdn.jumpr.fr/FFBAD/Images/FFBad_Logo.glb",
@@ -626,7 +626,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
-            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
+            "logo_2_1": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_teaser.jpg"
          },
