@@ -557,13 +557,13 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Camera médiane",
+                     "title": "Camera sur le coté",
                      "description": "Vue centrale",
-                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_cote/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/test_1_cote//playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "Camera sur le coté",
+                     "title": "Camera médiane",
                      "description": "Vue centrale",
                      "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_mediane/playlist.m3u8"
                   }
