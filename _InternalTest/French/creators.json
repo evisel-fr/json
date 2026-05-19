@@ -530,10 +530,10 @@
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
-            "logo_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
-            "logo_2_1": "",
-            "couverture": "",
+            "thumbnail_16_9": "",
+            "logo_16_9": "",
+            "logo_2_1": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "couverture": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
             "teaser_16_9": ""
          },
          "model3D": "https://cdn.jumpr.fr/FFBAD/Images/FFBad_Logo.glb",
