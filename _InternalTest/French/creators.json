@@ -530,9 +530,9 @@
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "",
+            "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
             "logo_16_9": "",
-            "logo_2_1": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "logo_2_1": "",
             "couverture": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
             "teaser_16_9": ""
          },
