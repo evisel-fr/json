@@ -15,7 +15,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/JUMPR_VR_transparent.png"
          },
          "model3D": "",
-         "classement": 1,
+         "classement": 0,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -25,39 +25,37 @@
          "replays": [
             {
                "id": "rep_cr000_1",
-               "idLiveRef": "",
                "classement": 6,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
                "teaser": "",
-               "stereo": true,
+               "stereo": false,
                "description": "Extrait caméra scène",
                "streams": [
                   {
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/test2_pip/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Dembele_8k/playlist.m3u8"
                   }
                ]
             },
             {
                "id": "rep_cr000_2",
-               "idLiveRef": "",
-               "classement": 6,
-               "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://france3-regions.franceinfo.fr/image/_sGGiUZITsg58Rh94cFaDDOz8Lc/1600x1099/regions/2025/10/12/whatsapp-image-2025-10-12-at-18-36-08-1-68ebdcd7bbd5e833812508.jpg",
+               "classement": 100,
+               "title": "Publicité Esteban Ocon X lEVAC",
+               "date": "2026-04-30T12:00:00+02:00",
+               "thumbnail_16_9": "https://levac-sneakers.com/cdn/shop/files/levac_petit_logo_assemble_noir_3x_1_1.png?height=628&pad_color=ffffff&v=1771553021&width=1200",
                "teaser": "",
                "stereo": true,
-               "description": "Extrait caméra scène",
+               "description": "",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
+                     "title": "Publicité Esteban Ocon X lEVAC",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/test2_60fps/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test11/playlist.m3u8"
                   }
                ]
             }
@@ -80,7 +78,7 @@
             "teaser_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
-         "classement": 0,
+         "classement": 1,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -89,9 +87,8 @@
          },
          "replays": [
             {
-               "id": "rep_cr001_5",
-               "idLiveRef": "",
-               "classement": 1,
+               "id": "rep_cr001_1",
+               "classement": 5,
                "title": "MORELLI VS SURDYN (3D)",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
@@ -106,33 +103,14 @@
                      "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
                ]
-            },
-            {
-               "id": "rep_cr001_3",
-               "idLiveRef": "",
-               "classement": 1,
-               "title": "MORELLI VS SURDYN Bis (3D)",
-               "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://evisel-tv.fr/wp-content/uploads/2025/12/Screenshot-2025-12-23-172746.png",
-               "teaser": "",
-               "stereo": true,
-               "description": "Combat entier, caméra sur la cage",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  }
-               ]
             }
          ],
          "events": [
             {
-               "id": "evt_live_ksw",
+               "id": "evt_cr001_1",
                "classement": 1,
-               "title": "KSW 117 arrive bientôt",
-               "description": "L'événement principal approche. Préparez-vous à entrer dans la cage !",
+               "title": "KSW trailer",
+               "description": "",
                "location": "Pologne",
                "thumbnail_16_9": "https://i.ytimg.com/vi/rnAG4iA1suk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD6hPZbQ43z99hfJ7XCKaavj10URA",
                "teaser": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8",
@@ -142,7 +120,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Caméra en direct 1",
+                     "title": "",
                      "description": "Bande-annonce",
                      "url": "https://cdn.jumpr.fr/KSW_8k/Trailer/playlist.m3u8"
                   }
@@ -152,7 +130,7 @@
          "pubs": [
             {
                "id": "pub_01",
-               "thumbnail_16_9": "https://one.shop/cdn/shop/files/owhtlogbasecap2-blk-1_2000x1816_crop_center.jpg?v=1687835755"
+               "thumbnail_16_9": "https://images-cdn.ispot.tv/ad/1tCN/default-large.jpg"
             },
             {
                "id": "pub_02",
@@ -163,7 +141,7 @@
       {
          "id": "cr_002",
          "name": "FIGHT NATION",
-         "description": "La chaîne Fight Nation est la plateforme de référence pour sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs réunis par l'élite de la discipline.",
+         "description": "La chaîne Fight Nation est la plateforme de référence pour les sports de combat en France. Accédez en exclusivité à des galas prestigieux, suivez l'évolution des étoiles montantes et soutenez des événements caritatifs réunis par l'élite de la discipline.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
@@ -175,7 +153,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 3,
+         "classement": 2,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -185,8 +163,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
-               "idLiveRef": "",
-               "classement": 10,
+               "classement": 3,
                "title": "Legacy Fight Night (3D)",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
@@ -196,7 +173,7 @@
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue 1",
+                     "title": "Vue ring",
                      "description": "",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
@@ -207,8 +184,8 @@
             {
                "id": "evt_cr002_1",
                "classement": 1,
-               "title": "Legacy Fight Night - LIVE",
-               "description": "En direct : revivez les meilleurs moments du gala Legacy Fight Night en immersion totale.",
+               "title": "Legacy Fight Night",
+               "description": "Extrait du gala Legacy Fight Night",
                "location": "France",
                "thumbnail_16_9": "https://djaf62pw1a0jo.cloudfront.net/eyJidWNrZXQiOiJzcG9ydGFsbC1pbWFnZXMtc3RhZ2luZyIsImtleSI6InB1YmxpYy82OTAxZDNiYjRjMjZjYmQ5MDVjMGVhZDZfT3NlN0JZODNCWHdCMWcuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTEwMH19fQ==",
                "teaser": "",
@@ -219,7 +196,7 @@
                   {
                      "id": "stream_01",
                      "title": "Flux Principal",
-                     "description": "Vue immersive",
+                     "description": "Vue ring",
                      "url": "https://cdn.jumpr.fr/FightNation/Legacy_Fight_Night/playlist.m3u8"
                   }
                ]
@@ -251,7 +228,7 @@
             "teaser_16_9": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361"
          },
          "model3D": "",
-         "classement": 4,
+         "classement": 3,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -261,8 +238,7 @@
          "replays": [
             {
                "id": "rep_cr003_1",
-               "idLiveRef": "",
-               "classement": 5,
+               "classement": 7,
                "title": "LATRECHE VS CAVARRA (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
@@ -283,19 +259,20 @@
             {
                "id": "evt_cr003_1",
                "classement": 1,
-               "title": "LATRECHE VS CAVARRA - LIVE",
-               "description": "Le combat événement entre Latreche et Cavarra en direct.",
+               "title": "Tek Fight 5 (2D)",
+               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
                "location": "France",
-               "thumbnail_16_9": "https://www.mairie-villetaneuse.fr/isens_thumb.php?image=images/villetaneuse/Ville/Lionel-Picord-Vs-Neves-Santos-Tiago-19.jpg&width=870&height=530",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
                "teaser": "",
-               "onLive": true,
+               "onLive": false,
+               "start_time": "2026-05-23T19:30:00+02:00",
                "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Vue Octogone",
-                     "description": "Caméra coin rouge",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
+                     "title": "Tek Fight 5",
+                     "description": "En direct du gymnase Jesse Owens",
+                     "url": "https://cdn.jumpr.fr/sample5.mp4"
                   }
                ]
             }
@@ -326,7 +303,7 @@
             "teaser_16_9": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj"
          },
          "model3D": "",
-         "classement": 5,
+         "classement": 4,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -336,7 +313,6 @@
          "replays": [
             {
                "id": "rep_cr004_1",
-               "idLiveRef": "",
                "classement": 8,
                "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -381,7 +357,7 @@
             "teaser_16_9": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s"
          },
          "model3D": "",
-         "classement": 6,
+         "classement": 5,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -390,8 +366,7 @@
          },
          "replays": [
             {
-               "id": "rep_cr002_1",
-               "idLiveRef": "",
+               "id": "rep_cr005_1",
                "classement": 9,
                "title": "Sparring Bakary Samake (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -422,7 +397,7 @@
          ]
       },
       {
-         "id": "cr_007",
+         "id": "cr_006",
          "name": "Servette FC",
          "description": "La chaîne du Servette FC vous ouvre les portes des coulisses du club avec des contenus exclusifs !",
          "event_type": "sport",
@@ -436,7 +411,7 @@
             "teaser_16_9": "https://pbs.twimg.com/profile_images/1919671953796816896/jKqKPB5E_400x400.jpg"
          },
          "model3D": "",
-         "classement": 8,
+         "classement": 6,
          "colorHexa": "#FF3344",
          "verified": true,
          "metrics": {
@@ -445,9 +420,8 @@
          },
          "replays": [
             {
-               "id": "rep_cr007_1",
-               "idLiveRef": "",
-               "classement": 3,
+               "id": "rep_cr006_1",
+               "classement": 10,
                "title": "Game Show 135ème anniversaire (3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
@@ -461,7 +435,7 @@
                      "description": "",
                      "url": "https://cdn.jumpr.fr/Servette_FC_8k/playlist.m3u8"
                   }
-                ]
+               ]
             }
          ],
          "events": [],
@@ -477,7 +451,7 @@
          ]
       },
       {
-         "id": "cr_008",
+         "id": "cr_007",
          "name": "Orléans Loiret Basket",
          "description": "Plongez au cœur du terrain avec l'Orléans Loiret Basket. Suivez les matchs en direct, redécouvrez les meilleurs replays et accédez aux moments forts exclusifs du club.",
          "event_type": "sport",
@@ -491,7 +465,7 @@
             "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
          "model3D": "",
-         "classement": 9,
+         "classement": 7,
          "colorHexa": "#FFFF00",
          "verified": true,
          "metrics": {
@@ -500,27 +474,20 @@
          },
          "replays": [
             {
-               "id": "rep_008_1",
-               "idLiveRef": "",
-               "classement": 2,
-               "title": "Orléans – La Rochelle (3D + multi POV)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Orleans.jpg",
+               "id": "rep_cr007_1",
+               "classement": 4,
+               "title": "La Rochelle vs Orléans Loiret Basket",
+               "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
+               "date": "2026-05-18T20:00:00+02:00",
+               "thumbnail_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Extrait du premier quart-temps.",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
-                     "description": "Caméra de touche",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "Caméra derrière le palier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+                     "title": "Flux Principal",
+                     "description": "Vue terrain",
+                     "url": "https://cdn.jumpr.fr/Orleans_Basket/playlist.m3u8"
                   }
                ]
             }
@@ -538,7 +505,7 @@
          ]
       },
       {
-         "id": "cr_009",
+         "id": "cr_008",
          "name": "Jeudi Electro",
          "description": "Vibrez au son des meilleurs DJs avec les Jeudi Electro. Découvrez des sets exclusifs, des performances live enregistrées lors des éditions les plus mémorables et plongez dans l'énergie unique de la scène électronique actuelle.",
          "event_type": "music",
@@ -552,7 +519,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 10,
+         "classement": 8,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -561,9 +528,8 @@
          },
          "replays": [
             {
-               "id": "rep_cr009_1",
-               "idLiveRef": "",
-               "classement": 4,
+               "id": "rep_cr008_1",
+               "classement": 11,
                "title": "Edition 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
@@ -582,10 +548,10 @@
          ],
          "events": [
             {
-               "id": "evt_cr009_1",
+               "id": "evt_cr008_1",
                "classement": 1,
-               "title": "Edition 2025 Thonon - LIVE",
-               "description": "En direct : La crème de l'électro s'empare de Thonon. Suivez le set du DJ en première ligne.",
+               "title": "Edition 2025 Thonon",
+               "description": "Extrait caméra DJ",
                "location": "Thonon, France",
                "thumbnail_16_9": "https://cdn-s-www.ledauphine.com/images/5F2F3DFA-3869-4834-BBA1-1544E89146B4/NW_raw/apres-deux-editions-annulees-pour-cause-de-crise-les-jeudis-electro-devraient-revenir-en-2022-photo-dr-1626537600.jpg",
                "teaser": "",
@@ -614,7 +580,7 @@
          ]
       },
       {
-         "id": "cr_010",
+         "id": "cr_009",
          "name": "FFBAD",
          "description": "La chaîne officielle de la Fédération Française de Badminton. Suivez les plus grandes compétitions de la saison, encouragez vos équipes et vibrez au rythme des smashes de l'élite internationale.",
          "event_type": "sport",
@@ -628,7 +594,7 @@
             "teaser_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg"
          },
          "model3D": "",
-         "classement": 11,
+         "classement": 9,
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
@@ -637,77 +603,20 @@
          },
          "replays": [
             {
-               "id": "rep_cr010_1",
-               "idLiveRef": "",
+               "id": "rep_cr009_1",
                "classement": 1,
-               "title": "Top 12 Finals (8K + 3D + Multi point of view)",
-               "date": "2026-05-08T17:00:00+02:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
+               "title": "Le Top 12 du championnat de France de badminton",
+               "description": "Revivez le Top 12 du championnat de France.",
+               "date": "2026-05-18T18:00:00+02:00",
+               "thumbnail_16_9": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
                "teaser": "",
                "stereo": true,
-               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/derierre_3d_1/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote_3d/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr010_6",
-               "idLiveRef": "",
-               "classement": 1,
-               "title": "New Top 12 Finals (test 92 News 8K + pip + 3D + Multi point of view)",
-               "date": "2026-05-08T17:00:00+02:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
-               "streams": [
-                  {
-                     "id": "stream_04",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/test92/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_05",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote_3d/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr010_4",
-               "idLiveRef": "",
-               "classement": 1,
-               "title": "Top 12 Finals (bon + 8K + pip2 + 3D + Multi point of view)",
-               "date": "2026-05-08T17:00:00+02:00",
-               "thumbnail_16_9": "https://i.ytimg.com/vi/KMNf__IknaQ/maxresdefault.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Extrait du match Badminton Club Fos vs Le Volant Airois",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/Bon/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/ffbad/Top12/cote2/playlist.m3u8"
+                     "title": "Flux Principal",
+                     "description": "Vue centrale",
+                     "url": "https://cdn.jumpr.fr/FFBAD/playlist.m3u8"
                   }
                ]
             }
@@ -725,7 +634,7 @@
          ]
       },
       {
-         "id": "cr_011",
+         "id": "cr_010",
          "name": "LNH",
          "description": "Vibrez au rythme de la LNH ! Regardez les chocs de la Liqui Moly StarLigue, et plongez au cœur de l'intensité du championnat de France de handball avec des matchs décisifs.",
          "event_type": "sport",
@@ -738,7 +647,7 @@
             "teaser_16_9": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I"
          },
          "model3D": "",
-         "classement": 12,
+         "classement": 10,
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
@@ -759,22 +668,22 @@
          ]
       },
       {
-         "id": "cr_012",
-         "name": "Esteban Ocon",
-         "description": "Découvrez l'univers d'Esteban Ocon, pilote de Formule 1. Embarquez avec lui pour des tours de piste immersifs et des moments exclusifs en coulisses.",
+         "id": "cr_011",
+         "name": "Circuit Carole",
+         "description": "La chaîne officielle du célèbre Circuit Carole.",
          "event_type": "sport",
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-            "logo_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-            "logo_2_1": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-            "couverture": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-            "teaser_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
+            "logo_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
+            "logo_2_1": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
+            "couverture": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
+            "teaser_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png"
          },
          "model3D": "",
-         "classement": 13,
-         "colorHexa": "#0055FF",
+         "classement": 11,
+         "colorHexa": "#000000",
          "verified": true,
          "metrics": {
             "followers": 0,
@@ -782,143 +691,20 @@
          },
          "replays": [
             {
-               "id": "rep_cr012_1",
-               "idLiveRef": "",
-               "classement": 1,
-               "title": "Test 10 Esteban Ocon (3D)",
-               "date": "2025-10-10T14:00:00+02:00",
-               "thumbnail_16_9": "https://upload.wikimedia.org/wikipedia/commons/4/46/Esteban_Ocon_2022.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "test 10",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Vue Casque",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test10/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-         "events": [],
-         "pubs": []
-      },
-      {
-         "id": "cr_013",
-         "name": "Circuit Carole",
-         "description": "Vivez l'adrénaline de la moto de vitesse sur la chaîne officielle du Circuit Carole. Découvrez des angles immersifs exclusifs captés au cœur des compétitions nationales.",
-         "event_type": "sport",
-         "teaserVideo": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8",
-         "stereo": true,
-         "pictures": {
-            "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
-            "logo_16_9": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
-            "logo_2_1": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
-            "couverture": "https://www.circuit-carole.com/wp-content/uploads/2019/06/cropped-actu-sans-image.jpg",
-            "teaser_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/promo26.jpg"
-         },
-         "model3D": "",
-         "classement": 14,
-         "colorHexa": "#E2001A",
-         "verified": true,
-         "metrics": {
-            "followers": 0,
-            "subscribers": 0
-         },
-         "replays": [
-            {
-               "id": "rep_cr013_1",
-               "idLiveRef": "",
-               "classement": 1,
-               "title": "Coupe de France - Vue Circuit Nord (3D)",
-               "date": "2026-05-18T12:00:00+02:00",
-               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Captation immersive de la portion Nord du tracé pendant la Coupe de France.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra Nord",
-                     "description": "Vue d'ensemble",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/nord/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr013_2",
-               "idLiveRef": "",
+               "id": "rep_cr011_1",
                "classement": 2,
-               "title": "Coupe de France - Vue Circuit Sud (3D)",
-               "date": "2026-05-18T12:15:00+02:00",
-               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
+               "title": "Roulage Libre - Circuit Carole",
+               "description": "Session de roulage libre sur le célèbre circuit parisien.",
+               "date": "2026-05-19T10:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/Circuit_Carole.png",
                "teaser": "",
                "stereo": true,
-               "description": "Perspective imprenable sur les virages de la zone Sud en pleine course.",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Caméra Sud",
-                     "description": "Vue d'ensemble",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/sud/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr013_3",
-               "idLiveRef": "",
-               "classement": 3,
-               "title": "Coupe de France - Zone de vie & Garages (3D)",
-               "date": "2026-05-18T12:30:00+02:00",
-               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Immersion au cœur des paddocks et de l'effervescence de la zone des garages.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra Paddocks",
-                     "description": "Zone de vie centrale",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/foule/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr013_4",
-               "idLiveRef": "",
-               "classement": 4,
-               "title": "Coupe de France - Réglages Pilote (3D)",
-               "date": "2026-05-18T12:45:00+02:00",
-               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Au plus près d'un pilote ajustant sa machine avant de s'élancer sur la piste.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra Atelier",
-                     "description": "Ajustements techniques",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/tente/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr013_5",
-               "idLiveRef": "",
-               "classement": 5,
-               "title": "Coupe de France - Vérification Technique (3D)",
-               "date": "2026-05-18T13:00:00+02:00",
-               "thumbnail_16_9": "https://www.circuit-carole.com/wp-content/uploads/2026/05/PROMOSPORT_2026_AFFICHE_CAROLE_A4-724x1024.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Contrôle de conformité réglementaire de l'ensemble des motos par les autorités du circuit Carole.",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra Officiels",
-                     "description": "Vérifications de conformité",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/accueil/playlist.m3u8"
+                     "title": "Caméra Embarquée",
+                     "description": "Vue pilote",
+                     "url": "https://cdn.jumpr.fr/CircuitCarole/playlist.m3u8"
                   }
                ]
             }
