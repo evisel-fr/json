@@ -127,7 +127,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg",
-            "logo_2_1": "https://yt3.googleusercontent.com/PDgcW1WLgmqaIsiu03VTAY7N-ykZ-kwzBeQBaa5OaKVrJB2vmHjTUL2V4FI2YxNm58PKalQ9UG4=s900-c-k-c0x00ffffff-no-rj",
+            "logo_2_1": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg"
          },
@@ -181,7 +181,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
-            "logo_2_1": "https://www.billetweb.fr/files/page/thumb/tek-fight-4.jpg?v=1624616361",
+            "logo_2_1": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg"
          },
@@ -256,7 +256,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg",
-            "logo_2_1": "https://yt3.googleusercontent.com/ytc/AIdro_nIa5vWJ0U6cBHqAw3X2E8Pl1Bkfl5_MxTM6R2NSxeNvck=s900-c-k-c0x00ffffff-no-rj",
+            "logo_2_1": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg"
          },
@@ -310,7 +310,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg",
-            "logo_2_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxot3qhnm-s0ZNC3Wn2oKgtpho4Qo3XLZgQ&s",
+            "logo_2_1": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg"
          },
@@ -531,7 +531,7 @@
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
-            "logo_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "logo_16_9": "",
             "logo_2_1": "https://media.ffbad.org/KO3Kt/vignette20240703104219.jpg",
             "couverture": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
             "teaser_16_9": ""
@@ -591,7 +591,7 @@
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/LNH/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/LNH/Images/Logo.jpg",
-            "logo_2_1": "https://lh3.googleusercontent.com/proxy/FBwLz9bjMdsZIqSYwaXhOVDIhdxXr8cRurp_jsbIeVNFEr6l8dj2vtZi8peOdLB3TxFpvssLyQ_yLdsvlpkst3x6ZcwOFuykDPL7-C8I",
+            "logo_2_1": "https://cdn.jumpr.fr/LNH/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/LNH/Images/Logo.jpg",
             "teaser_16_9": "https://cdn.jumpr.fr/LNH/Images/Logo.jpg"
          },
