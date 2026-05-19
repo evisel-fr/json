@@ -25,6 +25,7 @@
          "replays": [
             {
                "id": "rep_cr000_1",
+               "idLiveRef": "",
                "classement": 9,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (2D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -43,6 +44,7 @@
             },
             {
                "id": "rep_cr000_2",
+               "idLiveRef": "",
                "classement": 10,
                "title": "Publicité Esteban Ocon X lEVAC",
                "date": "2026-04-30T12:00:00+02:00",
@@ -88,6 +90,7 @@
          "replays": [
             {
                "id": "rep_cr001_1",
+               "idLiveRef": "",
                "classement": 5,
                "title": "MORELLI VS SURDYN (3D)",
                "date": "2025-12-20T18:00:00+02:00",
@@ -142,6 +145,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
+               "idLiveRef": "",
                "classement": 3,
                "title": "Legacy Fight Night (3D)",
                "description": "Extrait du gala",
@@ -196,6 +200,7 @@
          "replays": [
             {
                "id": "rep_cr003_1",
+               "idLiveRef": "",
                "classement": 7,
                "title": "LATRECHE VS CAVARRA (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -271,6 +276,7 @@
          "replays": [
             {
                "id": "rep_cr004_1",
+               "idLiveRef": "",
                "classement": 8,
                "title": "RODRIGUEZ VS CABREL KEMEZEU (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -325,6 +331,7 @@
          "replays": [
             {
                "id": "rep_cr005_1",
+               "idLiveRef": "",
                "classement": 9,
                "title": "Sparring Bakary Samake (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -379,6 +386,7 @@
          "replays": [
             {
                "id": "rep_cr006_1",
+               "idLiveRef": "",
                "classement": 10,
                "title": "Game Show 135ème anniversaire (3D)",
                "date": "2025-09-28T16:00:00+02:00",
@@ -433,6 +441,7 @@
          "replays": [
             {
                "id": "rep_cr007_1",
+               "idLiveRef": "",
                "classement": 4,
                "title": "La Rochelle vs Orléans Loiret Basket",
                "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
@@ -487,6 +496,7 @@
          "replays": [
             {
                "id": "rep_cr008_1",
+               "idLiveRef": "",
                "classement": 11,
                "title": "Edition 2025 Thonon (3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -562,6 +572,7 @@
          "replays": [
             {
                "id": "rep_cr009_1",
+               "idLiveRef": "",
                "classement": 1,
                "title": "Le Top 12 du championnat de France de badminton",
                "description": "Revivez le Top 12 du championnat de France.",
@@ -650,6 +661,7 @@
          "replays": [
             {
                "id": "rep_cr011_1",
+               "idLiveRef": "",
                "classement": 2,
                "title": "Roulage Libre - Circuit Carole",
                "description": "Session de roulage libre sur le célèbre circuit parisien.",
