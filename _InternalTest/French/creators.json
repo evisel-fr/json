@@ -551,7 +551,7 @@
                "title": "Top 12 du championnat de France de badminton (8K + 3D + Multi POV)",
                "description": "Revivez le match ",
                "date": "2026-05-18T18:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Affiche.jpg",
+               "thumbnail_16_9": "https://levallois-sporting-club.com/wp-content/uploads/2026/03/Ecran-1920x1080-TOP12.jpg",
                "teaser": "",
                "stereo": true,
                "streams": [
@@ -642,8 +642,8 @@
             {
                "id": "rep_cr011_1",
                "classement": 4,
-               "title": "Coupes de France Promosport 2026 (8K + 3D)",
-               "description": "Session d'essaie vue circuit nord",
+               "title": "Session d'essaie vue circuit nord (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
                "date": "2026-05-19T10:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_1.jpg",
                "teaser": "",
@@ -660,8 +660,8 @@
             {
                "id": "rep_cr011_2",
                "classement": 100,
-               "title": "Coupes de France Promosport 2026",
-               "description": "Session d'essaie vue circuit sud (8K + 3D)",
+               "title": "Session d'essaie vue circuit sud (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
                "date": "2026-05-19T10:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_2.jpg",
                "teaser": "",
@@ -678,8 +678,8 @@
             {
                "id": "rep_cr011_3",
                "classement": 10,
-               "title": "Coupes de France Promosport 2026",
-               "description": "Camera dans le lieu de vie du circuit (8K + 3D)",
+               "title": "Camera dans le lieu de vie du circuit (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
                "date": "2026-05-19T10:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_foule.jpg",
                "teaser": "",
