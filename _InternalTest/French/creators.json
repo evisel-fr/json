@@ -434,7 +434,7 @@
             {
                "id": "rep_cr007_1",
                "classement": 1,
-               "title": "La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
+               "title": "3La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
                "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
                "date": "2026-05-18T20:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Images/Affiche.jpg",
@@ -445,13 +445,13 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "Caméra sur le coté",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test2/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
                      "title": "Flux Principal",
                      "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket2/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test3/playlist.m3u8"
                   }
                ]
             }
