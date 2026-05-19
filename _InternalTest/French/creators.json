@@ -445,7 +445,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "Caméra sur le coté",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket1/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
@@ -531,9 +531,9 @@
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
-            "logo_16_9": "",
-            "logo_2_1": "",
-            "couverture": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "logo_2_1": "https://cdn.jumpr.fr/FFBAD/Images/Logo.jpg",
+            "couverture": "",
             "teaser_16_9": ""
          },
          "model3D": "https://cdn.jumpr.fr/FFBAD/Images/FFBad_Logo.glb",
