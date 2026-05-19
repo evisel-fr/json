@@ -324,7 +324,7 @@
          },
          "replays": [
             {
-               "id": "rep_cr005_1",
+               "id": "rep_cr002_1",
                "classement": 9,
                "title": "Sparring Bakary Samake (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
@@ -446,7 +446,7 @@
                      "title": "",
                      "description": "Caméra sur le coté",
                      "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/basket1/playlist.m3u8"
-                  }
+                  },
                   {
                      "id": "stream_02",
                      "title": "Flux Principal",
@@ -493,7 +493,7 @@
          "replays": [
             {
                "id": "rep_cr008_1",
-               "classement": 5o,
+               "classement": 50,
                "title": "Edition 2025 Thonon (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Jeudi_8k/Images/Affiche.jpg",
@@ -561,7 +561,7 @@
                      "description": "Vue centrale",
                      "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_cote/playlist.m3u8"
                   },
-                   {
+                  {
                      "id": "stream_02",
                      "title": "Camera sur le coté",
                      "description": "Vue centrale",
@@ -621,7 +621,7 @@
          "name": "Circuit Carole",
          "description": "La chaîne officielle du célèbre Circuit Carole.",
          "event_type": "sport",
-         "teaserVideo": ""https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"",
+         "teaserVideo": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
@@ -674,7 +674,7 @@
                      "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
                   }
                ]
-            }
+            },
             {
                "id": "rep_cr011_3",
                "classement": 100,
