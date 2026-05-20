@@ -433,7 +433,7 @@
          "replays": [
             {
                "id": "rep_cr007_1",
-               "classement": 1,
+               "classement": 2,
                "title": "3La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
                "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
                "date": "2026-05-18T20:00:00+02:00",
@@ -547,7 +547,7 @@
          "replays": [
             {
                "id": "rep_cr009_1",
-               "classement": 2,
+               "classement": 1,
                "title": "Top 12 du championnat de France de badminton (8K + 3D + Multi POV)",
                "description": "Revivez le match ",
                "date": "2026-05-18T18:00:00+02:00",
@@ -559,7 +559,7 @@
                      "id": "stream_01",
                      "title": "Camera sur le coté",
                      "description": "Vue centrale",
-                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/test_1_cote//playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/test_2_cote//playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
