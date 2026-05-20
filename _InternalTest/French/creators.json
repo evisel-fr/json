@@ -196,10 +196,10 @@
          "replays": [
             {
                "id": "rep_cr003_1",
-               "classement": 1,
+               "classement": 7,
                "title": "LATRECHE VS CAVARRA (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpeg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra coin rouge",
@@ -547,7 +547,7 @@
          "replays": [
             {
                "id": "rep_cr009_1",
-               "classement": 10,
+               "classement": 1,
                "title": "Top 12 2026 du championnat de France de badminton (8K + 3D + Multi POV)",
                "description": "Demi-finale – Badminton Club Fos vs Le Volant Airois",
                "date": "2026-05-18T18:00:00+02:00",
