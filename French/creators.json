@@ -211,42 +211,6 @@
                      "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
                   }
                ]
-            },
-            {
-               "id": "rep_cr003_2",
-               "classement": 7,
-               "title": "LATRECHE VS CAVARRA (8K + 3D)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Combat entier, caméra coin rouge",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_2/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr003_3",
-               "classement": 7,
-               "title": "LATRECHE VS CAVARRA (8K + 3D)",
-               "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Combat entier, caméra coin rouge",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_3/playlist.m3u8"
-                  }
-               ]
             }
          ],
          "events": [],
