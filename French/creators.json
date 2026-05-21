@@ -88,7 +88,7 @@
          "replays": [
             {
                "id": "rep_cr001_1",
-               "classement": 3,
+               "classement": 4,
                "title": "AJ VS Lisek (8K + 3D + PIP)",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/AJ_vs_Lisek.jpg",
@@ -132,7 +132,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 2,
+         "classement": 3,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -409,7 +409,32 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "rep_cr007_1",
+               "classement": 2,
+               "title": "La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
+               "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
+               "date": "2026-05-18T20:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Images/Affiche.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "Caméra sur le coté",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Cote/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Flux Principal",
+                     "description": "Caméra derrière le panier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Derriere/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [],
          "pubs": [
             {
