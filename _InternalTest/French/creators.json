@@ -424,13 +424,13 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "Caméra sur le coté",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test4/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Cote/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
                      "title": "Flux Principal",
                      "description": "Caméra derrière le panier",
-                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test5/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Derriere/playlist.m3u8"
                   }
                ]
             }
