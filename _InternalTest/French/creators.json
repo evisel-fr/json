@@ -89,9 +89,9 @@
             {
                "id": "rep_cr001_1",
                "classement": 5,
-               "title": "MORELLI VS SURDYN (8K + 3D)",
+               "title": "AJ VS Lisek (8K + 3D + PIP)",
                "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Morelli_vs_Surdyn.jpg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/AJ_vs_Lisek.jpg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra sur la cage",
@@ -100,7 +100,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
                   }
                ]
             }
@@ -434,9 +434,9 @@
             {
                "id": "rep_cr007_1",
                "classement": 2,
-               "title": "3La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
+               "title": "La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
                "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
-               "date": "2026-05-18T20:00:00+02:00",
+               "date": "2025-12-19T20:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Images/Affiche.jpg",
                "teaser": "",
                "stereo": true,
@@ -619,16 +619,16 @@
       {
          "id": "cr_011",
          "name": "Circuit Carole",
-         "description": "La chaîne officielle du célèbre Circuit Carole.",
+         "description": "La chaîne officielle du célèbre Circuit Carole de France.",
          "event_type": "sport",
-         "teaserVideo": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8",
+         "teaserVideo": "",
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "logo_2_1": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
-            "teaser_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_teaser.jpg"
+            "teaser_16_9": ""
          },
          "model3D": "",
          "classement": 11,
@@ -638,62 +638,7 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [
-            {
-               "id": "rep_cr011_1",
-               "classement": 4,
-               "title": "Session d'essaie vue circuit nord (8K + 3D)",
-               "description": "Coupe de France Promosport 2026",
-               "date": "2026-05-19T10:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_1.jpg",
-               "teaser": "",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra circuit",
-                     "description": "Vue pilote",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr011_2",
-               "classement": 100,
-               "title": "Session d'essaie vue circuit sud (8K + 3D)",
-               "description": "Coupe de France Promosport 2026",
-               "date": "2026-05-19T10:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_2.jpg",
-               "teaser": "",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Caméra circuit",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr011_3",
-               "classement": 10,
-               "title": "Camera dans le lieu de vie du circuit (8K + 3D)",
-               "description": "Coupe de France Promosport 2026",
-               "date": "2026-05-19T10:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_foule.jpg",
-               "teaser": "",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
+         "replays": [],
          "events": [],
          "pubs": [
             {
