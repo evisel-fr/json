@@ -43,7 +43,7 @@
             },
             {
                "id": "rep_cr000_2",
-               "classement": 8,
+               "classement": 100,
                "title": "Publicité Esteban Ocon X lEVAC (8K + 3D)",
                "date": "2026-04-30T12:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/JUMPR_VR/Images/LEVAC.jpg",
@@ -88,10 +88,10 @@
          "replays": [
             {
                "id": "rep_cr001_1",
-               "classement": 3,
-               "title": "AJ VS Lisek (8K + 3D + PIP)",
+               "classement": 5,
+               "title": "MORELLI VS SURDYN (8K + 3D)",
                "date": "2025-12-20T18:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/AJ_vs_Lisek.jpg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Morelli_vs_Surdyn.jpg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra sur la cage",
@@ -100,7 +100,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
                   }
                ]
             }
@@ -142,7 +142,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
-               "classement": 2,
+               "classement": 3,
                "title": "Legacy Fight Night (8K + 3D)",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
@@ -179,11 +179,11 @@
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
-            "logo_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
-            "logo_2_1": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
-            "couverture": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
-            "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
+            "logo_2_1": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
+            "couverture": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
+            "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg"
          },
          "model3D": "",
          "classement": 3,
@@ -199,7 +199,7 @@
                "classement": 7,
                "title": "LATRECHE VS CAVARRA (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpeg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra coin rouge",
@@ -213,7 +213,34 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_cr003_1",
+               "classement": 1,
+               "title": "Tek Fight 5 (8K + 2D + Multi POV)",
+               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
+               "location": "France",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
+               "teaser": "",
+               "onLive": true,
+               "start_time": "2026-05-23T19:30:00+02:00",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Tek Fight 5",
+                     "description": "En direct du gymnase Jesse Owens",
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Tek Fight 5",
+                     "description": "En direct du gymnase Jesse Owens",
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
@@ -250,7 +277,7 @@
          "replays": [
             {
                "id": "rep_cr004_1",
-               "classement": 6,
+               "classement": 8,
                "title": "RODRIGUEZ VS CABREL KEMEZEU (8K + 3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/100%Fight_8k/Images/Affiche.jpg",
@@ -304,7 +331,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
-               "classement": 5,
+               "classement": 9,
                "title": "Sparring Bakary Samake (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://i.ytimg.com/vi/Q7mGQt3f4lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0Jfdgk5Lz5_MkETvNP4vo7fh09Q",
@@ -358,7 +385,7 @@
          "replays": [
             {
                "id": "rep_cr006_1",
-               "classement": 4,
+               "classement": 10,
                "title": "Game Show 135ème anniversaire (8K + 3D)",
                "date": "2025-09-28T16:00:00+02:00",
                "thumbnail_16_9": "https://servettefc.ch/wp-content/uploads/2025/03/16-9-2-840x473.png",
@@ -409,7 +436,32 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "rep_cr007_1",
+               "classement": 2,
+               "title": "3La Rochelle vs Orléans Loiret Basket (8K + 3D + Multi POV)",
+               "description": "Extrait du match La Rochelle contre Orléans Loiret Basket",
+               "date": "2026-05-18T20:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/Images/Affiche.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "Caméra sur le coté",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test4/playlist.m3u8"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Flux Principal",
+                     "description": "Caméra derrière le panier",
+                     "url": "https://cdn.jumpr.fr/Orleans_Loiret_Basket/test5/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [],
          "pubs": [
             {
@@ -447,7 +499,7 @@
          "replays": [
             {
                "id": "rep_cr008_1",
-               "classement": 10,
+               "classement": 50,
                "title": "Edition 2025 Thonon (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Jeudi_8k/Images/Affiche.jpg",
@@ -573,16 +625,16 @@
       {
          "id": "cr_011",
          "name": "Circuit Carole",
-         "description": "La chaîne officielle du célèbre Circuit Carole de France.",
+         "description": "La chaîne officielle du célèbre Circuit Carole.",
          "event_type": "sport",
-         "teaserVideo": "",
+         "teaserVideo": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "logo_2_1": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/Circuit_Carole/Images/Logo.jpg",
-            "teaser_16_9": ""
+            "teaser_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_teaser.jpg"
          },
          "model3D": "",
          "classement": 11,
@@ -592,7 +644,62 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [],
+         "replays": [
+            {
+               "id": "rep_cr011_1",
+               "classement": 4,
+               "title": "Session d'essaie vue circuit nord (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
+               "date": "2026-05-19T10:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_1.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra circuit",
+                     "description": "Vue pilote",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr011_2",
+               "classement": 100,
+               "title": "Session d'essaie vue circuit sud (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
+               "date": "2026-05-19T10:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_2.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Caméra circuit",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr011_3",
+               "classement": 10,
+               "title": "Camera dans le lieu de vie du circuit (8K + 3D)",
+               "description": "Coupe de France Promosport 2026",
+               "date": "2026-05-19T10:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_foule.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Circuit_Carole/CoupeDeFrance_2026/trailer/playlist.m3u8"
+                  }
+               ]
+            }
+         ],
          "events": [],
          "pubs": [
             {
