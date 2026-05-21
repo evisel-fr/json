@@ -88,7 +88,7 @@
          "replays": [
             {
                "id": "rep_cr001_1",
-               "classement": 5,
+               "classement": 3,
                "title": "AJ VS Lisek (8K + 3D + PIP)",
                "date": "2025-12-20T18:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/AJ_vs_Lisek.jpg",
@@ -142,7 +142,7 @@
          "replays": [
             {
                "id": "rep_cr002_1",
-               "classement": 3,
+               "classement": 4,
                "title": "Legacy Fight Night (8K + 3D)",
                "description": "Extrait du gala",
                "date": "2025-11-10T21:00:00+02:00",
@@ -179,11 +179,11 @@
          "teaserVideo": "",
          "stereo": true,
          "pictures": {
-            "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
-            "logo_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
-            "logo_2_1": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
-            "couverture": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg",
-            "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg"
+            "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
+            "logo_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
+            "logo_2_1": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
+            "couverture": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg",
+            "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo2.jpg"
          },
          "model3D": "",
          "classement": 3,
@@ -199,7 +199,7 @@
                "classement": 7,
                "title": "LATRECHE VS CAVARRA (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpeg",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/Affiche.jpg",
                "teaser": "",
                "stereo": true,
                "description": "Combat entier, caméra coin rouge",
