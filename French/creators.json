@@ -25,7 +25,7 @@
          "replays": [
             {
                "id": "rep_cr000_1",
-               "classement": 9,
+               "classement": 8,
                "title": "Retour du vainqueur du Ballon d'Or dans son club d'enfance (8K + 2D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/JUMPR_VR/Images/Ousmane.jpg",
@@ -43,7 +43,7 @@
             },
             {
                "id": "rep_cr000_2",
-               "classement": 8,
+               "classement": 11,
                "title": "Publicité Esteban Ocon X lEVAC (8K + 3D)",
                "date": "2026-04-30T12:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/JUMPR_VR/Images/LEVAC.jpg",
@@ -462,7 +462,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 8,
+         "classement": 9,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -472,7 +472,7 @@
          "replays": [
             {
                "id": "rep_cr008_1",
-               "classement": 10,
+               "classement": 9,
                "title": "Edition 2025 Thonon (8K + 3D)",
                "date": "2025-12-19T17:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Jeudi_8k/Images/Affiche.jpg",
