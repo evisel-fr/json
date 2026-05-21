@@ -237,28 +237,7 @@
                ]
             }
          ],
-         "events": [
-            {
-               "id": "pln_104",
-               "classement": 1,
-               "title": "Tek Fight 5 (2D)",
-               "description": "Tek Fight will make its grand return to the Jesse Owens Gymnasium with an evening mixing MMA and Muay Thai fights.",
-               "location": "France",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/Images/Logo_chaines/TekFight.jpg",
-               "teaser": "",
-               "onLive": false,
-               "start_time": "2026-05-23T19:30:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Tek Fight 5",
-                     "description": "Live from the Jesse Owens Gymnasium",
-                     "url": "https://cdn.jumpr.fr/sample5.mp4"
-                  }
-               ]
-            }
-         ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
