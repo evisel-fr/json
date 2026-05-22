@@ -213,7 +213,34 @@
                ]
             }
          ],
-         "events": [],
+         "events": [
+            {
+               "id": "evt_cr003_1",
+               "classement": 1,
+               "title": "Tek Fight 5 (6K + 2D + Multi POV)",
+               "description": "Tek Fight will make its grand return to the Colisée de Meaux with an evening combining MMA and Muay Thai fights.",
+               "location": "France",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
+               "teaser": "",
+               "onLive": false,
+               "start_time": "2026-05-23T20:30:00+02:00",
+               "stereo": false,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Tek Fight 5",
+                     "description": "Red corner camera",
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                  },
+                  {
+                     "id": "stream_02",
+                     "title": "Tek Fight 5",
+                     "description": "Blue corner camera",
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                  }
+               ]
+            }
+         ],
          "pubs": [
             {
                "id": "pub_01",
