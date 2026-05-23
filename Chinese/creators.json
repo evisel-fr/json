@@ -215,14 +215,14 @@
          ],
          "events": [
             {
-               "id": "evt_cr003_1",
+               "id": "evt_cr003_2",
                "classement": 1,
                "title": "Tek Fight 5 (6K + 2D + 多视角)",
                "description": "Tek Fight 将在莫城斗兽场（Colisée de Meaux）盛大回归，带来一场融合综合格斗（MMA）和泰拳的搏击之夜。",
                "location": "法国",
                "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-05-23T20:30:00+02:00",
                "stereo": false,
                "streams": [
@@ -230,13 +230,13 @@
                      "id": "stream_01",
                      "title": "Tek Fight 5",
                      "description": "红角摄像机",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
                   },
                   {
                      "id": "stream_02",
                      "title": "Tek Fight 5",
                      "description": "蓝角摄像机",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
                   }
                ]
             }
