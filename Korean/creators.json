@@ -215,14 +215,14 @@
          ],
          "events": [
             {
-               "id": "evt_cr003_1",
+               "id": "evt_cr003_2",
                "classement": 1,
                "title": "Tek Fight 5 (6K + 2D + 멀티 POV)",
                "description": "Tek Fight가 콜리제 드 모(Colisée de Meaux)로 화려하게 복귀하며, 종합격투기(MMA)와 무에타이 경기가 결합된 저녁을 선사합니다.",
                "location": "프랑스",
                "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-05-23T20:30:00+02:00",
                "stereo": false,
                "streams": [
@@ -230,13 +230,13 @@
                      "id": "stream_01",
                      "title": "Tek Fight 5",
                      "description": "레드 코너 카메라",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
                   },
                   {
                      "id": "stream_02",
                      "title": "Tek Fight 5",
                      "description": "블루 코너 카메라",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
                   }
                ]
             }
