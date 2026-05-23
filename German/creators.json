@@ -215,14 +215,14 @@
          ],
          "events": [
             {
-               "id": "evt_cr003_1",
+               "id": "evt_cr003_2",
                "classement": 1,
                "title": "Tek Fight 5 (6K + 2D + Multi POV)",
                "description": "Tek Fight feiert seine große Rückkehr ins Colisée de Meaux mit einem Abend, der MMA- und Muay-Thai-Kämpfe vereint.",
                "location": "Frankreich",
                "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
                "teaser": "",
-               "onLive": false,
+               "onLive": true,
                "start_time": "2026-05-23T20:30:00+02:00",
                "stereo": false,
                "streams": [
@@ -230,13 +230,13 @@
                      "id": "stream_01",
                      "title": "Tek Fight 5",
                      "description": "Kamera in der roten Ecke",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
                   },
                   {
                      "id": "stream_02",
                      "title": "Tek Fight 5",
                      "description": "Kamera in der blauen Ecke",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
                   }
                ]
             }
