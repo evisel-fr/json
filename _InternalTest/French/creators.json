@@ -211,36 +211,33 @@
                      "url": "https://cdn.jumpr.fr/TekFight/Tekfight_1/playlist.m3u8"
                   }
                ]
-            }
-         ],
-         "events": [
+            },
             {
-               "id": "evt_cr003_1",
-               "classement": 1,
-               "title": "Tek Fight 5 (8K + 2D + Multi POV)",
-               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
-               "location": "France",
+               "id": "rep_cr003_2",
+               "classement": 7,
+               "title": "MOHAMED GALAOUI  VS CHITHAM PAKKAPONG (8K + 3D + MULTI POV)",
+               "date": "2026-05-2319T23:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
                "teaser": "",
-               "onLive": true,
-               "start_time": "2026-05-23T19:30:00+02:00",
-               "stereo": false,
+               "stereo": true,
+               "description": "Combat entier",
                "streams": [
                   {
                      "id": "stream_01",
-                     "title": "Tek Fight 5",
-                     "description": "En direct du gymnase Jesse Owens",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera1"
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_edition_5/test/playlist.m3u8"
                   },
                   {
                      "id": "stream_02",
-                     "title": "Tek Fight 5",
-                     "description": "En direct du gymnase Jesse Owens",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/TekFight/Tekfight_edition_5/test2/playlist.m3u8"
                   }
                ]
             }
          ],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
