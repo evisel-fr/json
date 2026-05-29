@@ -618,7 +618,7 @@
                "teaser": "",
                "onLive": true,
                "start_time": "2026-05-23T19:30:00+02:00",
-               "stereo": false,
+               "stereo": true,
                "streams": [
                   {
                      "id": "stream_01",
