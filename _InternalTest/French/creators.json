@@ -606,54 +606,8 @@
             "followers": 0,
             "subscribers": 0
          },
-         "replays": [
-            {
-               "id": "rep_cr0010_1",
-               "classement": 1,
-               "title": "PSG VS NANTES",
-               "date": "2026-05-27T18:00:00+02:00",
-               "thumbnail_16_9": "https://images.typeform.com/images/gQvzVMDvQpRH/image/default",
-               "teaser": "",
-               "stereo": true,
-               "description": "Match entier",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/Morely_vs_Surdyn_high_test/playlist.m3u8"
-                  }
-               ]
-            }
-         ],
-          "events": [
-            {
-               "id": "evt_cr010_1",
-               "classement": 1,
-               "title": "Tek Fight 5 (8K + 2D + Multi POV)",
-               "description": "Tek Fight fera son grand retour au gymnase Jesse Owens avec une soirée mêlant combats de MMA et de Muay Thai.",
-               "location": "France",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/TekFight/Images/affiche_tekfight_event_1.jpeg",
-               "teaser": "",
-               "onLive": true,
-               "start_time": "2026-05-23T19:30:00+02:00",
-               "stereo": true,
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "Tek Fight 5",
-                     "description": "En direct du gymnase Jesse Owens",
-                     "url": "https://cdn.jumpr.fr/LNH/PSG_vs_Nantes/test/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "Tek Fight 5",
-                     "description": "En direct du gymnase Jesse Owens",
-                     "url": "rtmp://tencentplay.evisel-playback.com/live/camera2"
-                  }
-               ]
-            }
-         ],
+         "replays": [],
+          "events": [],
          "pubs": [
             {
                "id": "pub_01",
@@ -704,9 +658,27 @@
                      "url": "https://cdn.jumpr.fr/LNH/PSG_vs_Nantes/test2/playlist.m3u8"
                   }
                ]
+            },
+            {
+               "id": "rep_cr0011_2",
+               "classement": 1,
+               "title": "Match PSG VS NANTES",
+               "date": "2026-05-27T18:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg ",
+               "teaser": "",
+               "stereo": true,
+               "description": "Revivez le match décisif PSG VS Nantes qui a couronné le champion de la saison et replongez dans tous les moments forts de cette rencontre historique.",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/LNH/PSG_vs_Nantes/test2/playlist.m3u8"
+                  }
+               ]
             }
          ],
-          "events": [],
+         "events": [],
          "pubs": [
             {
                "id": "pub_01",
