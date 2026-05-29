@@ -550,7 +550,7 @@
          "replays": [
             {
                "id": "rep_cr009_1",
-               "classement": 1,
+               "classement": 10,
                "title": "Top 12 2026 du championnat de France de badminton (8K + 3D + Multi POV)",
                "description": "Demi-finale – Badminton Club Fos vs Le Volant Airois",
                "date": "2026-05-18T18:00:00+02:00",
@@ -661,7 +661,7 @@
             },
             {
                "id": "rep_cr0011_2",
-               "classement": 1,
+               "classement": 2,
                "title": "Match PSG VS NANTES",
                "date": "2026-05-27T18:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg ",
