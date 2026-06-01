@@ -660,6 +660,24 @@
                ]
             },
             {
+               "id": "rep_cr0011_3",
+               "classement": 1,
+               "title": "MistikaMatch gala de handball à l'accor arena",
+               "date": "2026-05-27T18:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/Match_gala.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Le match de Gala à l’accor arena avec la presence de PSG Légendes, anciens athlètes de haut niveau, médias et créateurs de contenus",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_mistika/playlist.m3u8"
+                  }
+               ]
+            },
+            {
                "id": "rep_cr0011_2",
                "classement": 2,
                "title": "60fpsMatch PSG VS NANTES",
