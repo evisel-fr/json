@@ -624,13 +624,14 @@
          "name": "PSG",
          "description": "Découvrez les coulisses du Paris Saint-Germain en réalité virtuelle et vivez le quotidien du club à travers des contenus exclusifs, des entraînements aux grands événements. Plongez au plus près des joueurs, du staff et de l'ambiance unique du PSG grâce à une expérience immersive inédite sur JUMPR VR.",
          "event_type": "sport",
+         "teaserVideo": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_trailer/playlist.m3u8",
          "stereo": true,
          "pictures": {
             "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/Logo.jpg",
             "logo_16_9": "https://cdn.jumpr.fr/PSG/Images/Logo.jpg",
             "logo_2_1": "https://cdn.jumpr.fr/PSG/Images/Logo.jpg",
             "couverture": "https://cdn.jumpr.fr/PSG/Images/Logo.jpg",
-            "teaser_16_9": "https://cdn.jumpr.fr/PSG/Images/Logo.jpg"
+            "teaser_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg"
          },
          "model3D": "https://cdn.jumpr.fr/PSG/Images/PSG_3D.glb",
          "classement": 10,
@@ -790,7 +791,7 @@
                "classement": 2,
                "title": "60fpsMatch PSG VS NANTES",
                "date": "2026-05-27T18:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg ",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg",
                "teaser": "",
                "stereo": true,
                "description": "Revivez le match décisif PSG VS Nantes qui a couronné le champion de la saison et replongez dans tous les moments forts de cette rencontre historique.",
