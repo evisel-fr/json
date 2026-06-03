@@ -651,7 +651,7 @@
             {
                "id": "rep_cr0011_1",
                "classement": 2,
-               "title": "povMatch Gala PSG Légendes",
+               "title": "montagepovMatch Gala PSG Légendes",
                "date": "2026-05-27T18:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/Match_gala.jpg",
                "teaser": "",
@@ -662,7 +662,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_multipov/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_montage_pov/playlist.m3u8"
                   }
                ]
             },
