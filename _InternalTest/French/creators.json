@@ -690,15 +690,9 @@
                   },
                   {
                      "id": "stream_03",
-                     "title": "sans premiere pro",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/newoptical_30fps_topaz/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_04",
-                     "title": "multipov",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_multipov/playlist.m3u8"
+                     "title": "nyx+proteus",
+                     "description": "nyx+proteus",
+                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/nyx+proteus/playlist.m3u8"
                   }
                ]
             }
