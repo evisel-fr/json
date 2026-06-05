@@ -100,13 +100,7 @@
                      "id": "stream_01",
                      "title": "",
                      "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_topaz/playlist.m3u8"
-                  },
-                  {
-                     "id": "stream_02",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_fini/playlist.m3u8"
+                     "url": "https://cdn.jumpr.fr/KSW_8k/AJ_vs_Lisek_topaz2/playlist.m3u8"
                   }
                ]
             }
@@ -651,25 +645,7 @@
             {
                "id": "rep_cr0011_1",
                "classement": 2,
-               "title": "montagepovMatch Gala PSG Légendes",
-               "date": "2026-05-27T18:00:00+02:00",
-               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/Match_gala.jpg",
-               "teaser": "",
-               "stereo": true,
-               "description": "Le match de Gala à l’accor arena avec la presence de PSG Légendes, anciens athlètes de haut niveau, médias et créateurs de contenus",
-               "streams": [
-                  {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/test_montage_pov/playlist.m3u8"
-                  }
-               ]
-            },
-            {
-               "id": "rep_cr0011_2",
-               "classement": 1,
-               "title": "version_finalExtrait fin de match PSG VS NANTES",
+               "title": "sans ia Extrait fin de match PSG VS NANTES",
                "date": "2026-05-27T18:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg",
                "teaser": "",
@@ -679,13 +655,25 @@
                   {
                      "id": "stream_01",
                      "title": "",
-                     "description": "avec premier pro",
+                     "description": "",
                      "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/version_final/playlist.m3u8"
-                  },
+                  }
+               ]
+            },
+            {
+               "id": "rep_cr0011_2",
+               "classement": 1,
+               "title": "avec ia Extrait fin de match PSG VS NANTES",
+               "date": "2026-05-27T18:00:00+02:00",
+               "thumbnail_16_9": "https://cdn.jumpr.fr/PSG/Images/affiche_psg_vs_nantes.jpg",
+               "teaser": "",
+               "stereo": true,
+               "description": "Revivez la fin du match décisif PSG VS Nantes qui a couronné le champion de la saison et replongez dans tous les moments forts de cette rencontre historique.",
+               "streams": [
                   {
-                     "id": "stream_02",
+                     "id": "stream_01",
                      "title": "",
-                     "description": "avec premier pro + topaz",
+                     "description": "",
                      "url": "https://cdn.jumpr.fr/PSG/PSG_vs_Nantes/version_final_topaz/playlist.m3u8"
                   }
                ]
