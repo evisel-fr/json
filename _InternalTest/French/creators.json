@@ -577,6 +577,42 @@
                      "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_mediane/playlist.m3u8"
                   }
                ]
+            },
+             {
+               "id": "rep_cr009_2",
+               "classement": 10,
+               "title": "Top 12 2026 TEST 1",
+               "description": "Demi-finale – Badminton Club Fos vs Le Volant Airois",
+               "date": "2026-05-18T18:00:00+02:00",
+               "thumbnail_16_9": "https://levallois-sporting-club.com/wp-content/uploads/2026/03/Ecran-1920x1080-TOP12.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "Camera sur le coté",
+                     "description": "Vue centrale",
+                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_cote/playlist.m3u8"
+                  }
+               ]
+            },
+             {
+               "id": "rep_cr009_3",
+               "classement": 10,
+               "title": "Top 12 2026 TEST 2",
+               "description": "Demi-finale – Badminton Club Fos vs Le Volant Airois",
+               "date": "2026-05-18T18:00:00+02:00",
+               "thumbnail_16_9": "https://levallois-sporting-club.com/wp-content/uploads/2026/03/Ecran-1920x1080-TOP12.jpg",
+               "teaser": "",
+               "stereo": true,
+               "streams": [
+                  {
+                    "id": "stream_02",
+                     "title": "Camera médiane",
+                     "description": "Vue centrale",
+                     "url": "https://cdn.jumpr.fr/FFBAD/Top12/Camera_mediane/playlist.m3u8"
+                  }
+               ]
             }
          ],
          "events": [],
