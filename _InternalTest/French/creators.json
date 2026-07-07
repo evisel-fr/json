@@ -78,7 +78,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/KSW_8k/Images/Affiche.jpg"
          },
          "model3D": "https://cloud.inod.solutions/test/jumpr/KSW.glb",
-         "classement": 1,
+         "classement": 4,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -132,7 +132,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/FightNation/Images/Logo.jpg"
          },
          "model3D": "https://cdn.jumpr.fr/Logo_3D/Meshy_AI_Fight_Nation_Logo_0317231432_texture.glb",
-         "classement": 2,
+         "classement": 6,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -186,7 +186,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/TekFight/Images/Logo.jpg"
          },
          "model3D": "",
-         "classement": 3,
+         "classement": 7,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -240,7 +240,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/100%Fight_8k/Images/Logo.jpg"
          },
          "model3D": "",
-         "classement": 4,
+         "classement": 8,
          "colorHexa": "#FF0055",
          "verified": true,
          "metrics": {
@@ -294,7 +294,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/Bakary_8k/Images/Logo.jpg"
          },
          "model3D": "",
-         "classement": 5,
+         "classement": 11,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -348,7 +348,7 @@
             "teaser_16_9": "https://cdn.jumpr.fr/Servette_FC_8k/Images/Logo.jpg"
          },
          "model3D": "",
-         "classement": 6,
+         "classement": 5,
          "colorHexa": "#FF3344",
          "verified": true,
          "metrics": {
@@ -402,7 +402,7 @@
             "teaser_16_9": "https://bocir-medias-prod.s3.fr-par.scw.cloud/medias/Vsj0LZpM34/image/vibration_orleans_loiret_basket1750007684933.jpg"
          },
          "model3D": "",
-         "classement": 7,
+         "classement": 3,
          "colorHexa": "#FFFF00",
          "verified": true,
          "metrics": {
@@ -462,7 +462,7 @@
             "teaser_16_9": "https://lesjeudiselectro.com/wp-content/uploads/2023/06/Logo-JE-RS.jpg"
          },
          "model3D": "",
-         "classement": 8,
+         "classement": 9,
          "colorHexa": "#ffffff",
          "verified": true,
          "metrics": {
@@ -522,7 +522,7 @@
             "teaser_16_9": ""
          },
          "model3D": "https://cdn.jumpr.fr/FFBAD/Images/ffbad_3d.glb",
-         "classement": 9,
+         "classement": 2,
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
@@ -616,7 +616,7 @@
             "teaser_16_9": ""
          },
          "model3D": "https://cdn.jumpr.fr/PSG/Images/PSG_3D.glb",
-         "classement": 10,
+         "classement": 1,
          "colorHexa": "#0077FF",
          "verified": true,
          "metrics": {
