@@ -481,12 +481,6 @@
                "description": "Extrait caméra DJ",
                "streams": [
                   {
-                     "id": "stream_01",
-                     "title": "",
-                     "description": "",
-                     "url": "https://cdn.jumpr.fr/Jeudi_8k/playlist.m3u8"
-                  },
-                  {
                      "id": "stream_02",
                      "title": "",
                      "description": "",
