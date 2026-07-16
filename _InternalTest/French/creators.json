@@ -686,7 +686,7 @@
                "date": "2026-05-19T10:00:00+02:00",
                "thumbnail_16_9": "https://cdn.jumpr.fr/Circuit_Carole/Images/Affiche_circuit_1.jpg",
                "teaser": "",
-               "stereo": true,
+               "stereo": false,
                "streams": [
                   {
                      "id": "stream_01",
