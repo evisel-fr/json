@@ -58,7 +58,25 @@
               "url": "https://cdn.jumpr.fr/Pub_Esteban_Levac/test11/playlist.m3u8"
             }
           ]
-        }
+        },
+        {
+               "id": "rep_cr000_3",
+               "classement": 9,
+               "title": "TEST 180",
+               "date": "2025-12-19T17:00:00+02:00",
+               "thumbnail_16_9": "https://www.channel6.dk/mainsite/Downloads/Test%20patterns%20HD/EBUTEST_HD_EDIT2_16-9_01.jpg",
+               "teaser": "",
+               "stereo": false,
+               "description": "Extrait caméra scène",
+               "streams": [
+                  {
+                     "id": "stream_01",
+                     "title": "",
+                     "description": "",
+                     "url": "https://cdn.jumpr.fr/Test_180°/hls/playlist.m3u8"
+                  }
+               ]
+            }
       ],
       "events": [],
       "pubs": []
